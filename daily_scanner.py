@@ -59,12 +59,23 @@ CANSLIM_CFG = {
 # HELPERS (same as full scanner, compacted)
 # ================================================================
 def load_universe():
+    import requests
+    from io import StringIO
     url = 'https://archives.nseindia.com/content/equities/EQUITY_L.csv'
-    df = pd.read_csv(url).dropna(subset=['SYMBOL'])
-    for col in [' SERIES', 'SERIES']:
-        if col in df.columns:
-            df = df[df[col].str.strip() == 'EQ']; break
-    return [s.strip() + '.NS' for s in df['SYMBOL'].astype(str).tolist()]
+    for attempt in range(3):
+        try:
+            resp = requests.get(url, timeout=10)
+            df = pd.read_csv(StringIO(resp.text)).dropna(subset=['SYMBOL'])
+            for col in [' SERIES', 'SERIES']:
+                if col in df.columns:
+                    df = df[df[col].str.strip() == 'EQ']; break
+            return [s.strip() + '.NS' for s in df['SYMBOL'].astype(str).tolist()]
+        except Exception as e:
+            if attempt < 2:
+                print(f'Universe attempt {attempt+1}: {e}')
+                continue
+            else:
+                raise RuntimeError('Cannot load NSE stock list')
 
 def dl(symbol, interval='1d', period=PERIOD):
     try:
