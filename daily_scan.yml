@@ -1,0 +1,39 @@
+name: NSE Daily Pattern Scanner
+
+on:
+  schedule:
+    # Runs at 4:15 PM IST (10:45 AM UTC) — after market close
+    - cron: '45 10 * * 1-5'
+  workflow_dispatch:  # manual trigger
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Install dependencies
+      run: |
+        pip install yfinance pandas numpy scipy openpyxl requests
+    
+    - name: Run scanner
+      env:
+        TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+        TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+        SCANNER_OUTPUT: ./output
+      run: |
+        python daily_scanner.py --telegram
+    
+    - name: Upload results
+      uses: actions/upload-artifact@v4
+      with:
+        name: scan-results-${{ github.run_number }}
+        path: ./output/
+        retention-days: 90

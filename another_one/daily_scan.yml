@@ -1,0 +1,41 @@
+name: NSE Pattern Scanner
+
+on:
+  schedule:
+    - cron: "45 10 * * 1-5"   # 4:15 PM IST (10:45 UTC), Mon–Fri
+  workflow_dispatch:            # manual trigger from Actions tab
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install yfinance pandas numpy scipy requests
+
+      - name: Run scanner
+        env:
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHAT_ID:   ${{ secrets.TG_CHAT_ID }}
+        run: python scanner.py --telegram
+
+      - name: Upload CSV output
+        uses: actions/upload-artifact@v4
+        with:
+          name: scan-${{ github.run_number }}
+          path: output/
+          retention-days: 90
+
+      - name: Weekend — add weekly scan
+        if: github.event_name == 'schedule' && startsWith(github.event.schedule, '0 3 * * 6')
+        env:
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHAT_ID:   ${{ secrets.TG_CHAT_ID }}
+        run: python scanner.py --telegram --weekly

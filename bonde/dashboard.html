@@ -1,0 +1,844 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MOMENTUM SCANNER • NSE/BSE</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400&family=Rajdhani:wght@300;400;500;600;700&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg:       #090c10;
+    --bg2:      #0e1318;
+    --bg3:      #141b22;
+    --border:   #1e2d3d;
+    --border2:  #243344;
+    --green:    #00ff9f;
+    --green2:   #00cc7a;
+    --red:      #ff3d5a;
+    --amber:    #ffb800;
+    --blue:     #00a8ff;
+    --purple:   #a855f7;
+    --text:     #c8d8e8;
+    --text2:    #7a92a8;
+    --text3:    #4a6070;
+    --mono:     'Space Mono', monospace;
+    --sans:     'Rajdhani', sans-serif;
+    --glow-g:   0 0 20px rgba(0,255,159,0.3);
+    --glow-r:   0 0 20px rgba(255,61,90,0.3);
+    --glow-b:   0 0 20px rgba(0,168,255,0.3);
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--sans);
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+
+  /* GRID BACKGROUND */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background-image:
+      linear-gradient(rgba(0,255,159,0.03) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(0,255,159,0.03) 1px, transparent 1px);
+    background-size: 40px 40px;
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  /* SCANLINES */
+  body::after {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background: repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 2px,
+      rgba(0,0,0,0.15) 2px,
+      rgba(0,0,0,0.15) 4px
+    );
+    pointer-events: none;
+    z-index: 1;
+  }
+
+  .container { position: relative; z-index: 2; max-width: 1600px; margin: 0 auto; padding: 0 20px; }
+
+  /* ── HEADER ── */
+  header {
+    border-bottom: 1px solid var(--border);
+    padding: 16px 20px;
+    background: rgba(9,12,16,0.9);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    backdrop-filter: blur(10px);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+  }
+
+  .logo-block {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+  }
+
+  .logo-icon {
+    width: 40px;
+    height: 40px;
+    border: 2px solid var(--green);
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: var(--mono);
+    font-size: 18px;
+    color: var(--green);
+    box-shadow: var(--glow-g);
+    animation: pulse-glow 3s ease-in-out infinite;
+  }
+
+  @keyframes pulse-glow {
+    0%, 100% { box-shadow: 0 0 10px rgba(0,255,159,0.2); }
+    50%       { box-shadow: 0 0 25px rgba(0,255,159,0.5); }
+  }
+
+  .logo-text { line-height: 1; }
+  .logo-title {
+    font-family: var(--mono);
+    font-size: 15px;
+    font-weight: 700;
+    color: var(--green);
+    letter-spacing: 3px;
+    text-transform: uppercase;
+  }
+  .logo-sub {
+    font-size: 11px;
+    color: var(--text3);
+    letter-spacing: 2px;
+    margin-top: 2px;
+    font-family: var(--mono);
+  }
+
+  .header-status {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+  }
+
+  .market-badge {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 6px 14px;
+    border-radius: 4px;
+    font-family: var(--mono);
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    border: 1px solid;
+  }
+  .market-badge.open  { border-color: var(--green); color: var(--green); background: rgba(0,255,159,0.05); }
+  .market-badge.closed { border-color: var(--red); color: var(--red); background: rgba(255,61,90,0.05); }
+
+  .dot {
+    width: 7px; height: 7px;
+    border-radius: 50%;
+    animation: blink 1.4s ease-in-out infinite;
+  }
+  .dot.green { background: var(--green); box-shadow: 0 0 8px var(--green); }
+  .dot.red   { background: var(--red); }
+
+  @keyframes blink {
+    0%, 100% { opacity: 1; }
+    50%       { opacity: 0.2; }
+  }
+
+  .time-display {
+    font-family: var(--mono);
+    font-size: 13px;
+    color: var(--text2);
+  }
+
+  /* ── STATS BAR ── */
+  .stats-bar {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1px;
+    background: var(--border);
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 24px;
+  }
+
+  .stat-cell {
+    background: var(--bg);
+    padding: 14px 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+  .stat-label {
+    font-family: var(--mono);
+    font-size: 9px;
+    letter-spacing: 2px;
+    color: var(--text3);
+    text-transform: uppercase;
+  }
+  .stat-value {
+    font-family: var(--mono);
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 1;
+  }
+  .stat-value.green  { color: var(--green); }
+  .stat-value.amber  { color: var(--amber); }
+  .stat-value.blue   { color: var(--blue); }
+  .stat-value.purple { color: var(--purple); }
+
+  /* ── CONTROLS ── */
+  .controls {
+    padding: 0 20px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+
+  .filter-btn {
+    padding: 7px 16px;
+    border-radius: 3px;
+    border: 1px solid var(--border2);
+    background: var(--bg2);
+    color: var(--text2);
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 1px;
+    cursor: pointer;
+    transition: all 0.15s;
+    text-transform: uppercase;
+  }
+  .filter-btn:hover { border-color: var(--green); color: var(--green); background: rgba(0,255,159,0.04); }
+  .filter-btn.active { border-color: var(--green); color: var(--green); background: rgba(0,255,159,0.08); box-shadow: var(--glow-g); }
+
+  .scan-btn {
+    padding: 7px 20px;
+    border-radius: 3px;
+    border: 1px solid var(--amber);
+    background: rgba(255,184,0,0.08);
+    color: var(--amber);
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 2px;
+    cursor: pointer;
+    transition: all 0.15s;
+    margin-left: auto;
+  }
+  .scan-btn:hover { background: rgba(255,184,0,0.15); box-shadow: 0 0 15px rgba(255,184,0,0.2); }
+  .scan-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+
+  .search-box {
+    padding: 7px 14px;
+    border-radius: 3px;
+    border: 1px solid var(--border2);
+    background: var(--bg2);
+    color: var(--text);
+    font-family: var(--mono);
+    font-size: 12px;
+    width: 160px;
+    outline: none;
+  }
+  .search-box:focus { border-color: var(--green); }
+  .search-box::placeholder { color: var(--text3); }
+
+  /* ── SIGNAL CARDS ── */
+  .signals-grid {
+    padding: 0 20px 40px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(440px, 1fr));
+    gap: 12px;
+  }
+
+  .signal-card {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    overflow: hidden;
+    transition: all 0.2s;
+    cursor: pointer;
+    position: relative;
+  }
+  .signal-card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 2px;
+  }
+  .signal-card.mb::before  { background: linear-gradient(90deg, var(--green), var(--green2)); }
+  .signal-card.ep::before  { background: linear-gradient(90deg, var(--amber), #ff6b00); }
+  .signal-card.ttt::before { background: linear-gradient(90deg, var(--blue), var(--purple)); }
+
+  .signal-card:hover {
+    border-color: var(--border2);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 30px rgba(0,0,0,0.4);
+  }
+
+  .card-header {
+    padding: 14px 16px 10px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 12px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .card-symbol {
+    font-family: var(--mono);
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    letter-spacing: 1px;
+  }
+  .card-pattern {
+    font-size: 12px;
+    color: var(--text2);
+    margin-top: 3px;
+    font-family: var(--mono);
+    letter-spacing: 1px;
+  }
+
+  .card-score {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+  }
+  .score-circle {
+    width: 46px; height: 46px;
+    border-radius: 50%;
+    border: 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: var(--mono);
+    font-size: 14px;
+    font-weight: 700;
+  }
+  .score-circle.high { border-color: var(--green); color: var(--green); }
+  .score-circle.med  { border-color: var(--amber); color: var(--amber); }
+  .score-circle.low  { border-color: var(--text3); color: var(--text3); }
+  .score-label { font-size: 9px; color: var(--text3); font-family: var(--mono); letter-spacing: 1px; }
+
+  .card-body {
+    padding: 12px 16px;
+  }
+
+  .price-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 8px;
+    margin-bottom: 12px;
+  }
+
+  .price-item { display: flex; flex-direction: column; gap: 3px; }
+  .price-label {
+    font-family: var(--mono);
+    font-size: 9px;
+    letter-spacing: 1.5px;
+    color: var(--text3);
+    text-transform: uppercase;
+  }
+  .price-value {
+    font-family: var(--mono);
+    font-size: 13px;
+    font-weight: 700;
+  }
+  .price-value.entry  { color: var(--text); }
+  .price-value.target { color: var(--green); }
+  .price-value.stop   { color: var(--red); }
+  .price-value.hold   { color: var(--blue); }
+
+  .desc-text {
+    font-size: 12px;
+    color: var(--text2);
+    line-height: 1.5;
+    margin-bottom: 10px;
+    padding: 8px 10px;
+    background: rgba(0,0,0,0.2);
+    border-radius: 3px;
+    border-left: 2px solid var(--border2);
+    font-family: 'Share Tech Mono', monospace;
+  }
+
+  .card-tags {
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+  }
+  .tag {
+    padding: 2px 8px;
+    border-radius: 2px;
+    font-family: var(--mono);
+    font-size: 9px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    border: 1px solid;
+  }
+  .tag.buy      { border-color: var(--green); color: var(--green); background: rgba(0,255,159,0.05); }
+  .tag.vol      { border-color: var(--blue); color: var(--blue); background: rgba(0,168,255,0.05); }
+  .tag.catalyst { border-color: var(--amber); color: var(--amber); background: rgba(255,184,0,0.05); }
+  .tag.tf       { border-color: var(--text3); color: var(--text3); }
+  .tag.risk     { border-color: var(--red); color: var(--red); background: rgba(255,61,90,0.05); }
+
+  /* ── EMPTY STATE ── */
+  .empty-state {
+    grid-column: 1 / -1;
+    text-align: center;
+    padding: 80px 20px;
+    color: var(--text3);
+  }
+  .empty-state .big { font-size: 48px; margin-bottom: 16px; }
+  .empty-state p { font-family: var(--mono); font-size: 13px; margin-bottom: 8px; }
+
+  /* ── LOADING ── */
+  .loading-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(9,12,16,0.9);
+    z-index: 200;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+    display: none;
+  }
+  .loading-overlay.show { display: flex; }
+  .loader-text {
+    font-family: var(--mono);
+    font-size: 14px;
+    color: var(--green);
+    letter-spacing: 3px;
+  }
+  .progress-bar {
+    width: 300px;
+    height: 3px;
+    background: var(--border);
+    border-radius: 2px;
+    overflow: hidden;
+  }
+  .progress-fill {
+    height: 100%;
+    background: var(--green);
+    box-shadow: var(--glow-g);
+    animation: progress 2s ease-in-out infinite;
+    border-radius: 2px;
+  }
+  @keyframes progress {
+    0%   { width: 0%; margin-left: 0; }
+    50%  { width: 80%; }
+    100% { width: 0%; margin-left: 100%; }
+  }
+
+  /* ── SCROLLBAR ── */
+  ::-webkit-scrollbar { width: 6px; }
+  ::-webkit-scrollbar-track { background: var(--bg); }
+  ::-webkit-scrollbar-thumb { background: var(--border2); border-radius: 3px; }
+  ::-webkit-scrollbar-thumb:hover { background: var(--text3); }
+
+  /* ── TOAST ── */
+  .toast {
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    padding: 12px 20px;
+    background: var(--bg3);
+    border: 1px solid var(--green);
+    border-radius: 4px;
+    font-family: var(--mono);
+    font-size: 12px;
+    color: var(--green);
+    z-index: 300;
+    transform: translateY(100px);
+    transition: transform 0.3s;
+    box-shadow: var(--glow-g);
+  }
+  .toast.show { transform: translateY(0); }
+
+  /* ── LEGEND ── */
+  .legend-bar {
+    padding: 12px 20px;
+    background: var(--bg2);
+    border-top: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    gap: 24px;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+  }
+  .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 12px;
+    color: var(--text2);
+    font-family: var(--mono);
+  }
+  .legend-dot { width: 10px; height: 3px; border-radius: 1px; }
+
+  @media (max-width: 768px) {
+    .signals-grid { grid-template-columns: 1fr; }
+    .stats-bar { grid-template-columns: repeat(2, 1fr); }
+    .price-grid { grid-template-columns: 1fr 1fr; }
+    header { flex-wrap: wrap; }
+  }
+</style>
+</head>
+<body>
+
+<!-- LOADING OVERLAY -->
+<div class="loading-overlay" id="loadingOverlay">
+  <div class="loader-text">SCANNING NSE STOCKS...</div>
+  <div class="progress-bar"><div class="progress-fill"></div></div>
+  <div style="font-family:var(--mono);font-size:11px;color:var(--text3)">ANALYZING MOMENTUM + EPISODIC PATTERNS</div>
+</div>
+
+<!-- TOAST -->
+<div class="toast" id="toast"></div>
+
+<!-- HEADER -->
+<header>
+  <div class="logo-block">
+    <div class="logo-icon">⚡</div>
+    <div class="logo-text">
+      <div class="logo-title">MOMENTUM SCANNER</div>
+      <div class="logo-sub">NSE · BSE · STOCKBEE METHOD</div>
+    </div>
+  </div>
+  <div class="header-status">
+    <div class="time-display" id="clockDisplay">--:--:--</div>
+    <div class="market-badge closed" id="marketBadge">
+      <div class="dot red" id="marketDot"></div>
+      <span id="marketText">MARKET CLOSED</span>
+    </div>
+  </div>
+</header>
+
+<!-- STATS BAR -->
+<div class="stats-bar">
+  <div class="stat-cell">
+    <div class="stat-label">Total Signals</div>
+    <div class="stat-value green" id="statTotal">—</div>
+  </div>
+  <div class="stat-cell">
+    <div class="stat-label">Momentum Burst</div>
+    <div class="stat-value amber" id="statMB">—</div>
+  </div>
+  <div class="stat-cell">
+    <div class="stat-label">Episodic Pivot</div>
+    <div class="stat-value blue" id="statEP">—</div>
+  </div>
+  <div class="stat-cell">
+    <div class="stat-label">With Catalyst</div>
+    <div class="stat-value purple" id="statCAT">—</div>
+  </div>
+</div>
+
+<div class="container">
+  <!-- LEGEND -->
+  <div class="legend-bar">
+    <div class="legend-item">
+      <div class="legend-dot" style="background:var(--green)"></div>
+      🚀 Momentum Burst — 3-5 day burst, 8-20% target
+    </div>
+    <div class="legend-item">
+      <div class="legend-dot" style="background:var(--amber)"></div>
+      ⚡ Episodic Pivot — Catalyst gap, 15-30% target
+    </div>
+    <div class="legend-item">
+      <div class="legend-dot" style="background:var(--blue)"></div>
+      📦 TTT Breakout — Tight base breakout, 8-15% target
+    </div>
+    <div class="legend-item" style="margin-left:auto;">
+      <span style="color:var(--text3);font-size:11px;">Score 80+ = High Quality | 60+ = Watch</span>
+    </div>
+  </div>
+
+  <!-- CONTROLS -->
+  <div class="controls">
+    <input class="search-box" id="searchBox" placeholder="SEARCH SYMBOL..." oninput="filterCards()">
+    <button class="filter-btn active" id="filterAll" onclick="setFilter('all', this)">ALL</button>
+    <button class="filter-btn" id="filterMB"  onclick="setFilter('momentum_burst', this)">MOMENTUM BURST</button>
+    <button class="filter-btn" id="filterEP"  onclick="setFilter('episodic_pivot', this)">EPISODIC PIVOT</button>
+    <button class="filter-btn" id="filterTTT" onclick="setFilter('tight_consolidation', this)">TTT</button>
+    <button class="filter-btn" id="filterCAT" onclick="setFilter('catalyst', this)">🎯 CATALYST</button>
+    <button class="scan-btn" id="scanBtn" onclick="triggerScan()">▶ RUN SCAN</button>
+  </div>
+
+  <!-- SIGNALS GRID -->
+  <div class="signals-grid" id="signalsGrid">
+    <div class="empty-state">
+      <div class="big">📡</div>
+      <p>NO SCAN DATA LOADED</p>
+      <p style="color:var(--text3)">Click "RUN SCAN" to fetch live signals from NSE</p>
+      <p style="color:var(--text3);margin-top:8px;font-size:10px;">Or run: python scanner_engine.py → then python api_server.py</p>
+    </div>
+  </div>
+</div>
+
+<script>
+// ─── STATE ───
+let allResults   = [];
+let activeFilter = 'all';
+const API_BASE   = 'http://localhost:5000';
+let useLocalData = false;
+
+// ─── CLOCK ───
+function updateClock() {
+  const now = new Date();
+  const ist = new Date(now.toLocaleString("en-US", {timeZone: "Asia/Kolkata"}));
+  document.getElementById('clockDisplay').textContent =
+    ist.toLocaleTimeString('en-IN', {hour12: false});
+
+  const h = ist.getHours(), m = ist.getMinutes();
+  const day = ist.getDay();
+  const isWeekday = day >= 1 && day <= 5;
+  const isOpen = isWeekday && (h > 9 || (h === 9 && m >= 15)) && (h < 15 || (h === 15 && m <= 30));
+
+  const badge = document.getElementById('marketBadge');
+  const dot   = document.getElementById('marketDot');
+  const txt   = document.getElementById('marketText');
+  if (isOpen) {
+    badge.className = 'market-badge open';
+    dot.className   = 'dot green';
+    txt.textContent = 'NSE OPEN';
+  } else {
+    badge.className = 'market-badge closed';
+    dot.className   = 'dot red';
+    txt.textContent = 'MARKET CLOSED';
+  }
+}
+setInterval(updateClock, 1000);
+updateClock();
+
+// ─── FETCH FROM API OR DEMO ───
+async function fetchResults() {
+  try {
+    const res = await fetch(`${API_BASE}/api/scan`, {signal: AbortSignal.timeout(4000)});
+    const data = await res.json();
+    return data.results || [];
+  } catch {
+    // Return demo data if server not running
+    return getDemoData();
+  }
+}
+
+async function triggerScan() {
+  const btn = document.getElementById('scanBtn');
+  btn.disabled = true;
+  btn.textContent = '⏳ SCANNING...';
+  showToast('Scan triggered. Loading results in ~2 min...');
+
+  try {
+    await fetch(`${API_BASE}/api/trigger_scan`, {signal: AbortSignal.timeout(3000)});
+    setTimeout(async () => {
+      const results = await fetchResults();
+      renderResults(results);
+      btn.disabled = false;
+      btn.textContent = '▶ RUN SCAN';
+      showToast(`✅ Found ${results.length} signals`);
+    }, 5000);
+  } catch {
+    // Demo mode
+    const results = getDemoData();
+    renderResults(results);
+    btn.disabled = false;
+    btn.textContent = '▶ RUN SCAN';
+    showToast(`📊 Demo: ${results.length} signals shown (start api_server.py for live data)`);
+  }
+}
+
+// ─── RENDER ───
+function renderResults(results) {
+  allResults = results;
+  updateStats(results);
+  filterCards();
+}
+
+function updateStats(results) {
+  document.getElementById('statTotal').textContent = results.length;
+  document.getElementById('statMB').textContent    = results.filter(r => r.pattern_type === 'momentum_burst').length;
+  document.getElementById('statEP').textContent    = results.filter(r => r.pattern_type === 'episodic_pivot').length;
+  document.getElementById('statCAT').textContent   = results.filter(r => r.has_catalyst).length;
+}
+
+function setFilter(f, btn) {
+  activeFilter = f;
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  filterCards();
+}
+
+function filterCards() {
+  const q = document.getElementById('searchBox').value.toUpperCase().trim();
+  let filtered = allResults;
+
+  if (activeFilter === 'catalyst') {
+    filtered = filtered.filter(r => r.has_catalyst);
+  } else if (activeFilter !== 'all') {
+    filtered = filtered.filter(r => r.pattern_type === activeFilter);
+  }
+
+  if (q) {
+    filtered = filtered.filter(r => r.symbol.includes(q));
+  }
+
+  const grid = document.getElementById('signalsGrid');
+  if (filtered.length === 0) {
+    grid.innerHTML = `<div class="empty-state">
+      <div class="big">🔍</div>
+      <p>NO SIGNALS MATCH FILTER</p>
+      <p style="color:var(--text3)">Try adjusting filters or run a new scan</p>
+    </div>`;
+    return;
+  }
+
+  grid.innerHTML = filtered.map(r => buildCard(r)).join('');
+}
+
+function buildCard(r) {
+  const ptClass = r.pattern_type === 'momentum_burst' ? 'mb'
+                : r.pattern_type === 'episodic_pivot'  ? 'ep' : 'ttt';
+
+  const scoreClass = r.score >= 80 ? 'high' : r.score >= 60 ? 'med' : 'low';
+
+  const riskPct = r.risk_pct || (((r.entry - r.stop_loss) / r.entry) * 100).toFixed(1);
+
+  return `
+  <div class="signal-card ${ptClass}" onclick="cardClick('${r.symbol}')">
+    <div class="card-header">
+      <div>
+        <div class="card-symbol">${r.symbol}</div>
+        <div class="card-pattern">${r.pattern}</div>
+      </div>
+      <div class="card-score">
+        <div class="score-circle ${scoreClass}">${r.score}</div>
+        <div class="score-label">SCORE</div>
+      </div>
+    </div>
+    <div class="card-body">
+      <div class="price-grid">
+        <div class="price-item">
+          <div class="price-label">ENTRY</div>
+          <div class="price-value entry">₹${r.entry}</div>
+        </div>
+        <div class="price-item">
+          <div class="price-label">TARGET 1</div>
+          <div class="price-value target">₹${r.target_1}</div>
+        </div>
+        <div class="price-item">
+          <div class="price-label">TARGET 2</div>
+          <div class="price-value target">₹${r.target_2}</div>
+        </div>
+        <div class="price-item">
+          <div class="price-label">STOP LOSS</div>
+          <div class="price-value stop">₹${r.stop_loss}</div>
+        </div>
+      </div>
+      <div class="desc-text">${r.description}</div>
+      <div class="card-tags">
+        <span class="tag buy">▲ ${r.signal}</span>
+        <span class="tag vol">${r.vol_surge_x}x VOL</span>
+        <span class="tag tf">${r.hold_days}</span>
+        <span class="tag risk">RISK ${riskPct}%</span>
+        ${r.has_catalyst ? '<span class="tag catalyst">🎯 CATALYST</span>' : ''}
+        ${r.score >= 80 ? '<span class="tag buy">⭐ HIGH QUALITY</span>' : ''}
+      </div>
+    </div>
+  </div>`;
+}
+
+function cardClick(symbol) {
+  window.open(`https://www.nseindia.com/get-quotes/equity?symbol=${symbol}`, '_blank');
+}
+
+// ─── TOAST ───
+function showToast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 4000);
+}
+
+// ─── DEMO DATA ───
+function getDemoData() {
+  return [
+    {symbol:"DIXON",pattern:"Momentum Burst 🚀",pattern_type:"momentum_burst",signal:"BUY",
+     entry:14250,stop_loss:13980,target_1:15390,target_2:16387,risk_pct:1.9,hold_days:"3-5 days",
+     vol_surge_x:3.2,range_exp_x:2.1,pct_today:4.8,score:88,has_catalyst:true,
+     description:"Range expansion 2.1x avg. Volume 3.2x avg. Up 4.8% today. Catalyst: Strong Q3 results. Target: +8-15% in 3-5 days. Stop: ₹13,980",
+     event:{has_event:true,event_type:"Quarterly Results",direction:"POSITIVE",gap_pct:5.2}},
+    {symbol:"PERSISTENT",pattern:"Episodic Pivot ⚡",pattern_type:"episodic_pivot",signal:"BUY",
+     entry:5820,stop_loss:5568,target_1:6693,target_2:7566,risk_pct:4.3,hold_days:"5-15 days",
+     vol_surge_x:5.8,gap_pct:8.4,close_pos_pct:82,was_sleeping:true,score:92,has_catalyst:true,
+     description:"Gapped up 8.4% on 5.8x volume. Closed in top 82% of day range. Stock was in base — HIGH QUALITY EP. Target: +15-30%. Stop: ₹5,568",
+     event:{has_event:true,event_type:"Earnings Surprise",direction:"POSITIVE"}},
+    {symbol:"ANGELONE",pattern:"TTT Breakout 📦",pattern_type:"tight_consolidation",signal:"BUY",
+     entry:2340,stop_loss:2224,target_1:2527,target_2:2691,risk_pct:5.0,hold_days:"3-7 days",
+     vol_surge_x:2.4,tight_range_pct:3.8,score:76,has_catalyst:false,
+     description:"Tight consolidation 3.8% range over 7 days. Breakout today on 2.4x volume. Volume dried up during base. Target: +8-15%. Stop: ₹2,224",
+     event:{has_event:false}},
+    {symbol:"TATAELXSI",pattern:"Momentum Burst 🚀",pattern_type:"momentum_burst",signal:"BUY",
+     entry:6840,stop_loss:6718,target_1:7387,target_2:7866,risk_pct:1.8,hold_days:"3-5 days",
+     vol_surge_x:2.9,range_exp_x:1.8,pct_today:3.2,score:81,has_catalyst:false,
+     description:"Range expansion 1.8x avg. Volume 2.9x avg. Up 3.2% today. Target: +8-15% in 3-5 days. Stop: ₹6,718",
+     event:{has_event:false}},
+    {symbol:"ZOMATO",pattern:"Episodic Pivot ⚡",pattern_type:"episodic_pivot",signal:"BUY",
+     entry:218,stop_loss:207,target_1:250,target_2:283,risk_pct:5.0,hold_days:"5-15 days",
+     vol_surge_x:4.1,gap_pct:6.2,close_pos_pct:75,was_sleeping:false,score:79,has_catalyst:true,
+     description:"Gapped up 6.2% on 4.1x volume. Closed in top 75% of day range. Strong quarterly numbers beat estimates. Target: +15-30%. Stop: ₹207",
+     event:{has_event:true,event_type:"Quarterly Results",direction:"POSITIVE"}},
+    {symbol:"KPITTECH",pattern:"TTT Breakout 📦",pattern_type:"tight_consolidation",signal:"BUY",
+     entry:1480,stop_loss:1420,target_1:1598,target_2:1702,risk_pct:4.1,hold_days:"3-7 days",
+     vol_surge_x:3.0,tight_range_pct:4.5,score:84,has_catalyst:false,
+     description:"Tight consolidation 4.5% range over 7 days. Breakout today on 3.0x volume. Target: +8-15%. Stop: ₹1,420",
+     event:{has_event:false}},
+    {symbol:"CDSL",pattern:"Momentum Burst 🚀",pattern_type:"momentum_burst",signal:"BUY",
+     entry:1680,stop_loss:1647,target_1:1814,target_2:1932,risk_pct:2.0,hold_days:"3-5 days",
+     vol_surge_x:2.2,range_exp_x:1.6,pct_today:2.8,score:70,has_catalyst:false,
+     description:"Range expansion 1.6x avg. Volume 2.2x avg. Up 2.8% today. Target: +8-15% in 3-5 days. Stop: ₹1,647",
+     event:{has_event:false}},
+    {symbol:"HAL",pattern:"Episodic Pivot ⚡",pattern_type:"episodic_pivot",signal:"BUY",
+     entry:4250,stop_loss:4080,target_1:4887,target_2:5525,risk_pct:4.0,hold_days:"5-15 days",
+     vol_surge_x:6.2,gap_pct:9.5,close_pos_pct:88,was_sleeping:true,score:95,has_catalyst:true,
+     description:"Gapped up 9.5% on 6.2x volume. Closed in top 88% of day range. Stock was in base — HIGH QUALITY EP. Defence order win catalyst. Target: +15-30%. Stop: ₹4,080",
+     event:{has_event:true,event_type:"Major Contract Win",direction:"POSITIVE"}},
+  ];
+}
+
+// ─── INIT ───
+window.addEventListener('load', async () => {
+  const results = await fetchResults();
+  if (results.length > 0) {
+    renderResults(results);
+    showToast(`✅ Loaded ${results.length} signals`);
+  } else {
+    // Auto-show demo
+    const demo = getDemoData();
+    renderResults(demo);
+    showToast('📊 Showing demo data. Start api_server.py for live NSE data.');
+  }
+});
+</script>
+</body>
+</html>

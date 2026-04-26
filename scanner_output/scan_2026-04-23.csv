@@ -1,0 +1,1433 @@
+Stock,Name,Sector,Cap,Pattern,TF,Date,Status,Breakout_Zone,CMP,Upside_%,Quality,Vol_Surge,CANSLIM,Reco,Window
+BAJAJELEC,Bajaj Electricals Limited,Consumer Cyclical,Small,DoubleBottom,Weekly,2026-04-23,Breakout Ready,1742.1,2089.0,0.0,0.245,2.95,5,BUY — moderate,100
+STEL,STEL Holdings Limited,Financial Services,Small,DoubleBottom,Daily,2026-04-23,Breakout Ready,9.61,10.38,0.0,0.213,1.66,5,BUY — moderate,100
+WABAG,VA Tech Wabag Limited,Industrials,Mid,BullFlag,Weekly,2026-04-20,Breakout Ready,566.25,566.25,0.0,0.16,2.63,5,BUY — moderate,15
+ADL,Archidply Decor Limited,Consumer Cyclical,Micro,DoubleBottom,Weekly,2026-04-20,Breakout Ready,238.84,246.83,0.0,0.154,3.17,5,BUY — moderate,40
+DHAMPURSUG,Dhampur Sugar Mills Limited,Consumer Defensive,Small,DoubleBottom,Weekly,2026-04-20,Breakout Ready,141.63,151.62,0.0,0.129,1.52,5,BUY — moderate,40
+WABAG,VA Tech Wabag Limited,Industrials,Mid,DoubleBottom,Weekly,2026-04-20,Breakout Ready,453.0,566.25,0.0,0.121,2.0,5,BUY — moderate,40
+VIDYAWIRES,VIDYA WIRES LIMITED,Industrials,Small,BullFlag,Weekly,2026-04-23,Breakout Ready,227.48,227.48,0.0,0.118,1.29,5,BUY — moderate,15
+EPACKPEB,EPACK PREFAB TECHN LTD,Industrials,Small,InverseHS,Weekly,2026-04-23,Breakout Ready,2713.54,3234.9,0.0,0.114,1.25,5,BUY — moderate,80
+RAMRAT,Ram Ratna Wires Limited,Industrials,Small,DoubleBottom,Weekly,2026-04-23,Breakout Ready,12.06,14.19,0.0,0.111,1.57,5,BUY — moderate,40
+RAMKY,Ramky Infrastructure Limited,Industrials,Small,DoubleBottom,Weekly,2026-04-23,Breakout Ready,12.06,14.19,0.0,0.111,1.57,5,BUY — moderate,40
+EPACKPEB,EPACK PREFAB TECHN LTD,Industrials,Small,DoubleBottom,Weekly,2026-04-23,Breakout Ready,2997.8,3234.9,0.0,0.107,1.25,5,BUY — moderate,60
+ASIANPAINT,Asian Paints Limited,Basic Materials,Large,BullFlag,Weekly,2026-04-23,Breakout Ready,316.77,315.67,0.0,0.086,1.23,5,BUY — moderate,15
+ECLERX,eClerx Services Limited,Technology,Mid,InverseHS,Weekly,2026-04-23,Breakout Ready,201.67,207.46,0.0,0.066,1.86,5,BUY — moderate,60
+SIGNPOST,Signpost India Limited,Communication Services,Small,DoubleBottom,Weekly,2026-04-23,Breakout Ready,461.35,475.0,0.0,0.06,1.27,5,BUY — moderate,60
+WILLAMAGOR,Williamson Magor & Co. Limited,Financial Services,Micro,InverseHS,Weekly,2026-04-23,Breakout Ready,479.25,479.5,0.0,0.042,2.57,5,BUY — moderate,60
+BAJAJELEC,Bajaj Electricals Limited,Consumer Cyclical,Small,InverseHS,Weekly,2026-04-23,Breakout Ready,1614.0,2089.0,0.0,0.024,2.95,5,BUY — moderate,120
+STEL,STEL Holdings Limited,Financial Services,Small,InverseHS,Daily,2026-04-23,Breakout Ready,8.74,10.38,0.0,0.02,1.66,5,BUY — moderate,60
+EPACKPEB,EPACK PREFAB TECHN LTD,Industrials,Small,FlatBase,Weekly,2026-04-23,Breakout Ready,3234.9,3234.9,0.0,0.016,1.25,5,BUY — moderate,60
+ELIN,Elin Electronics Limited,Industrials,Small,InverseHS,Weekly,2026-04-23,Breakout Ready,60.27,75.14,0.0,0.01,3.71,5,BUY — moderate,60
+EMAMIPAP,Emami Paper Mills Limited,Basic Materials,Micro,InverseHS,Weekly,2026-04-23,Breakout Ready,60.27,75.14,0.0,0.01,3.71,5,BUY — moderate,60
+ELLEN,ELLENBARRIE INDUS GASES L,Basic Materials,Small,InverseHS,Weekly,2026-04-23,Breakout Ready,60.27,75.14,0.0,0.01,3.71,5,BUY — moderate,60
+SIGNPOST,Signpost India Limited,Communication Services,Small,InverseHS,Weekly,2026-04-23,Breakout Ready,420.62,475.0,0.0,0.009,1.27,5,BUY — moderate,60
+RAMRAT,Ram Ratna Wires Limited,Industrials,Small,InverseHS,Weekly,2026-04-23,Breakout Ready,12.28,14.19,0.0,-0.001,1.57,5,BUY — moderate,60
+RAMKY,Ramky Infrastructure Limited,Industrials,Small,InverseHS,Weekly,2026-04-23,Breakout Ready,12.28,14.19,0.0,-0.001,1.57,5,BUY — moderate,60
+VRLLOG,VRL Logistics Limited,Industrials,Small,DoubleBottom,Weekly,2026-04-23,Breakout Ready,114.91,126.39,0.0,-0.002,1.33,5,BUY — moderate,40
+ELIN,Elin Electronics Limited,Industrials,Small,DoubleBottom,Weekly,2026-04-23,Breakout Ready,60.45,75.14,0.0,-0.003,3.71,5,BUY — moderate,40
+EMAMIPAP,Emami Paper Mills Limited,Basic Materials,Micro,DoubleBottom,Weekly,2026-04-23,Breakout Ready,60.45,75.14,0.0,-0.003,3.71,5,BUY — moderate,40
+ELLEN,ELLENBARRIE INDUS GASES L,Basic Materials,Small,DoubleBottom,Weekly,2026-04-23,Breakout Ready,60.45,75.14,0.0,-0.003,3.71,5,BUY — moderate,40
+VRLLOG,VRL Logistics Limited,Industrials,Small,BullFlag,Weekly,2026-04-23,Breakout Ready,126.39,126.39,0.0,-0.004,1.55,5,BUY — moderate,15
+RAMRAT,Ram Ratna Wires Limited,Industrials,Small,BullFlag,Weekly,2026-04-23,Breakout Ready,14.19,14.19,0.0,-0.006,2.8,5,BUY — moderate,15
+RAMKY,Ramky Infrastructure Limited,Industrials,Small,BullFlag,Weekly,2026-04-23,Breakout Ready,14.19,14.19,0.0,-0.006,2.8,5,BUY — moderate,15
+BAJFINANCE,Bajaj Finance Limited,Financial Services,Large,BullFlag,Weekly,2026-04-23,Breakout Ready,185.5,185.5,0.0,-0.011,1.79,5,BUY — moderate,15
+VRLLOG,VRL Logistics Limited,Industrials,Small,InverseHS,Weekly,2026-04-23,Breakout Ready,112.24,126.39,0.0,-0.014,1.33,5,BUY — moderate,60
+RAMRAT,Ram Ratna Wires Limited,Industrials,Small,FlatBase,Weekly,2026-04-23,Breakout Ready,14.24,14.19,0.0,-0.048,1.57,5,BUY — moderate,60
+RAMKY,Ramky Infrastructure Limited,Industrials,Small,FlatBase,Weekly,2026-04-23,Breakout Ready,14.24,14.19,0.0,-0.048,1.57,5,BUY — moderate,60
+DHAMPURSUG,Dhampur Sugar Mills Limited,Consumer Defensive,Small,BullFlag,Weekly,2026-04-20,Breakout Ready,151.62,151.62,0.0,-0.054,1.24,5,BUY — moderate,15
+BAJAJELEC,Bajaj Electricals Limited,Consumer Cyclical,Small,BullFlag,Weekly,2026-04-23,Breakout Ready,2089.0,2089.0,0.0,-0.096,2.49,5,BUY — moderate,15
+ELIN,Elin Electronics Limited,Industrials,Small,BullFlag,Weekly,2026-04-23,Breakout Ready,75.14,75.14,0.0,-0.182,4.41,5,BUY — moderate,15
+EMAMIPAP,Emami Paper Mills Limited,Basic Materials,Micro,BullFlag,Weekly,2026-04-23,Breakout Ready,75.14,75.14,0.0,-0.182,4.41,5,BUY — moderate,15
+ELLEN,ELLENBARRIE INDUS GASES L,Basic Materials,Small,BullFlag,Weekly,2026-04-23,Breakout Ready,75.14,75.14,0.0,-0.182,4.41,5,BUY — moderate,15
+ECLERX,eClerx Services Limited,Technology,Mid,BullFlag,Weekly,2026-04-23,Breakout Ready,207.46,207.46,0.0,-0.192,3.72,5,BUY — moderate,20
+SUDARSCHEM,Sudarshan Chemical Industries Limited,Basic Materials,Mid,BullFlag,Weekly,2026-04-23,Breakout Ready,691.0,691.0,0.0,-0.207,1.46,5,BUY — moderate,15
+GODREJPROP,Godrej Properties Limited,Real Estate,Large,DoubleBottom,Weekly,2026-04-20,Breakout Ready,207.89,225.47,0.0,0.351,3.88,4,BUY — moderate,40
+GOKEX,Gokaldas Exports Limited,Consumer Cyclical,Mid,DoubleBottom,Weekly,2026-04-20,Breakout Ready,207.89,225.47,0.0,0.351,3.88,4,BUY — moderate,40
+ASTERDM,Aster DM Healthcare Limited,Healthcare,Large,DoubleBottom,Weekly,2026-04-20,Breakout Ready,76.65,76.73,0.0,0.319,1.45,4,BUY — moderate,40
+APEX,Apex Frozen Foods Limited,,Small,BullFlag,Weekly,2026-04-23,Breakout Ready,291.93,291.93,0.0,0.309,1.36,4,BUY — moderate,15
+APCOTEXIND,Apcotex Industries Limited,,Small,BullFlag,Weekly,2026-04-23,Breakout Ready,291.93,291.93,0.0,0.309,1.36,4,BUY — moderate,15
+APLAPOLLO,APL Apollo Tubes Limited,,Large,BullFlag,Weekly,2026-04-23,Breakout Ready,291.93,291.93,0.0,0.309,1.36,4,BUY — moderate,15
+SURANASOL,Surana Solar Limited,Technology,Micro,BullFlag,Weekly,2026-04-23,Breakout Ready,37.69,37.69,0.0,0.253,1.68,4,BUY — moderate,15
+BAJAJFINSV,Bajaj Finserv Ltd.,Financial Services,Large,DoubleBottom,Weekly,2026-04-23,Breakout Ready,1742.1,2089.0,0.0,0.245,2.95,4,BUY — moderate,100
+BAJAJHFL,BAJAJ HOUSING FINANCE LTD,Financial Services,Large,DoubleBottom,Weekly,2026-04-23,Breakout Ready,1742.1,2089.0,0.0,0.245,2.95,4,BUY — moderate,100
+AZAD,AZAD ENGINEERING LIMITED,,Mid,DoubleBottom,Weekly,2026-04-23,Breakout Ready,1742.1,2089.0,0.0,0.245,2.95,4,BUY — moderate,100
+BAGFILMS,,,Unknown,DoubleBottom,Weekly,2026-04-23,Breakout Ready,1742.1,2089.0,0.0,0.245,2.95,4,BUY — moderate,100
+LUMAXIND,,,Unknown,BullFlag,Weekly,2026-04-23,Breakout Ready,1747.05,1747.05,0.0,0.209,2.68,4,BUY — moderate,15
+ZENITHEXPO,Zenith Exports Limited,,Micro,InverseHS,Weekly,2026-04-23,Breakout Ready,276.39,355.83,0.0,0.175,11.58,4,BUY — moderate,80
+ZODIACLOTH,Zodiac Clothing Company Limited,Consumer Cyclical,Micro,InverseHS,Weekly,2026-04-23,Breakout Ready,276.39,355.83,0.0,0.175,11.58,4,BUY — moderate,80
+ZIMLAB,ZIM Laboratories Limited,Healthcare,Micro,InverseHS,Weekly,2026-04-23,Breakout Ready,276.39,355.83,0.0,0.175,11.58,4,BUY — moderate,80
+ZODIAC,Zodiac Energy Limited,,Unknown,InverseHS,Weekly,2026-04-23,Breakout Ready,276.39,355.83,0.0,0.175,11.58,4,BUY — moderate,80
+ZENITHEXPO,Zenith Exports Limited,,Micro,DoubleBottom,Weekly,2026-04-23,Breakout Ready,255.68,355.83,0.0,0.137,11.58,4,BUY — moderate,40
+ZODIACLOTH,Zodiac Clothing Company Limited,Consumer Cyclical,Micro,DoubleBottom,Weekly,2026-04-23,Breakout Ready,255.68,355.83,0.0,0.137,11.58,4,BUY — moderate,40
+ZIMLAB,ZIM Laboratories Limited,Healthcare,Micro,DoubleBottom,Weekly,2026-04-23,Breakout Ready,255.68,355.83,0.0,0.137,11.58,4,BUY — moderate,40
+ZODIAC,Zodiac Energy Limited,,Unknown,DoubleBottom,Weekly,2026-04-23,Breakout Ready,255.68,355.83,0.0,0.137,11.58,4,BUY — moderate,40
+RUCHIRA,,,Unknown,InverseHS,Weekly,2026-04-23,Breakout Ready,137.53,166.73,0.0,0.129,14.74,4,BUY — moderate,60
+DAVANGERE,Davangere Sugar Company Limited,Consumer Defensive,Small,InverseHS,Weekly,2026-04-23,Breakout Ready,2701.55,4114.0,0.0,0.122,3.86,4,BUY — moderate,80
+DANGEE,Dangee Dums Limited,,Micro,InverseHS,Weekly,2026-04-23,Breakout Ready,2701.55,4114.0,0.0,0.122,3.86,4,BUY — moderate,80
+TRENT,Trent Limited,Consumer Cyclical,Large,DoubleBottom,Daily,2026-04-23,Breakout Ready,4285.6,4260.3,0.0,0.121,2.41,4,BUY — moderate,60
+VIKRAN,VIKRAN ENGINEERING LTD,Industrials,Small,BullFlag,Weekly,2026-04-23,Breakout Ready,227.48,227.48,0.0,0.118,1.29,4,BUY — moderate,15
+VIDHIING,Vidhi Specialty Food Ingredients Limited,Basic Materials,Small,BullFlag,Weekly,2026-04-23,Breakout Ready,227.48,227.48,0.0,0.118,1.29,4,BUY — moderate,15
+VIMTALABS,Vimta Labs Limited,Healthcare,Small,BullFlag,Weekly,2026-04-23,Breakout Ready,227.48,227.48,0.0,0.118,1.29,4,BUY — moderate,15
+RELIGARE,Religare Enterprises Limited,Financial Services,Mid,DoubleBottom,Weekly,2026-04-23,Breakout Ready,25.89,28.98,0.0,0.116,2.08,4,BUY — moderate,60
+RAJSREESUG,Rajshree Sugars & Chemicals Limited,Consumer Defensive,Micro,DoubleBottom,Weekly,2026-04-23,Breakout Ready,67.1,71.9,0.0,0.115,2.79,4,BUY — moderate,60
+RAMANEWS,,,Unknown,DoubleBottom,Weekly,2026-04-23,Breakout Ready,67.1,71.9,0.0,0.115,2.79,4,BUY — moderate,60
+RAJRATAN,Rajratan Global Wire Limited,Basic Materials,Small,DoubleBottom,Weekly,2026-04-23,Breakout Ready,67.1,71.9,0.0,0.115,2.79,4,BUY — moderate,60
+RAJPALAYAM,RAJAPALAYAM MILLS LTD.,,Unknown,DoubleBottom,Weekly,2026-04-23,Breakout Ready,67.1,71.9,0.0,0.115,2.79,4,BUY — moderate,60
+HAPPYFORGE,,,Unknown,FlatBase,Weekly,2026-04-23,Breakout Ready,1355.0,1355.0,0.0,0.112,1.52,4,BUY — moderate,60
+HATSUN,,,Unknown,FlatBase,Weekly,2026-04-23,Breakout Ready,1355.0,1355.0,0.0,0.112,1.52,4,BUY — moderate,60
+ATULAUTO,Atul Auto Limited,,Small,InverseHS,Weekly,2026-04-23,Breakout Ready,833.7,1617.2,0.0,0.096,1.32,4,BUY — moderate,80
+RAJSREESUG,Rajshree Sugars & Chemicals Limited,Consumer Defensive,Micro,InverseHS,Weekly,2026-04-23,Breakout Ready,62.76,71.9,0.0,0.094,2.79,4,BUY — moderate,60
+RAMANEWS,,,Unknown,InverseHS,Weekly,2026-04-23,Breakout Ready,62.76,71.9,0.0,0.094,2.79,4,BUY — moderate,60
+RAJRATAN,Rajratan Global Wire Limited,Basic Materials,Small,InverseHS,Weekly,2026-04-23,Breakout Ready,62.76,71.9,0.0,0.094,2.79,4,BUY — moderate,60
+RAJPALAYAM,RAJAPALAYAM MILLS LTD.,,Unknown,InverseHS,Weekly,2026-04-23,Breakout Ready,62.76,71.9,0.0,0.094,2.79,4,BUY — moderate,60
+BANDHANBNK,Bandhan Bank Limited,Financial Services,Large,BullFlag,Weekly,2026-04-23,Breakout Ready,78.45,78.45,0.0,0.092,1.35,4,BUY — moderate,15
+POLYCAB,Polycab India Limited,Industrials,Large,DoubleBottom,Weekly,2026-04-20,Breakout Ready,305.05,307.7,0.0,0.089,1.44,4,BUY — moderate,40
+WCIL,WESTERN CARRIERS (IND) L,,Small,BullFlag,Weekly,2026-04-23,Breakout Ready,1199.15,1199.15,0.0,0.089,1.61,4,BUY — moderate,15
+ASHIKA,Ashika Credit Capital Limited,,Unknown,BullFlag,Weekly,2026-04-23,Breakout Ready,316.77,315.67,0.0,0.086,1.23,4,BUY — moderate,15
+ASHOKLEY,Ashok Leyland Limited,,Large,BullFlag,Weekly,2026-04-23,Breakout Ready,316.77,315.67,0.0,0.086,1.23,4,BUY — moderate,15
+ASHOKA,Ashoka Buildcon Limited,,Small,BullFlag,Weekly,2026-04-23,Breakout Ready,316.77,315.67,0.0,0.086,1.23,4,BUY — moderate,15
+ASIANHOTNR,Asian Hotels (North) Limited,,Small,BullFlag,Weekly,2026-04-23,Breakout Ready,316.77,315.67,0.0,0.086,1.23,4,BUY — moderate,15
+ASIANENE,Asian Energy Services Limited,,Small,BullFlag,Weekly,2026-04-23,Breakout Ready,316.77,315.67,0.0,0.086,1.23,4,BUY — moderate,15
+ASHAPURMIN,Ashapura Minechem Limited,,Mid,BullFlag,Weekly,2026-04-23,Breakout Ready,316.77,315.67,0.0,0.086,1.23,4,BUY — moderate,15
+RELIGARE,Religare Enterprises Limited,Financial Services,Mid,FlatBase,Weekly,2026-04-23,Breakout Ready,28.98,28.98,0.0,0.085,2.08,4,BUY — moderate,40
+ATULAUTO,Atul Auto Limited,,Small,DoubleBottom,Weekly,2026-04-23,Breakout Ready,936.35,1617.2,0.0,0.079,1.32,4,BUY — moderate,60
+WCIL,WESTERN CARRIERS (IND) L,,Small,DoubleBottom,Weekly,2026-04-23,Breakout Ready,844.25,1199.15,0.0,0.077,3.74,4,BUY — moderate,40
+DAVANGERE,Davangere Sugar Company Limited,Consumer Defensive,Small,DoubleBottom,Weekly,2026-04-23,Breakout Ready,2731.3,4114.0,0.0,0.072,3.86,4,BUY — moderate,100
+DANGEE,Dangee Dums Limited,,Micro,DoubleBottom,Weekly,2026-04-23,Breakout Ready,2731.3,4114.0,0.0,0.072,3.86,4,BUY — moderate,100
+MAWANASUG,,,Unknown,DoubleBottom,Weekly,2026-04-23,Breakout Ready,82.47,107.22,0.0,0.069,1.48,4,BUY — moderate,60
+OCCLLTD,,,Unknown,DoubleBottom,Weekly,2026-04-23,Breakout Ready,6932.0,8868.0,0.0,0.063,7.05,4,BUY — moderate,40
+OBEROIRLTY,Oberoi Realty Limited,,Large,DoubleBottom,Weekly,2026-04-23,Breakout Ready,6932.0,8868.0,0.0,0.063,7.05,4,BUY — moderate,40
+NURECA,Nureca Limited,,Micro,DoubleBottom,Weekly,2026-04-23,Breakout Ready,6932.0,8868.0,0.0,0.063,7.05,4,BUY — moderate,40
+OBCL,OBCL Limited,,Micro,DoubleBottom,Weekly,2026-04-23,Breakout Ready,6932.0,8868.0,0.0,0.063,7.05,4,BUY — moderate,40
+NUVOCO,Nuvoco Vistas Corporation Limited,,Mid,DoubleBottom,Weekly,2026-04-23,Breakout Ready,6932.0,8868.0,0.0,0.063,7.05,4,BUY — moderate,40
+OFSS,Oracle Financial Services Software Limited,Technology,Large,DoubleBottom,Weekly,2026-04-23,Breakout Ready,6932.0,8868.0,0.0,0.063,7.05,4,BUY — moderate,40
+HAPPYFORGE,,,Unknown,InverseHS,Weekly,2026-04-23,Breakout Ready,1301.0,1355.0,0.0,0.053,1.52,4,BUY — moderate,60
+HAPPYFORGE,,,Unknown,DoubleBottom,Weekly,2026-04-23,Breakout Ready,1311.1,1355.0,0.0,0.053,1.52,4,BUY — moderate,40
+HATSUN,,,Unknown,InverseHS,Weekly,2026-04-23,Breakout Ready,1301.0,1355.0,0.0,0.053,1.52,4,BUY — moderate,60
+HATSUN,,,Unknown,DoubleBottom,Weekly,2026-04-23,Breakout Ready,1311.1,1355.0,0.0,0.053,1.52,4,BUY — moderate,40
+STARCEMENT,Star Cement Limited,,Mid,DoubleBottom,Weekly,2026-04-23,Breakout Ready,216.39,236.03,0.0,0.053,2.55,4,BUY — moderate,40
+CRIZAC,CRIZAC LIMITED,Consumer Defensive,Small,InverseHS,Weekly,2026-04-23,Breakout Ready,248.1,254.02,0.0,0.051,1.35,4,BUY — moderate,60
+MALUPAPER,,,Unknown,DoubleBottom,Weekly,2026-04-23,Breakout Ready,568.95,657.2,0.0,0.05,1.29,4,BUY — moderate,60
+MAHSEAMLES,,,Unknown,DoubleBottom,Weekly,2026-04-23,Breakout Ready,568.95,657.2,0.0,0.05,1.29,4,BUY — moderate,60
+STAR,Strides Pharma Science Limited,,Mid,DoubleBottom,Weekly,2026-04-23,Breakout Ready,921.6,1065.0,0.0,0.043,2.77,4,BUY — moderate,60
+STALLION,STALLION IND FLUOROCHEM L,,Small,DoubleBottom,Weekly,2026-04-23,Breakout Ready,921.6,1065.0,0.0,0.043,2.77,4,BUY — moderate,60
+STEELCAS,Steelcast Limited,Basic Materials,Small,DoubleBottom,Weekly,2026-04-23,Breakout Ready,921.6,1065.0,0.0,0.043,2.77,4,BUY — moderate,60
+SENORES,,,Unknown,DoubleBottom,Weekly,2026-04-23,Breakout Ready,71.16,91.36,0.0,0.042,4.55,4,BUY — moderate,40
+SEIL,Shanti Educational Initiatives Limited,,Unknown,DoubleBottom,Weekly,2026-04-23,Breakout Ready,71.16,91.36,0.0,0.042,4.55,4,BUY — moderate,40
+TTKHLTCARE,,,Unknown,DoubleBottom,Weekly,2026-04-23,Breakout Ready,409.25,485.95,0.0,0.04,4.69,4,BUY — moderate,40
+TRU,,,Unknown,DoubleBottom,Weekly,2026-04-23,Breakout Ready,409.25,485.95,0.0,0.04,4.69,4,BUY — moderate,40
+TVSELECT,,,Unknown,DoubleBottom,Weekly,2026-04-23,Breakout Ready,409.25,485.95,0.0,0.04,4.69,4,BUY — moderate,40
+TRUALT,,,Unknown,DoubleBottom,Weekly,2026-04-23,Breakout Ready,409.25,485.95,0.0,0.04,4.69,4,BUY — moderate,40
+JAGRAN,,,Unknown,DoubleBottom,Weekly,2026-04-23,Breakout Ready,194.62,202.72,0.0,0.039,1.55,4,BUY — moderate,40
+IXIGO,,,Unknown,DoubleBottom,Weekly,2026-04-23,Breakout Ready,194.62,202.72,0.0,0.039,1.55,4,BUY — moderate,40
+JAMNAAUTO,,,Unknown,DoubleBottom,Weekly,2026-04-23,Breakout Ready,194.62,202.72,0.0,0.039,1.55,4,BUY — moderate,40
+IPCALAB,,,Unknown,DoubleBottom,Weekly,2026-04-23,Breakout Ready,118.57,137.5,0.0,0.03,1.28,4,BUY — moderate,40
+RUCHIRA,,,Unknown,DoubleBottom,Weekly,2026-04-23,Breakout Ready,153.17,166.73,0.0,0.026,14.74,4,BUY — moderate,60
+BAJAJFINSV,Bajaj Finserv Ltd.,Financial Services,Large,InverseHS,Weekly,2026-04-23,Breakout Ready,1614.0,2089.0,0.0,0.024,2.95,4,BUY — moderate,120
+BAJAJHFL,BAJAJ HOUSING FINANCE LTD,Financial Services,Large,InverseHS,Weekly,2026-04-23,Breakout Ready,1614.0,2089.0,0.0,0.024,2.95,4,BUY — moderate,120
+AZAD,AZAD ENGINEERING LIMITED,,Mid,InverseHS,Weekly,2026-04-23,Breakout Ready,1614.0,2089.0,0.0,0.024,2.95,4,BUY — moderate,120
+BAGFILMS,,,Unknown,InverseHS,Weekly,2026-04-23,Breakout Ready,1614.0,2089.0,0.0,0.024,2.95,4,BUY — moderate,120
+STAR,Strides Pharma Science Limited,,Mid,InverseHS,Weekly,2026-04-23,Breakout Ready,900.88,1065.0,0.0,0.018,2.77,4,BUY — moderate,60
+STALLION,STALLION IND FLUOROCHEM L,,Small,InverseHS,Weekly,2026-04-23,Breakout Ready,900.88,1065.0,0.0,0.018,2.77,4,BUY — moderate,60
+STEELCAS,Steelcast Limited,Basic Materials,Small,InverseHS,Weekly,2026-04-23,Breakout Ready,900.88,1065.0,0.0,0.018,2.77,4,BUY — moderate,60
+BI,,,Unknown,AscTriangle,Weekly,2026-04-23,Breakout Ready,628.2,691.25,0.0,0.016,1.33,4,BUY — moderate,30
+BIGBLOC,,,Unknown,AscTriangle,Weekly,2026-04-23,Breakout Ready,628.2,691.25,0.0,0.016,1.33,4,BUY — moderate,30
+BIKAJI,Bikaji Foods International Limited,Consumer Defensive,Mid,AscTriangle,Daily,2026-04-23,Breakout Ready,628.2,691.25,0.0,0.016,1.33,4,BUY — moderate,30
+MALUPAPER,,,Unknown,InverseHS,Weekly,2026-04-23,Breakout Ready,549.0,657.2,0.0,0.016,1.29,4,BUY — moderate,120
+MAHSEAMLES,,,Unknown,InverseHS,Weekly,2026-04-23,Breakout Ready,549.0,657.2,0.0,0.016,1.29,4,BUY — moderate,120
+RELIGARE,Religare Enterprises Limited,Financial Services,Mid,InverseHS,Weekly,2026-04-23,Breakout Ready,25.6,28.98,0.0,0.014,2.08,4,BUY — moderate,60
+TTKHLTCARE,,,Unknown,InverseHS,Weekly,2026-04-23,Breakout Ready,423.28,485.95,0.0,0.012,4.69,4,BUY — moderate,60
+TRU,,,Unknown,InverseHS,Weekly,2026-04-23,Breakout Ready,423.28,485.95,0.0,0.012,4.69,4,BUY — moderate,60
+TVSELECT,,,Unknown,InverseHS,Weekly,2026-04-23,Breakout Ready,423.28,485.95,0.0,0.012,4.69,4,BUY — moderate,60
+TRUALT,,,Unknown,InverseHS,Weekly,2026-04-23,Breakout Ready,423.28,485.95,0.0,0.012,4.69,4,BUY — moderate,60
+BI,,,Unknown,DoubleBottom,Weekly,2026-04-23,Breakout Ready,674.15,691.25,0.0,0.011,1.33,4,BUY — moderate,60
+BIGBLOC,,,Unknown,DoubleBottom,Weekly,2026-04-23,Breakout Ready,674.15,691.25,0.0,0.011,1.33,4,BUY — moderate,60
+BIKAJI,Bikaji Foods International Limited,Consumer Defensive,Mid,DoubleBottom,Daily,2026-04-23,Breakout Ready,674.15,691.25,0.0,0.011,1.33,4,BUY — moderate,60
+ELITECON,Elitecon International Limited,,Unknown,InverseHS,Weekly,2026-04-23,Breakout Ready,60.27,75.14,0.0,0.01,3.71,4,BUY — moderate,60
+EMAMILTD,Emami Limited,Consumer Defensive,Large,InverseHS,Weekly,2026-04-23,Breakout Ready,60.27,75.14,0.0,0.01,3.71,4,BUY — moderate,60
+ATULAUTO,Atul Auto Limited,,Small,BullFlag,Weekly,2026-04-23,Breakout Ready,1617.2,1617.2,0.0,0.009,1.52,4,BUY — moderate,30
+JAGRAN,,,Unknown,FlatBase,Weekly,2026-04-23,Breakout Ready,202.72,202.72,0.0,0.006,1.55,4,BUY — moderate,40
+IXIGO,,,Unknown,FlatBase,Weekly,2026-04-23,Breakout Ready,202.72,202.72,0.0,0.006,1.55,4,BUY — moderate,40
+JAMNAAUTO,,,Unknown,FlatBase,Weekly,2026-04-23,Breakout Ready,202.72,202.72,0.0,0.006,1.55,4,BUY — moderate,40
+SURANAT&P,Surana Telecom and Power Limited,Utilities,Micro,BullFlag,Weekly,2026-04-23,Breakout Ready,59.52,59.52,0.0,0.005,1.22,4,BUY — moderate,15
+STARCEMENT,Star Cement Limited,,Mid,InverseHS,Weekly,2026-04-23,Breakout Ready,218.07,236.03,0.0,-0.0,2.55,4,BUY — moderate,60
+VRAJ,VRAJ IRON AND STEEL LTD,,Micro,DoubleBottom,Weekly,2026-04-23,Breakout Ready,114.91,126.39,0.0,-0.002,1.33,4,BUY — moderate,40
+CRIZAC,CRIZAC LIMITED,Consumer Defensive,Small,DoubleBottom,Weekly,2026-04-23,Breakout Ready,250.15,254.02,0.0,-0.003,1.35,4,BUY — moderate,40
+ELITECON,Elitecon International Limited,,Unknown,DoubleBottom,Weekly,2026-04-23,Breakout Ready,60.45,75.14,0.0,-0.003,3.71,4,BUY — moderate,40
+EMAMILTD,Emami Limited,Consumer Defensive,Large,DoubleBottom,Weekly,2026-04-23,Breakout Ready,60.45,75.14,0.0,-0.003,3.71,4,BUY — moderate,40
+MAWANASUG,,,Unknown,FlatBase,Weekly,2026-04-23,Breakout Ready,107.22,107.22,0.0,-0.003,1.48,4,BUY — moderate,40
+VRAJ,VRAJ IRON AND STEEL LTD,,Micro,BullFlag,Weekly,2026-04-23,Breakout Ready,126.39,126.39,0.0,-0.004,1.55,4,BUY — moderate,15
+WCIL,WESTERN CARRIERS (IND) L,,Small,InverseHS,Weekly,2026-04-23,Breakout Ready,813.3,1199.15,0.0,-0.006,3.74,4,BUY — moderate,80
+WCIL,WESTERN CARRIERS (IND) L,,Small,AscTriangle,Weekly,2026-04-23,Breakout Ready,835.55,1199.15,0.0,-0.006,3.74,4,BUY — moderate,30
+ESSARSHPNG,Essar Shipping Limited,,Small,InverseHS,Weekly,2026-04-23,Breakout Ready,2376.5,2679.8,0.0,-0.008,1.39,4,BUY — moderate,60
+ESSENTIA,Integra Essentia Limited,,Micro,InverseHS,Weekly,2026-04-23,Breakout Ready,2376.5,2679.8,0.0,-0.008,1.39,4,BUY — moderate,60
+ESAFSFB,ESAF Small Finance Bank,,Small,InverseHS,Weekly,2026-04-23,Breakout Ready,2376.5,2679.8,0.0,-0.008,1.39,4,BUY — moderate,60
+ESABINDIA,ESAB India Limited,,Mid,InverseHS,Weekly,2026-04-23,Breakout Ready,2376.5,2679.8,0.0,-0.008,1.39,4,BUY — moderate,60
+ESCORTS,Escorts Kubota Limited,,Large,InverseHS,Weekly,2026-04-23,Breakout Ready,2376.5,2679.8,0.0,-0.008,1.39,4,BUY — moderate,60
+BALAJEE,SHREE TIRUPATI BALAJEE L,Consumer Cyclical,Micro,BullFlag,Weekly,2026-04-23,Breakout Ready,185.5,185.5,0.0,-0.011,1.79,4,BUY — moderate,15
+BALAJITELE,Balaji Telefilms Limited,Communication Services,Small,BullFlag,Weekly,2026-04-23,Breakout Ready,185.5,185.5,0.0,-0.011,1.79,4,BUY — moderate,15
+SENORES,,,Unknown,InverseHS,Weekly,2026-04-23,Breakout Ready,74.16,91.36,0.0,-0.014,4.55,4,BUY — moderate,60
+SEIL,Shanti Educational Initiatives Limited,,Unknown,InverseHS,Weekly,2026-04-23,Breakout Ready,74.16,91.36,0.0,-0.014,4.55,4,BUY — moderate,60
+VRAJ,VRAJ IRON AND STEEL LTD,,Micro,InverseHS,Weekly,2026-04-23,Breakout Ready,112.24,126.39,0.0,-0.014,1.33,4,BUY — moderate,60
+JAGRAN,,,Unknown,InverseHS,Weekly,2026-04-23,Breakout Ready,187.1,202.72,0.0,-0.017,1.55,4,BUY — moderate,60
+IXIGO,,,Unknown,InverseHS,Weekly,2026-04-23,Breakout Ready,187.1,202.72,0.0,-0.017,1.55,4,BUY — moderate,60
+JAMNAAUTO,,,Unknown,InverseHS,Weekly,2026-04-23,Breakout Ready,187.1,202.72,0.0,-0.017,1.55,4,BUY — moderate,60
+RAJSREESUG,Rajshree Sugars & Chemicals Limited,Consumer Defensive,Micro,BullFlag,Weekly,2026-04-23,Breakout Ready,71.9,71.9,0.0,-0.019,5.83,4,BUY — moderate,15
+RAMANEWS,,,Unknown,BullFlag,Weekly,2026-04-23,Breakout Ready,71.9,71.9,0.0,-0.019,5.83,4,BUY — moderate,15
+RAJRATAN,Rajratan Global Wire Limited,Basic Materials,Small,BullFlag,Weekly,2026-04-23,Breakout Ready,71.9,71.9,0.0,-0.019,5.83,4,BUY — moderate,15
+RAJPALAYAM,RAJAPALAYAM MILLS LTD.,,Unknown,BullFlag,Weekly,2026-04-23,Breakout Ready,71.9,71.9,0.0,-0.019,5.83,4,BUY — moderate,15
+IPCALAB,,,Unknown,InverseHS,Weekly,2026-04-23,Breakout Ready,121.93,137.5,0.0,-0.025,1.28,4,BUY — moderate,80
+RELIGARE,Religare Enterprises Limited,Financial Services,Mid,BullFlag,Weekly,2026-04-23,Breakout Ready,28.98,28.98,0.0,-0.067,3.23,4,BUY — moderate,20
+STAR,Strides Pharma Science Limited,,Mid,FlatBase,Weekly,2026-04-23,Breakout Ready,1065.0,1065.0,0.0,-0.071,2.77,4,BUY — moderate,40
+STALLION,STALLION IND FLUOROCHEM L,,Small,FlatBase,Weekly,2026-04-23,Breakout Ready,1065.0,1065.0,0.0,-0.071,2.77,4,BUY — moderate,40
+STEELCAS,Steelcast Limited,Basic Materials,Small,FlatBase,Weekly,2026-04-23,Breakout Ready,1065.0,1065.0,0.0,-0.071,2.77,4,BUY — moderate,40
+SENORES,,,Unknown,BullFlag,Weekly,2026-04-23,Breakout Ready,91.36,91.36,0.0,-0.075,7.05,4,BUY — moderate,15
+SEIL,Shanti Educational Initiatives Limited,,Unknown,BullFlag,Weekly,2026-04-23,Breakout Ready,91.36,91.36,0.0,-0.075,7.05,4,BUY — moderate,15
+TTKHLTCARE,,,Unknown,FlatBase,Weekly,2026-04-23,Breakout Ready,485.95,485.95,0.0,-0.077,4.69,4,BUY — moderate,40
+TRU,,,Unknown,FlatBase,Weekly,2026-04-23,Breakout Ready,485.95,485.95,0.0,-0.077,4.69,4,BUY — moderate,40
+TVSELECT,,,Unknown,FlatBase,Weekly,2026-04-23,Breakout Ready,485.95,485.95,0.0,-0.077,4.69,4,BUY — moderate,40
+TRUALT,,,Unknown,FlatBase,Weekly,2026-04-23,Breakout Ready,485.95,485.95,0.0,-0.077,4.69,4,BUY — moderate,40
+BAJAJFINSV,Bajaj Finserv Ltd.,Financial Services,Large,BullFlag,Weekly,2026-04-23,Breakout Ready,2089.0,2089.0,0.0,-0.096,2.49,4,BUY — moderate,15
+BAJAJHFL,BAJAJ HOUSING FINANCE LTD,Financial Services,Large,BullFlag,Weekly,2026-04-23,Breakout Ready,2089.0,2089.0,0.0,-0.096,2.49,4,BUY — moderate,15
+AZAD,AZAD ENGINEERING LIMITED,,Mid,BullFlag,Weekly,2026-04-23,Breakout Ready,2089.0,2089.0,0.0,-0.096,2.49,4,BUY — moderate,15
+BAGFILMS,,,Unknown,BullFlag,Weekly,2026-04-23,Breakout Ready,2089.0,2089.0,0.0,-0.096,2.49,4,BUY — moderate,15
+OCCLLTD,,,Unknown,BullFlag,Weekly,2026-04-23,Breakout Ready,8868.0,8868.0,0.0,-0.132,7.17,4,BUY — moderate,20
+OBEROIRLTY,Oberoi Realty Limited,,Large,BullFlag,Weekly,2026-04-23,Breakout Ready,8868.0,8868.0,0.0,-0.132,7.17,4,BUY — moderate,20
+NURECA,Nureca Limited,,Micro,BullFlag,Weekly,2026-04-23,Breakout Ready,8868.0,8868.0,0.0,-0.132,7.17,4,BUY — moderate,20
+OBCL,OBCL Limited,,Micro,BullFlag,Weekly,2026-04-23,Breakout Ready,8868.0,8868.0,0.0,-0.132,7.17,4,BUY — moderate,20
+NUVOCO,Nuvoco Vistas Corporation Limited,,Mid,BullFlag,Weekly,2026-04-23,Breakout Ready,8868.0,8868.0,0.0,-0.132,7.17,4,BUY — moderate,20
+OFSS,Oracle Financial Services Software Limited,Technology,Large,BullFlag,Weekly,2026-04-23,Breakout Ready,8868.0,8868.0,0.0,-0.132,7.17,4,BUY — moderate,20
+MAWANASUG,,,Unknown,BullFlag,Weekly,2026-04-23,Breakout Ready,107.22,107.22,0.0,-0.156,2.33,4,BUY — moderate,15
+GODREJPROP,Godrej Properties Limited,Real Estate,Large,BullFlag,Weekly,2026-04-20,Breakout Ready,225.47,225.47,0.0,-0.162,11.78,4,BUY — moderate,15
+GOKEX,Gokaldas Exports Limited,Consumer Cyclical,Mid,BullFlag,Weekly,2026-04-20,Breakout Ready,225.47,225.47,0.0,-0.162,11.78,4,BUY — moderate,15
+STAR,Strides Pharma Science Limited,,Mid,BullFlag,Weekly,2026-04-23,Breakout Ready,1065.0,1065.0,0.0,-0.162,4.57,4,BUY — moderate,30
+STALLION,STALLION IND FLUOROCHEM L,,Small,BullFlag,Weekly,2026-04-23,Breakout Ready,1065.0,1065.0,0.0,-0.162,4.57,4,BUY — moderate,30
+STEELCAS,Steelcast Limited,Basic Materials,Small,BullFlag,Weekly,2026-04-23,Breakout Ready,1065.0,1065.0,0.0,-0.162,4.57,4,BUY — moderate,30
+TTKHLTCARE,,,Unknown,BullFlag,Weekly,2026-04-23,Breakout Ready,485.95,485.95,0.0,-0.18,3.46,4,BUY — moderate,15
+TRU,,,Unknown,BullFlag,Weekly,2026-04-23,Breakout Ready,485.95,485.95,0.0,-0.18,3.46,4,BUY — moderate,15
+TVSELECT,,,Unknown,BullFlag,Weekly,2026-04-23,Breakout Ready,485.95,485.95,0.0,-0.18,3.46,4,BUY — moderate,15
+TRUALT,,,Unknown,BullFlag,Weekly,2026-04-23,Breakout Ready,485.95,485.95,0.0,-0.18,3.46,4,BUY — moderate,15
+ELITECON,Elitecon International Limited,,Unknown,BullFlag,Weekly,2026-04-23,Breakout Ready,75.14,75.14,0.0,-0.182,4.41,4,BUY — moderate,15
+EMAMILTD,Emami Limited,Consumer Defensive,Large,BullFlag,Weekly,2026-04-23,Breakout Ready,75.14,75.14,0.0,-0.182,4.41,4,BUY — moderate,15
+STARCEMENT,Star Cement Limited,,Mid,BullFlag,Weekly,2026-04-23,Breakout Ready,236.03,236.03,0.0,-0.196,2.57,4,BUY — moderate,20
+SUMICHEM,Sumitomo Chemical India Limited,Basic Materials,Large,BullFlag,Weekly,2026-04-23,Breakout Ready,691.0,691.0,0.0,-0.207,1.46,4,BUY — moderate,15
+ENRIN,Siemens Energy India Limited,Utilities,Large,InverseHS,Weekly,2026-04-23,Breakout Ready,2713.54,3234.9,0.0,0.114,1.25,7,BUY — strong,80
+ENRIN,Siemens Energy India Limited,Utilities,Large,DoubleBottom,Weekly,2026-04-23,Breakout Ready,2997.8,3234.9,0.0,0.107,1.25,7,BUY — strong,60
+ENRIN,Siemens Energy India Limited,Utilities,Large,FlatBase,Weekly,2026-04-23,Breakout Ready,3234.9,3234.9,0.0,0.016,1.25,7,BUY — strong,60
+ETERNAL,Eternal Limited,Consumer Cyclical,Large,InverseHS,Weekly,2026-04-23,Breakout Ready,2376.5,2679.8,0.0,-0.008,1.39,7,BUY — strong,60
+AVALON,Avalon Technologies Limited,Technology,Mid,BullFlag,Weekly,2026-04-23,Breakout Ready,1434.5,1434.5,0.0,-0.273,1.28,7,BUY — strong,20
+BAJAJHCARE,Bajaj HealthCare Limited,Healthcare,Small,DoubleBottom,Weekly,2026-04-23,Breakout Ready,1742.1,2089.0,0.0,0.245,2.95,6,BUY — strong,100
+DATAPATTNS,Data Patterns (India) Limited,Industrials,Large,InverseHS,Weekly,2026-04-23,Breakout Ready,2701.55,4114.0,0.0,0.122,3.86,6,BUY — strong,80
+DBL,Dilip Buildcon Limited,Industrials,Mid,InverseHS,Weekly,2026-04-23,Breakout Ready,2701.55,4114.0,0.0,0.122,3.86,6,BUY — strong,80
+VIKRAMSOLR,VIKRAM SOLAR LIMITED,Technology,Mid,BullFlag,Weekly,2026-04-23,Breakout Ready,227.48,227.48,0.0,0.118,1.29,6,BUY — strong,15
+RAJOOENG,Rajoo Engineers Limited,Industrials,Small,DoubleBottom,Weekly,2026-04-23,Breakout Ready,67.1,71.9,0.0,0.115,2.79,6,BUY — strong,60
+CHOICEIN,Choice International Limited,Financial Services,Mid,DoubleBottom,Weekly,2026-04-23,Breakout Ready,1056.68,1062.45,0.0,0.095,1.23,6,BUY — strong,40
+RAJOOENG,Rajoo Engineers Limited,Industrials,Small,InverseHS,Weekly,2026-04-23,Breakout Ready,62.76,71.9,0.0,0.094,2.79,6,BUY — strong,60
+DATAPATTNS,Data Patterns (India) Limited,Industrials,Large,DoubleBottom,Weekly,2026-04-23,Breakout Ready,2731.3,4114.0,0.0,0.072,3.86,6,BUY — strong,100
+DBL,Dilip Buildcon Limited,Industrials,Mid,DoubleBottom,Weekly,2026-04-23,Breakout Ready,2731.3,4114.0,0.0,0.072,3.86,6,BUY — strong,100
+SEJALLTD,Sejal Glass Limited,Industrials,Small,DoubleBottom,Weekly,2026-04-23,Breakout Ready,71.16,91.36,0.0,0.042,4.55,6,BUY — strong,40
+TATACONSUM,Tata Consumer Products Limited,Consumer Defensive,Large,DoubleBottom,Weekly,2026-04-23,Breakout Ready,326.75,342.45,0.0,0.04,1.73,6,BUY — strong,40
+BAJAJHCARE,Bajaj HealthCare Limited,Healthcare,Small,InverseHS,Weekly,2026-04-23,Breakout Ready,1614.0,2089.0,0.0,0.024,2.95,6,BUY — strong,120
+CHOICEIN,Choice International Limited,Financial Services,Mid,FlatBase,Weekly,2026-04-23,Breakout Ready,1071.4,1062.45,0.0,0.001,1.23,6,BUY — strong,40
+VSSL,Vardhman Special Steels Limited,Basic Materials,Small,DoubleBottom,Weekly,2026-04-23,Breakout Ready,114.91,126.39,0.0,-0.002,1.33,6,BUY — strong,40
+VSSL,Vardhman Special Steels Limited,Basic Materials,Small,BullFlag,Weekly,2026-04-23,Breakout Ready,126.39,126.39,0.0,-0.004,1.55,6,BUY — strong,15
+SEJALLTD,Sejal Glass Limited,Industrials,Small,InverseHS,Weekly,2026-04-23,Breakout Ready,74.16,91.36,0.0,-0.014,4.55,6,BUY — strong,60
+VSSL,Vardhman Special Steels Limited,Basic Materials,Small,InverseHS,Weekly,2026-04-23,Breakout Ready,112.24,126.39,0.0,-0.014,1.33,6,BUY — strong,60
+RAJOOENG,Rajoo Engineers Limited,Industrials,Small,BullFlag,Weekly,2026-04-23,Breakout Ready,71.9,71.9,0.0,-0.019,5.83,6,BUY — strong,15
+TATACONSUM,Tata Consumer Products Limited,Consumer Defensive,Large,BullFlag,Weekly,2026-04-23,Breakout Ready,342.45,342.45,0.0,-0.072,2.28,6,BUY — strong,15
+SEJALLTD,Sejal Glass Limited,Industrials,Small,BullFlag,Weekly,2026-04-23,Breakout Ready,91.36,91.36,0.0,-0.075,7.05,6,BUY — strong,15
+BAJAJHCARE,Bajaj HealthCare Limited,Healthcare,Small,BullFlag,Weekly,2026-04-23,Breakout Ready,2089.0,2089.0,0.0,-0.096,2.49,6,BUY — strong,15
+PROZONER,Prozone Realty Limited,Real Estate,Small,BullFlag,Weekly,2026-04-23,Breakout Ready,3249.0,3249.0,0.0,-0.324,1.27,6,BUY — strong,15
+PRIVISCL,Privi Speciality Chemicals Limited,Basic Materials,Mid,BullFlag,Weekly,2026-04-23,Breakout Ready,3249.0,3249.0,0.0,-0.324,1.27,6,BUY — strong,15
+PROSTARM,PROSTARM INFO SYSTEMS LTD,Industrials,Small,BullFlag,Weekly,2026-04-23,Breakout Ready,3249.0,3249.0,0.0,-0.324,1.27,6,BUY — strong,15
+PRSMJOHNSN,Prism Johnson Limited,Basic Materials,Mid,BullFlag,Weekly,2026-04-23,Breakout Ready,3249.0,3249.0,0.0,-0.324,1.27,6,BUY — strong,15
+DIXON,Dixon Technologies (India) Limited,Technology,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,294.01,277.57,5.92,0.166,0.47,7,WATCH — await breakout,15
+PRESTIGE,Prestige Estates Projects Limited,Real Estate,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,823.85,1002.85,-17.85,0.152,0.48,7,WATCH — await breakout,60
+ENRIN,Siemens Energy India Limited,Utilities,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,3234.9,3234.9,0.0,0.145,0.72,7,WATCH — await breakout,15
+CHALET,Chalet Hotels Limited,Consumer Cyclical,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,180.65,180.65,0.0,0.119,0.64,7,WATCH — await breakout,15
+RAMCOCEM,The Ramco Cements Limited,Basic Materials,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,484.05,511.85,-5.43,0.119,0.59,7,WATCH — await breakout,40
+ETERNAL,Eternal Limited,Consumer Cyclical,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,2717.8,2679.8,1.42,0.106,1.39,7,WATCH — await breakout,100
+RAMCOCEM,The Ramco Cements Limited,Basic Materials,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,513.9,511.85,0.4,0.085,1.02,7,WATCH — await breakout,15
+DIXON,Dixon Technologies (India) Limited,Technology,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,233.44,277.57,-15.9,0.07,0.35,7,WATCH — await breakout,40
+CHALET,Chalet Hotels Limited,Consumer Cyclical,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,159.73,180.65,-11.58,0.059,0.64,7,WATCH — await breakout,40
+AVALON,Avalon Technologies Limited,Technology,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,1221.55,1434.5,-14.84,0.037,0.98,7,WATCH — await breakout,80
+AVALON,Avalon Technologies Limited,Technology,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1311.9,1434.5,-8.55,0.03,0.98,7,WATCH — await breakout,60
+SEPC,SEPC Limited,Industrials,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,303.55,323.5,-6.17,0.024,0.11,7,WATCH — await breakout,40
+RAMCOCEM,The Ramco Cements Limited,Basic Materials,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,490.73,511.85,-4.13,0.02,0.59,7,WATCH — await breakout,180
+CHALET,Chalet Hotels Limited,Consumer Cyclical,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,165.65,180.65,-8.3,0.017,0.64,7,WATCH — await breakout,80
+AVALON,Avalon Technologies Limited,Technology,Mid,FlatBase,Weekly,2026-04-23,Pattern Formed,1434.5,1434.5,0.0,-0.004,0.98,7,WATCH — await breakout,40
+SEPC,SEPC Limited,Industrials,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,318.77,323.5,-1.46,-0.015,0.11,7,WATCH — await breakout,60
+PRESTIGE,Prestige Estates Projects Limited,Real Estate,Large,FlatBase,Weekly,2026-04-23,Pattern Formed,1034.6,1002.85,3.17,-0.016,0.48,7,WATCH — await breakout,40
+PRESTIGE,Prestige Estates Projects Limited,Real Estate,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,1002.85,1002.85,0.0,-0.017,1.09,7,WATCH — await breakout,15
+PRESTIGE,Prestige Estates Projects Limited,Real Estate,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,846.98,1002.85,-15.54,-0.028,0.48,7,WATCH — await breakout,60
+SEPC,SEPC Limited,Industrials,Small,FlatBase,Weekly,2026-04-23,Pattern Formed,345.97,323.5,6.95,-0.038,0.11,7,WATCH — await breakout,60
+SEPC,SEPC Limited,Industrials,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,332.85,323.5,2.89,-0.045,0.42,7,WATCH — await breakout,15
+DIXON,Dixon Technologies (India) Limited,Technology,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,258.58,277.57,-6.84,-0.053,0.35,7,WATCH — await breakout,120
+RAMCOCEM,The Ramco Cements Limited,Basic Materials,Large,FlatBase,Weekly,2026-04-23,Pattern Formed,515.05,511.85,0.63,-0.06,0.59,7,WATCH — await breakout,40
+ETERNAL,Eternal Limited,Consumer Cyclical,Large,FlatBase,Weekly,2026-04-23,Pattern Formed,2717.9,2679.8,1.42,-0.067,1.39,7,WATCH — await breakout,40
+CHALET,Chalet Hotels Limited,Consumer Cyclical,Mid,FlatBase,Weekly,2026-04-23,Pattern Formed,180.65,180.65,0.0,-0.068,0.64,7,WATCH — await breakout,60
+AWFIS,AWFIS SPACE SOLUTIONS LTD,Industrials,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,593.1,514.25,15.33,0.278,0.11,6,WATCH — await breakout,100
+SURYALA,Suryalata Spinning Mills Limited,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,212.62,207.7,2.37,0.271,0.77,6,WATCH — await breakout,15
+THEMISMED,Themis Medicare Limited,Healthcare,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,3959.2,3790.0,4.46,0.245,1.19,6,WATCH — await breakout,60
+THELEELA,Leela Palaces Hotels & Resorts Limited,Consumer Cyclical,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,3959.2,3790.0,4.46,0.245,1.19,6,WATCH — await breakout,60
+SURYALA,Suryalata Spinning Mills Limited,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,171.85,207.7,-17.26,0.203,0.38,6,WATCH — await breakout,120
+STEL,STEL Holdings Limited,Financial Services,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,261.83,256.81,1.95,0.196,0.17,6,WATCH — await breakout,15
+AETHER,Aether Industries Limited,Basic Materials,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,92.33,88.5,4.33,0.175,0.46,6,WATCH — await breakout,100
+AERONEU,Aeroflex Neu Limited,Consumer Cyclical,Micro,DoubleBottom,Weekly,2026-04-23,Pattern Formed,92.33,88.5,4.33,0.175,0.46,6,WATCH — await breakout,100
+PRECWIRE,Precision Wires India Limited,Industrials,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,823.85,1002.85,-17.85,0.152,0.48,6,WATCH — await breakout,60
+AETHER,Aether Industries Limited,Basic Materials,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,90.95,88.5,2.77,0.149,0.51,6,WATCH — await breakout,15
+AERONEU,Aeroflex Neu Limited,Consumer Cyclical,Micro,BullFlag,Weekly,2026-04-23,Pattern Formed,90.95,88.5,2.77,0.149,0.51,6,WATCH — await breakout,15
+ZFCVINDIA,ZF Commercial Vehicle Control Systems India Limited,Consumer Cyclical,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,87.19,85.68,1.76,0.148,0.68,6,WATCH — await breakout,15
+STEL,STEL Holdings Limited,Financial Services,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,259.3,256.81,0.97,0.147,0.16,6,WATCH — await breakout,60
+THERMAX,Thermax Limited,Industrials,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,453.55,432.65,4.83,0.147,0.81,6,WATCH — await breakout,100
+TATAELXSI,Tata Elxsi Limited,Technology,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,731.4,714.75,2.33,0.136,0.16,6,WATCH — await breakout,15
+TRAVELFOOD,TRAVEL FOOD SERVICES LTD,Consumer Cyclical,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,590.25,586.95,0.56,0.131,0.26,6,WATCH — await breakout,15
+AWFIS,AWFIS SPACE SOLUTIONS LTD,Industrials,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,498.05,514.25,-3.15,0.122,0.11,6,WATCH — await breakout,60
+GESHIP,The Great Eastern Shipping Company Limited,Industrials,Large,BullFlag,Weekly,2026-04-20,Pattern Formed,1439.6,1420.4,1.35,0.112,0.61,6,WATCH — await breakout,15
+AWFIS,AWFIS SPACE SOLUTIONS LTD,Industrials,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,526.8,514.25,2.44,0.111,0.63,6,WATCH — await breakout,15
+ASPINWALL,Aspinwall and Company Limited,Consumer Defensive,Micro,BullFlag,Weekly,2026-04-23,Pattern Formed,740.6,731.0,1.31,0.108,0.26,6,WATCH — await breakout,15
+OMAXAUTO,Omax Autos Limited,Consumer Cyclical,Micro,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1097.4,1218.0,-9.9,0.106,0.46,6,WATCH — await breakout,40
+SOUTHWEST,South West Pinnacle Exploration Limited,Energy,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,545.35,573.5,-4.91,0.106,0.5,6,WATCH — await breakout,60
+WAAREERTL,Waaree Renewable Technologies Limited,Utilities,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,1266.65,1460.9,-13.3,0.105,0.42,6,WATCH — await breakout,80
+OMAXAUTO,Omax Autos Limited,Consumer Cyclical,Micro,BullFlag,Weekly,2026-04-23,Pattern Formed,1223.1,1218.0,0.42,0.104,0.86,6,WATCH — await breakout,15
+GOCLCORP,GOCL Corporation Limited,Basic Materials,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,450.85,445.6,1.18,0.086,0.38,6,WATCH — await breakout,60
+WAAREERTL,Waaree Renewable Technologies Limited,Utilities,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1279.5,1460.9,-12.42,0.085,0.42,6,WATCH — await breakout,40
+TRENT,Trent Limited,Consumer Cyclical,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,25.12,26.5,-5.21,0.081,0.27,6,WATCH — await breakout,60
+BHARATSE,Bharat Seats Limited,Consumer Cyclical,Small,FlatBase,Weekly,2026-04-23,Pattern Formed,1923.9,1871.6,2.79,0.079,0.8,6,WATCH — await breakout,60
+PGEL,PG Electroplast Limited,Technology,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,34.51,30.78,12.12,0.073,0.48,6,WATCH — await breakout,60
+BHARATSE,Bharat Seats Limited,Consumer Cyclical,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1804.4,1871.6,-3.59,0.068,0.8,6,WATCH — await breakout,40
+PGEL,PG Electroplast Limited,Technology,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,33.87,30.78,10.04,0.065,0.48,6,WATCH — await breakout,180
+TDPOWERSYS,TD Power Systems Limited,Industrials,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1803.8,1711.5,5.39,0.064,0.15,6,WATCH — await breakout,40
+VIKRAMSOLR,VIKRAM SOLAR LIMITED,Technology,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,215.03,227.48,-5.47,0.064,0.9,6,WATCH — await breakout,120
+VIKRAMSOLR,VIKRAM SOLAR LIMITED,Technology,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,195.04,227.48,-14.26,0.064,0.9,6,WATCH — await breakout,40
+APOLLOHOSP,Apollo Hospitals Enterprise Limited,Healthcare,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,2013.4,2043.2,-1.46,0.062,0.57,6,WATCH — await breakout,40
+PROZONER,Prozone Realty Limited,Real Estate,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,3039.6,3249.0,-6.45,0.062,0.97,6,WATCH — await breakout,60
+PRIVISCL,Privi Speciality Chemicals Limited,Basic Materials,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,3039.6,3249.0,-6.45,0.062,0.97,6,WATCH — await breakout,60
+PROSTARM,PROSTARM INFO SYSTEMS LTD,Industrials,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,3039.6,3249.0,-6.45,0.062,0.97,6,WATCH — await breakout,60
+PRSMJOHNSN,Prism Johnson Limited,Basic Materials,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,3039.6,3249.0,-6.45,0.062,0.97,6,WATCH — await breakout,60
+TRAVELFOOD,TRAVEL FOOD SERVICES LTD,Consumer Cyclical,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,590.5,586.95,0.6,0.06,0.49,6,WATCH — await breakout,60
+PGEL,PG Electroplast Limited,Technology,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,31.43,30.78,2.11,0.057,0.53,6,WATCH — await breakout,15
+EMMVEE,EMMVEE PHOTOVOLTAIC PWR L,Technology,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,97.76,106.98,-8.62,0.056,0.67,6,WATCH — await breakout,120
+WAAREERTL,Waaree Renewable Technologies Limited,Utilities,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,1488.4,1460.9,1.88,0.054,0.28,6,WATCH — await breakout,15
+SURYALA,Suryalata Spinning Mills Limited,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,144.43,207.7,-30.46,0.053,0.38,6,WATCH — await breakout,40
+SILINV,SIL Investments Limited,Financial Services,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,74.51,77.71,-4.12,0.048,0.86,6,WATCH — await breakout,40
+TDPOWERSYS,TD Power Systems Limited,Industrials,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,1765.35,1711.5,3.15,0.047,0.15,6,WATCH — await breakout,60
+TRAVELFOOD,TRAVEL FOOD SERVICES LTD,Consumer Cyclical,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,523.17,586.95,-10.87,0.046,0.49,6,WATCH — await breakout,60
+BHARATSE,Bharat Seats Limited,Consumer Cyclical,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,1903.2,1871.6,1.69,0.044,1.07,6,WATCH — await breakout,15
+SENCO,Senco Gold Limited,Consumer Cyclical,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,899.02,1557.0,-42.26,0.04,0.52,6,WATCH — await breakout,180
+ASPINWALL,Aspinwall and Company Limited,Consumer Defensive,Micro,DoubleBottom,Weekly,2026-04-23,Pattern Formed,623.5,731.0,-14.71,0.037,0.07,6,WATCH — await breakout,40
+TATAELXSI,Tata Elxsi Limited,Technology,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,665.55,714.75,-6.88,0.035,0.31,6,WATCH — await breakout,60
+SOUTHWEST,South West Pinnacle Exploration Limited,Energy,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,588.45,573.5,2.61,0.034,0.85,6,WATCH — await breakout,15
+ZFCVINDIA,ZF Commercial Vehicle Control Systems India Limited,Consumer Cyclical,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,77.37,85.68,-9.7,0.033,0.95,6,WATCH — await breakout,180
+SJS,S.J.S. Enterprises Limited,Consumer Cyclical,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,2699.9,2309.8,16.89,0.032,0.28,6,WATCH — await breakout,60
+SOTL,Savita Oil Technologies Limited,Basic Materials,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,715.95,802.0,-10.73,0.03,0.65,6,WATCH — await breakout,40
+SENCO,Senco Gold Limited,Consumer Cyclical,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1380.3,1557.0,-11.35,0.029,0.52,6,WATCH — await breakout,40
+EMMVEE,EMMVEE PHOTOVOLTAIC PWR L,Technology,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,94.65,106.98,-11.53,0.028,0.67,6,WATCH — await breakout,40
+SOTL,Savita Oil Technologies Limited,Basic Materials,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,711.7,802.0,-11.26,0.025,0.65,6,WATCH — await breakout,60
+DELHIVERY,Delhivery Limited,Industrials,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,29.71,28.45,4.43,0.023,2.35,6,WATCH — await breakout,60
+SILINV,SIL Investments Limited,Financial Services,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,74.43,77.71,-4.22,0.022,0.86,6,WATCH — await breakout,60
+TRENT,Trent Limited,Consumer Cyclical,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,25.66,26.5,-3.17,0.022,0.27,6,WATCH — await breakout,80
+AETHER,Aether Industries Limited,Basic Materials,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,84.13,88.5,-4.94,0.02,0.46,6,WATCH — await breakout,80
+AERONEU,Aeroflex Neu Limited,Consumer Cyclical,Micro,InverseHS,Weekly,2026-04-23,Pattern Formed,84.13,88.5,-4.94,0.02,0.46,6,WATCH — await breakout,80
+EMMVEE,EMMVEE PHOTOVOLTAIC PWR L,Technology,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,108.99,106.98,1.88,0.02,0.64,6,WATCH — await breakout,15
+STEL,STEL Holdings Limited,Financial Services,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,221.18,256.81,-13.87,0.02,0.16,6,WATCH — await breakout,80
+THERMAX,Thermax Limited,Industrials,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,434.85,432.65,0.51,0.016,1.5,6,WATCH — await breakout,20
+GOCLCORP,GOCL Corporation Limited,Basic Materials,Small,FlatBase,Weekly,2026-04-23,Pattern Formed,457.2,445.6,2.6,0.008,0.38,6,WATCH — await breakout,80
+THERMAX,Thermax Limited,Industrials,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,425.73,432.65,-1.6,0.005,0.81,6,WATCH — await breakout,120
+ZFCVINDIA,ZF Commercial Vehicle Control Systems India Limited,Consumer Cyclical,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,70.44,85.68,-17.79,0.004,0.95,6,WATCH — await breakout,40
+DELHIVERY,Delhivery Limited,Industrials,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,30.84,28.45,8.4,-0.003,2.35,6,WATCH — await breakout,120
+TATAELXSI,Tata Elxsi Limited,Technology,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,684.65,714.75,-4.21,-0.003,0.31,6,WATCH — await breakout,80
+OMAXAUTO,Omax Autos Limited,Consumer Cyclical,Micro,InverseHS,Weekly,2026-04-23,Pattern Formed,1014.95,1218.0,-16.67,-0.004,0.46,6,WATCH — await breakout,60
+SENCO,Senco Gold Limited,Consumer Cyclical,Mid,FlatBase,Weekly,2026-04-23,Pattern Formed,1565.5,1557.0,0.55,-0.006,0.52,6,WATCH — await breakout,40
+APOLLOHOSP,Apollo Hospitals Enterprise Limited,Healthcare,Large,FlatBase,Weekly,2026-04-23,Pattern Formed,2245.9,2043.2,9.92,-0.008,0.57,6,WATCH — await breakout,60
+SENCO,Senco Gold Limited,Consumer Cyclical,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,1557.0,1557.0,0.0,-0.012,0.82,6,WATCH — await breakout,20
+GOCLCORP,GOCL Corporation Limited,Basic Materials,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,413.27,445.6,-7.26,-0.014,0.38,6,WATCH — await breakout,60
+DELHIVERY,Delhivery Limited,Industrials,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,28.88,28.45,1.51,-0.015,3.84,6,WATCH — await breakout,15
+PRECWIRE,Precision Wires India Limited,Industrials,Mid,FlatBase,Weekly,2026-04-23,Pattern Formed,1034.6,1002.85,3.17,-0.016,0.48,6,WATCH — await breakout,40
+PRECWIRE,Precision Wires India Limited,Industrials,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,1002.85,1002.85,0.0,-0.017,1.09,6,WATCH — await breakout,15
+SOUTHWEST,South West Pinnacle Exploration Limited,Energy,Small,FlatBase,Weekly,2026-04-23,Pattern Formed,593.85,573.5,3.55,-0.017,0.5,6,WATCH — await breakout,60
+SILINV,SIL Investments Limited,Financial Services,Small,FlatBase,Weekly,2026-04-23,Pattern Formed,79.79,77.71,2.68,-0.018,0.86,6,WATCH — await breakout,60
+THERMAX,Thermax Limited,Industrials,Large,FlatBase,Weekly,2026-04-23,Pattern Formed,453.55,432.65,4.83,-0.018,0.81,6,WATCH — await breakout,60
+TATACONSUM,Tata Consumer Products Limited,Consumer Defensive,Large,FlatBase,Weekly,2026-04-23,Pattern Formed,361.55,342.45,5.58,-0.023,1.73,6,WATCH — await breakout,120
+PROZONER,Prozone Realty Limited,Real Estate,Small,FlatBase,Weekly,2026-04-23,Pattern Formed,3249.0,3249.0,0.0,-0.026,0.97,6,WATCH — await breakout,60
+PRIVISCL,Privi Speciality Chemicals Limited,Basic Materials,Mid,FlatBase,Weekly,2026-04-23,Pattern Formed,3249.0,3249.0,0.0,-0.026,0.97,6,WATCH — await breakout,60
+PROSTARM,PROSTARM INFO SYSTEMS LTD,Industrials,Small,FlatBase,Weekly,2026-04-23,Pattern Formed,3249.0,3249.0,0.0,-0.026,0.97,6,WATCH — await breakout,60
+PRSMJOHNSN,Prism Johnson Limited,Basic Materials,Mid,FlatBase,Weekly,2026-04-23,Pattern Formed,3249.0,3249.0,0.0,-0.026,0.97,6,WATCH — await breakout,60
+TDPOWERSYS,TD Power Systems Limited,Industrials,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,1724.5,1711.5,0.76,-0.027,0.58,6,WATCH — await breakout,20
+PRECWIRE,Precision Wires India Limited,Industrials,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,846.98,1002.85,-15.54,-0.028,0.48,6,WATCH — await breakout,60
+SOUTHWEST,South West Pinnacle Exploration Limited,Energy,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,522.75,573.5,-8.85,-0.028,0.5,6,WATCH — await breakout,60
+APOLLOHOSP,Apollo Hospitals Enterprise Limited,Healthcare,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,2015.85,2043.2,-1.34,-0.034,0.57,6,WATCH — await breakout,80
+ASPINWALL,Aspinwall and Company Limited,Consumer Defensive,Micro,InverseHS,Weekly,2026-04-23,Pattern Formed,631.73,731.0,-13.58,-0.04,0.07,6,WATCH — await breakout,60
+TDPOWERSYS,TD Power Systems Limited,Industrials,Mid,FlatBase,Weekly,2026-04-23,Pattern Formed,1846.7,1711.5,7.9,-0.04,0.15,6,WATCH — await breakout,60
+TRENT,Trent Limited,Consumer Cyclical,Large,FlatBase,Weekly,2026-04-23,Pattern Formed,28.97,26.5,9.32,-0.045,0.27,6,WATCH — await breakout,60
+THEMISMED,Themis Medicare Limited,Healthcare,Small,FlatBase,Weekly,2026-04-23,Pattern Formed,4278.4,3790.0,12.89,-0.06,1.19,6,WATCH — await breakout,40
+THELEELA,Leela Palaces Hotels & Resorts Limited,Consumer Cyclical,Mid,FlatBase,Weekly,2026-04-23,Pattern Formed,4278.4,3790.0,12.89,-0.06,1.19,6,WATCH — await breakout,40
+TRENT,Trent Limited,Consumer Cyclical,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,27.13,26.5,2.38,-0.061,0.39,6,WATCH — await breakout,15
+GOCLCORP,GOCL Corporation Limited,Basic Materials,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,457.2,445.6,2.6,-0.062,0.31,6,WATCH — await breakout,15
+SOTL,Savita Oil Technologies Limited,Basic Materials,Small,FlatBase,Weekly,2026-04-23,Pattern Formed,802.0,802.0,0.0,-0.066,0.65,6,WATCH — await breakout,60
+WAAREERTL,Waaree Renewable Technologies Limited,Utilities,Mid,FlatBase,Weekly,2026-04-23,Pattern Formed,1488.4,1460.9,1.88,-0.066,0.42,6,WATCH — await breakout,60
+SJS,S.J.S. Enterprises Limited,Consumer Cyclical,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,2358.4,2309.8,2.1,-0.111,0.41,6,WATCH — await breakout,20
+APOLLOHOSP,Apollo Hospitals Enterprise Limited,Healthcare,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,2121.9,2043.2,3.85,-0.142,0.86,6,WATCH — await breakout,15
+THEMISMED,Themis Medicare Limited,Healthcare,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,4210.6,3790.0,11.1,-0.211,1.5,6,WATCH — await breakout,15
+THELEELA,Leela Palaces Hotels & Resorts Limited,Consumer Cyclical,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,4210.6,3790.0,11.1,-0.211,1.5,6,WATCH — await breakout,15
+SILINV,SIL Investments Limited,Financial Services,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,79.79,77.71,2.68,-0.24,0.72,6,WATCH — await breakout,20
+SOTL,Savita Oil Technologies Limited,Basic Materials,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,802.0,802.0,0.0,-0.262,0.5,6,WATCH — await breakout,15
+CHOICEIN,Choice International Limited,Financial Services,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,1071.4,1062.45,0.84,-0.271,1.41,6,WATCH — await breakout,15
+TPHQ,Teamo Productions HQ Limited,Industrials,Micro,CupHandle,Weekly,2026-04-23,Pattern Formed,4413.74,4145.0,6.48,0.791,0.94,5,WATCH — mixed,180
+AARTIIND,Aarti Industries Limited,Basic Materials,Mid,DoubleBottom,Daily,2026-04-20,Pattern Formed,97.26,88.5,9.9,0.498,0.9,5,WATCH — mixed,40
+STARTECK,Starteck Finance Limited,Financial Services,Micro,BullFlag,Weekly,2026-04-23,Pattern Formed,162.92,158.4,2.85,0.326,0.33,5,WATCH — mixed,15
+STCINDIA,The State Trading Corporation of India Limited,Industrials,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,162.92,158.4,2.85,0.326,0.33,5,WATCH — mixed,15
+BHEL,Bharat Heavy Electricals Limited,Industrials,Large,BullFlag,Daily,2026-04-23,Pattern Formed,338.96,338.96,0.0,0.303,0.64,5,WATCH — mixed,15
+ASIANPAINT,Asian Paints Limited,Basic Materials,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,309.85,315.67,-1.84,0.29,0.85,5,WATCH — mixed,60
+DIVGIITTS,Divgi TorqTransfer Systems Limited,Consumer Cyclical,Small,DoubleBottom,Daily,2026-04-23,Pattern Formed,781.5,728.0,7.35,0.256,0.22,5,WATCH — mixed,60
+BAJFINANCE,Bajaj Finance Limited,Financial Services,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,175.52,185.5,-5.38,0.247,0.93,5,WATCH — mixed,40
+ADOR,Ador Welding Limited,Industrials,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,78.78,78.39,0.5,0.246,0.18,5,WATCH — mixed,15
+AYE,AYE FINANCE LIMITED,Financial Services,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,138.44,136.04,1.76,0.245,0.33,5,WATCH — mixed,15
+AXISCADES,AXISCADES Technologies Limited,Industrials,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,138.44,136.04,1.76,0.245,0.33,5,WATCH — mixed,15
+THERMAX,Thermax Limited,Industrials,Large,DoubleBottom,Daily,2026-04-23,Pattern Formed,3959.2,3790.0,4.46,0.245,1.19,5,WATCH — mixed,60
+SONATSOFTW,Sonata Software Limited,Technology,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,221.54,238.63,-7.16,0.228,0.34,5,WATCH — mixed,60
+PATELRMART,PATEL RETAIL LIMITED,Consumer Cyclical,Small,DoubleBottom,Weekly,2026-04-20,Pattern Formed,765.9,817.65,-6.33,0.227,1.19,5,WATCH — mixed,40
+PASUPTAC,Pasupati Acrylon Limited,Consumer Cyclical,Micro,DoubleBottom,Weekly,2026-04-20,Pattern Formed,765.9,817.65,-6.33,0.227,1.19,5,WATCH — mixed,40
+POONAWALLA,Poonawalla Fincorp Limited,Financial Services,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,490.4,418.1,17.29,0.219,0.34,5,WATCH — mixed,60
+TFCILTD,Tourism Finance Corporation of India Limited,Financial Services,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,45.3,47.5,-4.63,0.192,0.5,5,WATCH — mixed,60
+ARFIN,Arfin India Limited,Basic Materials,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,260.89,258.22,1.03,0.188,0.22,5,WATCH — mixed,15
+ECLERX,eClerx Services Limited,Technology,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,278.95,207.46,34.46,0.186,1.86,5,WATCH — mixed,60
+TATAINVEST,Tata Investment Corporation Limited,Financial Services,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,8167.0,7062.0,15.65,0.184,1.03,5,WATCH — mixed,60
+DELHIVERY,Delhivery Limited,Industrials,Large,DoubleBottom,Daily,2026-04-23,Pattern Formed,313.1,432.25,-27.57,0.181,0.8,5,WATCH — mixed,40
+ARSSBL,ANAND RATHI SH N STK BR L,Financial Services,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,73.09,71.2,2.65,0.176,0.24,5,WATCH — mixed,60
+AFSL,Abans Financial Services Limited,Financial Services,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,92.33,88.5,4.33,0.175,0.46,5,WATCH — mixed,100
+AFCONS,AFCONS INFRASTRUCTURE LTD,Industrials,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,92.33,88.5,4.33,0.175,0.46,5,WATCH — mixed,100
+AFFLE,Affle 3i Limited,Communication Services,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,92.33,88.5,4.33,0.175,0.46,5,WATCH — mixed,100
+ATALREAL,Atal Realtech Limited,Industrials,Micro,DoubleBottom,Weekly,2026-04-20,Pattern Formed,27.39,26.09,4.98,0.167,1.29,5,WATCH — mixed,40
+EDELWEISS,Edelweiss Financial Services Limited,Financial Services,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,260.88,242.79,7.45,0.166,0.4,5,WATCH — mixed,60
+DRCSYSTEMS,DRC Systems India Limited,Technology,Micro,BullFlag,Weekly,2026-04-23,Pattern Formed,9.93,9.93,-0.0,0.156,0.7,5,WATCH — mixed,15
+STARTECK,Starteck Finance Limited,Financial Services,Micro,DoubleBottom,Weekly,2026-04-23,Pattern Formed,118.3,158.4,-25.32,0.152,0.43,5,WATCH — mixed,40
+STCINDIA,The State Trading Corporation of India Limited,Industrials,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,118.3,158.4,-25.32,0.152,0.43,5,WATCH — mixed,40
+PGEL,PG Electroplast Limited,Technology,Mid,BullFlag,Daily,2026-04-23,Pattern Formed,471.1,469.7,0.3,0.151,1.0,5,WATCH — mixed,15
+EQUITASBNK,Equitas Small Finance Bank Limited,Financial Services,Mid,DoubleBottom,Weekly,2026-04-20,Pattern Formed,1192.0,1268.6,-6.04,0.15,0.42,5,WATCH — mixed,40
+AFSL,Abans Financial Services Limited,Financial Services,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,90.95,88.5,2.77,0.149,0.51,5,WATCH — mixed,15
+AFCONS,AFCONS INFRASTRUCTURE LTD,Industrials,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,90.95,88.5,2.77,0.149,0.51,5,WATCH — mixed,15
+AFFLE,Affle 3i Limited,Communication Services,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,90.95,88.5,2.77,0.149,0.51,5,WATCH — mixed,15
+THANGAMAYL,Thangamayil Jewellery Limited,Consumer Cyclical,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,453.55,432.65,4.83,0.147,0.81,5,WATCH — mixed,100
+ADOR,Ador Welding Limited,Industrials,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,70.77,78.39,-9.72,0.146,0.15,5,WATCH — mixed,60
+AVALON,Avalon Technologies Limited,Technology,Mid,DoubleBottom,Daily,2026-04-20,Pattern Formed,1029.65,1055.85,-2.48,0.145,1.02,5,WATCH — mixed,40
+EPACKPEB,EPACK PREFAB TECHN LTD,Industrials,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,3234.9,3234.9,0.0,0.145,0.72,5,WATCH — mixed,15
+BRITANNIA,Britannia Industries Limited,Consumer Defensive,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,3515.8,3462.6,1.54,0.144,0.69,5,WATCH — mixed,15
+DRCSYSTEMS,DRC Systems India Limited,Technology,Micro,DoubleBottom,Weekly,2026-04-23,Pattern Formed,9.86,9.93,-0.7,0.139,0.76,5,WATCH — mixed,60
+TFCILTD,Tourism Finance Corporation of India Limited,Financial Services,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,47.5,47.5,0.0,0.129,0.76,5,WATCH — mixed,15
+DELHIVERY,Delhivery Limited,Industrials,Large,BullFlag,Daily,2026-04-23,Pattern Formed,432.25,432.25,0.0,0.126,0.93,5,WATCH — mixed,15
+EMUDHRA,eMudhra Limited,Technology,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,258.2,237.0,8.95,0.125,0.34,5,WATCH — mixed,60
+WILLAMAGOR,Williamson Magor & Co. Limited,Financial Services,Micro,DoubleBottom,Weekly,2026-04-23,Pattern Formed,544.35,479.5,13.52,0.123,2.57,5,WATCH — mixed,60
+NECLIFE,Nectar Lifesciences Limited,Healthcare,Micro,BullFlag,Weekly,2026-04-23,Pattern Formed,36.29,35.7,1.65,0.122,0.77,5,WATCH — mixed,15
+ARSSBL,ANAND RATHI SH N STK BR L,Financial Services,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,84.41,71.2,18.55,0.116,0.24,5,WATCH — mixed,60
+SKFINDUS,SKF IND (INDUSTRIAL) LTD,Industrials,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,423.35,410.35,3.17,0.113,0.75,5,WATCH — mixed,15
+STYLAMIND,Stylam Industries Limited,Consumer Cyclical,Small,FlatBase,Weekly,2026-04-20,Pattern Formed,2243.6,2242.8,0.04,0.109,0.55,5,WATCH — mixed,40
+ASTRAL,Astral Limited,Industrials,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,740.6,731.0,1.31,0.108,0.26,5,WATCH — mixed,15
+BRITANNIA,Britannia Industries Limited,Consumer Defensive,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,2995.6,3462.6,-13.49,0.107,0.39,5,WATCH — mixed,40
+TPHQ,Teamo Productions HQ Limited,Industrials,Micro,DoubleBottom,Weekly,2026-04-23,Pattern Formed,4446.0,4145.0,7.26,0.106,0.94,5,WATCH — mixed,60
+WAKEFIT,WAKEFIT INNOVATIONS LTD,Consumer Cyclical,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,1266.65,1460.9,-13.3,0.105,0.42,5,WATCH — mixed,80
+FORCEMOT,Force Motors Limited,Consumer Cyclical,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,488.9,440.9,10.89,0.104,0.22,5,WATCH — mixed,100
+SUNDRMFAST,Sundram Fasteners Limited,Consumer Cyclical,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,672.95,652.05,3.21,0.1,0.13,5,WATCH — mixed,60
+FORCEMOT,Force Motors Limited,Consumer Cyclical,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,444.7,440.9,0.86,0.099,0.59,5,WATCH — mixed,20
+DPABHUSHAN,D. P. Abhushan Limited,Consumer Cyclical,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,17.64,16.1,9.57,0.095,0.55,5,WATCH — mixed,60
+TATAINVEST,Tata Investment Corporation Limited,Financial Services,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,8069.25,7062.0,14.26,0.093,1.03,5,WATCH — mixed,120
+APOLLOHOSP,Apollo Hospitals Enterprise Limited,Healthcare,Large,BullFlag,Daily,2026-04-23,Pattern Formed,400.55,398.95,0.4,0.092,1.08,5,WATCH — mixed,15
+BSOFT,Birlasoft Limited,Technology,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1001.8,1161.65,-13.76,0.09,0.45,5,WATCH — mixed,40
+PGEL,PG Electroplast Limited,Technology,Mid,DoubleBottom,Daily,2026-04-23,Pattern Formed,428.85,469.7,-8.7,0.088,0.53,5,WATCH — mixed,40
+AVALON,Avalon Technologies Limited,Technology,Mid,FlatBase,Daily,2026-04-20,Pattern Formed,1055.85,1055.85,0.0,0.087,1.02,5,WATCH — mixed,40
+CORALFINAC,Coral India Finance and Housing Limited,Real Estate,Micro,DoubleBottom,Weekly,2026-04-23,Pattern Formed,524.38,505.45,3.75,0.086,0.45,5,WATCH — mixed,60
+CHEVIOT,Cheviot Company Limited,Consumer Cyclical,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1770.2,1546.2,14.49,0.085,0.71,5,WATCH — mixed,60
+WAKEFIT,WAKEFIT INNOVATIONS LTD,Consumer Cyclical,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1279.5,1460.9,-12.42,0.085,0.42,5,WATCH — mixed,40
+SIGNPOST,Signpost India Limited,Communication Services,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,475.0,475.0,0.0,0.082,1.05,5,WATCH — mixed,15
+WILLAMAGOR,Williamson Magor & Co. Limited,Financial Services,Micro,FlatBase,Weekly,2026-04-23,Pattern Formed,484.5,479.5,1.04,0.078,2.57,5,WATCH — mixed,40
+NECLIFE,Nectar Lifesciences Limited,Healthcare,Micro,DoubleBottom,Weekly,2026-04-23,Pattern Formed,40.21,35.7,12.63,0.077,0.59,5,WATCH — mixed,60
+BHEL,Bharat Heavy Electricals Limited,Industrials,Large,DoubleBottom,Daily,2026-04-23,Pattern Formed,267.85,338.96,-20.98,0.076,0.64,5,WATCH — mixed,40
+ARSSBL,ANAND RATHI SH N STK BR L,Financial Services,Small,DoubleBottom,Daily,2026-04-20,Pattern Formed,351.0,375.05,-6.41,0.075,0.57,5,WATCH — mixed,40
+BHEL,Bharat Heavy Electricals Limited,Industrials,Large,InverseHS,Daily,2026-04-23,Pattern Formed,288.12,338.96,-15.0,0.073,0.64,5,WATCH — mixed,120
+GESHIP,The Great Eastern Shipping Company Limited,Industrials,Large,DoubleBottom,Daily,2026-04-23,Pattern Formed,1463.0,1420.4,3.0,0.067,0.29,5,WATCH — mixed,40
+COFORGE,Coforge Limited,Technology,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,1438.25,1595.4,-9.85,0.066,0.76,5,WATCH — mixed,60
+SKFINDUS,SKF IND (INDUSTRIAL) LTD,Industrials,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,354.3,410.35,-13.66,0.066,0.61,5,WATCH — mixed,40
+SUNDRMFAST,Sundram Fasteners Limited,Consumer Cyclical,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,640.6,652.05,-1.76,0.066,0.13,5,WATCH — mixed,60
+SJVN,SJVN Limited,Utilities,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1875.4,1726.7,8.61,0.065,0.29,5,WATCH — mixed,100
+SKYGOLD,Sky Gold and Diamonds Limited,Consumer Cyclical,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1875.4,1726.7,8.61,0.065,0.29,5,WATCH — mixed,100
+SKIPPER,Skipper Limited,Industrials,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1875.4,1726.7,8.61,0.065,0.29,5,WATCH — mixed,100
+SKMEGGPROD,SKM Egg Products Export (India) Limited,Consumer Defensive,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1875.4,1726.7,8.61,0.065,0.29,5,WATCH — mixed,100
+DELHIVERY,Delhivery Limited,Industrials,Large,InverseHS,Daily,2026-04-23,Pattern Formed,220.23,432.25,-49.05,0.064,0.8,5,WATCH — mixed,80
+SJVN,SJVN Limited,Utilities,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,1751.1,1726.7,1.41,0.064,0.69,5,WATCH — mixed,15
+SKYGOLD,Sky Gold and Diamonds Limited,Consumer Cyclical,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,1751.1,1726.7,1.41,0.064,0.69,5,WATCH — mixed,15
+SKIPPER,Skipper Limited,Industrials,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,1751.1,1726.7,1.41,0.064,0.69,5,WATCH — mixed,15
+SKMEGGPROD,SKM Egg Products Export (India) Limited,Consumer Defensive,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,1751.1,1726.7,1.41,0.064,0.69,5,WATCH — mixed,15
+VIDYAWIRES,VIDYA WIRES LIMITED,Industrials,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,215.03,227.48,-5.47,0.064,0.9,5,WATCH — mixed,120
+VIDYAWIRES,VIDYA WIRES LIMITED,Industrials,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,195.04,227.48,-14.26,0.064,0.9,5,WATCH — mixed,40
+POONAWALLA,Poonawalla Fincorp Limited,Financial Services,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,419.52,418.1,0.34,0.062,0.34,5,WATCH — mixed,60
+COFORGE,Coforge Limited,Technology,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,1595.4,1595.4,-0.0,0.059,1.06,5,WATCH — mixed,15
+APOLLOHOSP,Apollo Hospitals Enterprise Limited,Healthcare,Large,InverseHS,Daily,2026-04-23,Pattern Formed,373.75,398.95,-6.32,0.058,1.08,5,WATCH — mixed,120
+COROMANDEL,Coromandel International Limited,Basic Materials,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1650.5,1652.7,-0.13,0.056,1.13,5,WATCH — mixed,40
+TBOTEK,TBO TEK LIMITED,Consumer Cyclical,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1176.4,1318.1,-10.75,0.054,0.44,5,WATCH — mixed,40
+WAKEFIT,WAKEFIT INNOVATIONS LTD,Consumer Cyclical,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,1488.4,1460.9,1.88,0.054,0.28,5,WATCH — mixed,15
+DODLA,Dodla Dairy Limited,Consumer Defensive,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,457.7,457.7,-0.0,0.052,0.83,5,WATCH — mixed,15
+CHALET,Chalet Hotels Limited,Consumer Cyclical,Mid,DoubleBottom,Daily,2026-04-23,Pattern Formed,171.57,185.34,-7.43,0.049,0.26,5,WATCH — mixed,40
+STARTECK,Starteck Finance Limited,Financial Services,Micro,InverseHS,Weekly,2026-04-23,Pattern Formed,123.06,158.4,-22.31,0.049,0.43,5,WATCH — mixed,60
+STCINDIA,The State Trading Corporation of India Limited,Industrials,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,123.06,158.4,-22.31,0.049,0.43,5,WATCH — mixed,60
+GESHIP,The Great Eastern Shipping Company Limited,Industrials,Large,FlatBase,Daily,2026-04-23,Pattern Formed,1463.0,1420.4,3.0,0.047,0.29,5,WATCH — mixed,40
+ASIANPAINT,Asian Paints Limited,Basic Materials,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,296.8,315.67,-5.98,0.046,0.85,5,WATCH — mixed,60
+CHEVIOT,Cheviot Company Limited,Consumer Cyclical,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,1667.85,1546.2,7.87,0.045,0.71,5,WATCH — mixed,60
+BAJFINANCE,Bajaj Finance Limited,Financial Services,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,174.19,185.5,-6.1,0.044,0.93,5,WATCH — mixed,180
+TFCILTD,Tourism Finance Corporation of India Limited,Financial Services,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,45.49,47.5,-4.23,0.042,0.5,5,WATCH — mixed,40
+DODLA,Dodla Dairy Limited,Consumer Defensive,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,407.05,457.7,-11.07,0.041,0.69,5,WATCH — mixed,40
+FIEMIND,Fiem Industries Limited,Consumer Cyclical,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,2275.2,2249.5,1.14,0.041,0.45,5,WATCH — mixed,15
+FEDDERSHOL,Fedders Holding Limited,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,2275.2,2249.5,1.14,0.041,0.45,5,WATCH — mixed,15
+ANANDRATHI,Anand Rathi Wealth Limited,Financial Services,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,648.4,580.7,11.66,0.04,0.6,5,WATCH — mixed,60
+DRCSYSTEMS,DRC Systems India Limited,Technology,Micro,InverseHS,Weekly,2026-04-23,Pattern Formed,8.63,9.93,-13.09,0.039,0.76,5,WATCH — mixed,60
+STYLAMIND,Stylam Industries Limited,Consumer Cyclical,Small,BullFlag,Weekly,2026-04-20,Pattern Formed,2243.6,2242.8,0.04,0.039,0.54,5,WATCH — mixed,30
+TIPSMUSIC,Tips Music Limited,Communication Services,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,85.78,89.6,-4.26,0.039,0.3,5,WATCH — mixed,40
+DODLA,Dodla Dairy Limited,Consumer Defensive,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,419.12,457.7,-8.43,0.038,0.69,5,WATCH — mixed,80
+SUDARSCHEM,Sudarshan Chemical Industries Limited,Basic Materials,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,639.62,691.0,-7.44,0.038,0.68,5,WATCH — mixed,60
+ASTRAL,Astral Limited,Industrials,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,623.5,731.0,-14.71,0.037,0.07,5,WATCH — mixed,40
+STEL,STEL Holdings Limited,Financial Services,Small,BullFlag,Daily,2026-04-23,Pattern Formed,10.42,10.38,0.39,0.037,0.67,5,WATCH — mixed,15
+ADOR,Ador Welding Limited,Industrials,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,73.82,78.39,-5.83,0.036,0.15,5,WATCH — mixed,40
+COROMANDEL,Coromandel International Limited,Basic Materials,Large,FlatBase,Weekly,2026-04-23,Pattern Formed,1698.3,1652.7,2.76,0.035,1.13,5,WATCH — mixed,60
+ARFIN,Arfin India Limited,Basic Materials,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,293.3,258.22,13.59,0.033,0.23,5,WATCH — mixed,100
+SUNDRMFAST,Sundram Fasteners Limited,Consumer Cyclical,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,652.05,652.05,0.0,0.032,0.14,5,WATCH — mixed,15
+SKFINDUS,SKF IND (INDUSTRIAL) LTD,Industrials,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,336.45,410.35,-18.01,0.03,0.61,5,WATCH — mixed,120
+CORALFINAC,Coral India Finance and Housing Limited,Real Estate,Micro,InverseHS,Weekly,2026-04-23,Pattern Formed,526.81,505.45,4.23,0.028,0.45,5,WATCH — mixed,180
+SUDARSCHEM,Sudarshan Chemical Industries Limited,Basic Materials,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,627.35,691.0,-9.21,0.028,0.68,5,WATCH — mixed,40
+ANANDRATHI,Anand Rathi Wealth Limited,Financial Services,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,534.48,580.7,-7.96,0.026,0.6,5,WATCH — mixed,60
+CHALET,Chalet Hotels Limited,Consumer Cyclical,Mid,InverseHS,Daily,2026-04-23,Pattern Formed,175.44,185.34,-5.34,0.026,0.26,5,WATCH — mixed,80
+TEAMLEASE,TeamLease Services Limited,Industrials,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,2618.35,2523.4,3.76,0.026,0.46,5,WATCH — mixed,60
+BRITANNIA,Britannia Industries Limited,Consumer Defensive,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,2830.75,3462.6,-18.25,0.023,0.39,5,WATCH — mixed,60
+DEEPINDS,Deep Industries Limited,Energy,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,29.71,28.45,4.43,0.023,2.35,5,WATCH — mixed,60
+TEAMLEASE,TeamLease Services Limited,Industrials,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,2589.0,2523.4,2.6,0.023,0.46,5,WATCH — mixed,40
+EMUDHRA,eMudhra Limited,Technology,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,243.91,237.0,2.92,0.021,0.6,5,WATCH — mixed,15
+AFSL,Abans Financial Services Limited,Financial Services,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,84.13,88.5,-4.94,0.02,0.46,5,WATCH — mixed,80
+AFCONS,AFCONS INFRASTRUCTURE LTD,Industrials,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,84.13,88.5,-4.94,0.02,0.46,5,WATCH — mixed,80
+AFFLE,Affle 3i Limited,Communication Services,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,84.13,88.5,-4.94,0.02,0.46,5,WATCH — mixed,80
+TBOTEK,TBO TEK LIMITED,Consumer Cyclical,Mid,AscTriangle,Weekly,2026-04-23,Pattern Formed,1176.4,1318.1,-10.75,0.02,0.44,5,WATCH — mixed,30
+TBOTEK,TBO TEK LIMITED,Consumer Cyclical,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,1321.4,1318.1,0.25,0.017,0.47,5,WATCH — mixed,15
+ANANDRATHI,Anand Rathi Wealth Limited,Financial Services,Large,AscTriangle,Weekly,2026-04-23,Pattern Formed,534.48,580.7,-7.96,0.016,0.6,5,WATCH — mixed,30
+CORALFINAC,Coral India Finance and Housing Limited,Real Estate,Micro,BullFlag,Weekly,2026-04-23,Pattern Formed,515.7,505.45,2.03,0.016,0.67,5,WATCH — mixed,15
+FIEMIND,Fiem Industries Limited,Consumer Cyclical,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,2139.9,2249.5,-4.87,0.016,0.34,5,WATCH — mixed,40
+FEDDERSHOL,Fedders Holding Limited,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,2139.9,2249.5,-4.87,0.016,0.34,5,WATCH — mixed,40
+THANGAMAYL,Thangamayil Jewellery Limited,Consumer Cyclical,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,434.85,432.65,0.51,0.016,1.5,5,WATCH — mixed,20
+COFORGE,Coforge Limited,Technology,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1529.1,1595.4,-4.16,0.015,0.76,5,WATCH — mixed,60
+EDELWEISS,Edelweiss Financial Services Limited,Financial Services,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,228.92,242.79,-5.71,0.015,0.4,5,WATCH — mixed,60
+ARSSBL,ANAND RATHI SH N STK BR L,Financial Services,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,72.01,71.2,1.14,0.014,0.49,5,WATCH — mixed,15
+BHAGCHEM,Bhagiradha Chemicals & Industries Limited,Basic Materials,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,555.15,469.0,18.37,0.009,0.3,5,WATCH — mixed,100
+THANGAMAYL,Thangamayil Jewellery Limited,Consumer Cyclical,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,425.73,432.65,-1.6,0.005,0.81,5,WATCH — mixed,120
+DPABHUSHAN,D. P. Abhushan Limited,Consumer Cyclical,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,14.38,16.1,-10.68,0.004,0.55,5,WATCH — mixed,60
+NECLIFE,Nectar Lifesciences Limited,Healthcare,Micro,InverseHS,Weekly,2026-04-23,Pattern Formed,33.64,35.7,-5.77,0.002,0.59,5,WATCH — mixed,60
+EQUITASBNK,Equitas Small Finance Bank Limited,Financial Services,Mid,BullFlag,Weekly,2026-04-20,Pattern Formed,1278.1,1268.6,0.75,0.001,0.7,5,WATCH — mixed,15
+TBOTEK,TBO TEK LIMITED,Consumer Cyclical,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,1189.35,1318.1,-9.77,0.001,0.44,5,WATCH — mixed,60
+EDELWEISS,Edelweiss Financial Services Limited,Financial Services,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,243.58,242.79,0.33,0.0,0.86,5,WATCH — mixed,15
+TPHQ,Teamo Productions HQ Limited,Industrials,Micro,FlatBase,Weekly,2026-04-23,Pattern Formed,4446.0,4145.0,7.26,0.0,0.94,5,WATCH — mixed,60
+TATAINVEST,Tata Investment Corporation Limited,Financial Services,Large,FlatBase,Weekly,2026-04-23,Pattern Formed,7323.5,7062.0,3.7,-0.001,1.03,5,WATCH — mixed,40
+DEEPINDS,Deep Industries Limited,Energy,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,30.84,28.45,8.4,-0.003,2.35,5,WATCH — mixed,120
+SONATSOFTW,Sonata Software Limited,Technology,Mid,FlatBase,Weekly,2026-04-23,Pattern Formed,256.24,238.63,7.38,-0.01,0.34,5,WATCH — mixed,40
+FIEMIND,Fiem Industries Limited,Consumer Cyclical,Mid,FlatBase,Weekly,2026-04-23,Pattern Formed,2298.8,2249.5,2.19,-0.011,0.34,5,WATCH — mixed,60
+FEDDERSHOL,Fedders Holding Limited,,Unknown,FlatBase,Weekly,2026-04-23,Pattern Formed,2298.8,2249.5,2.19,-0.011,0.34,5,WATCH — mixed,60
+APOLLOHOSP,Apollo Hospitals Enterprise Limited,Healthcare,Large,DoubleBottom,Daily,2026-04-23,Pattern Formed,377.3,398.95,-5.43,-0.013,1.08,5,WATCH — mixed,60
+POONAWALLA,Poonawalla Fincorp Limited,Financial Services,Large,FlatBase,Weekly,2026-04-23,Pattern Formed,454.8,418.1,8.78,-0.013,0.34,5,WATCH — mixed,60
+DIVGIITTS,Divgi TorqTransfer Systems Limited,Consumer Cyclical,Small,BullFlag,Daily,2026-04-23,Pattern Formed,748.1,728.0,2.76,-0.014,0.6,5,WATCH — mixed,15
+DEEPINDS,Deep Industries Limited,Energy,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,28.88,28.45,1.51,-0.015,3.84,5,WATCH — mixed,15
+TIPSMUSIC,Tips Music Limited,Communication Services,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,100.74,89.6,12.43,-0.017,0.3,5,WATCH — mixed,180
+THANGAMAYL,Thangamayil Jewellery Limited,Consumer Cyclical,Mid,FlatBase,Weekly,2026-04-23,Pattern Formed,453.55,432.65,4.83,-0.018,0.81,5,WATCH — mixed,60
+TATVA,Tatva Chintan Pharma Chem Limited,Basic Materials,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,630.7,563.25,11.98,-0.019,0.67,5,WATCH — mixed,60
+TBZ,Tribhovandas Bhimji Zaveri Limited,Consumer Cyclical,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,630.7,563.25,11.98,-0.019,0.67,5,WATCH — mixed,60
+SJVN,SJVN Limited,Utilities,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,1828.9,1726.7,5.92,-0.023,0.29,5,WATCH — mixed,120
+SKYGOLD,Sky Gold and Diamonds Limited,Consumer Cyclical,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,1828.9,1726.7,5.92,-0.023,0.29,5,WATCH — mixed,120
+SKIPPER,Skipper Limited,Industrials,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,1828.9,1726.7,5.92,-0.023,0.29,5,WATCH — mixed,120
+SKMEGGPROD,SKM Egg Products Export (India) Limited,Consumer Defensive,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,1828.9,1726.7,5.92,-0.023,0.29,5,WATCH — mixed,120
+BHAGCHEM,Bhagiradha Chemicals & Industries Limited,Basic Materials,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,480.6,469.0,2.47,-0.024,0.65,5,WATCH — mixed,15
+PGEL,PG Electroplast Limited,Technology,Mid,InverseHS,Daily,2026-04-23,Pattern Formed,374.38,469.7,-20.29,-0.024,0.53,5,WATCH — mixed,80
+CHALET,Chalet Hotels Limited,Consumer Cyclical,Mid,FlatBase,Daily,2026-04-23,Pattern Formed,187.21,185.34,1.01,-0.027,0.26,5,WATCH — mixed,40
+SUDARSCHEM,Sudarshan Chemical Industries Limited,Basic Materials,Mid,FlatBase,Weekly,2026-04-23,Pattern Formed,691.0,691.0,0.0,-0.027,0.68,5,WATCH — mixed,40
+CHEVIOT,Cheviot Company Limited,Consumer Cyclical,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,1589.2,1546.2,2.78,-0.028,1.57,5,WATCH — mixed,15
+COROMANDEL,Coromandel International Limited,Basic Materials,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,1570.85,1652.7,-4.95,-0.034,1.13,5,WATCH — mixed,80
+DPABHUSHAN,D. P. Abhushan Limited,Consumer Cyclical,Small,FlatBase,Weekly,2026-04-23,Pattern Formed,16.83,16.1,4.53,-0.034,0.55,5,WATCH — mixed,40
+POONAWALLA,Poonawalla Fincorp Limited,Financial Services,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,424.1,418.1,1.44,-0.039,0.24,5,WATCH — mixed,15
+ASTRAL,Astral Limited,Industrials,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,631.73,731.0,-13.58,-0.04,0.07,5,WATCH — mixed,60
+BHAGCHEM,Bhagiradha Chemicals & Industries Limited,Basic Materials,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,445.12,469.0,-5.09,-0.04,0.3,5,WATCH — mixed,60
+COROMANDEL,Coromandel International Limited,Basic Materials,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,1652.7,1652.7,0.0,-0.04,0.68,5,WATCH — mixed,15
+FORCEMOT,Force Motors Limited,Consumer Cyclical,Large,FlatBase,Weekly,2026-04-23,Pattern Formed,450.9,440.9,2.27,-0.044,0.22,5,WATCH — mixed,40
+EMUDHRA,eMudhra Limited,Technology,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,272.38,237.0,14.93,-0.048,0.34,5,WATCH — mixed,180
+CHALET,Chalet Hotels Limited,Consumer Cyclical,Mid,BullFlag,Daily,2026-04-23,Pattern Formed,187.21,185.34,1.01,-0.052,0.3,5,WATCH — mixed,15
+ANANDRATHI,Anand Rathi Wealth Limited,Financial Services,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,580.7,580.7,-0.0,-0.055,0.21,5,WATCH — mixed,15
+SUNDRMFAST,Sundram Fasteners Limited,Consumer Cyclical,Mid,FlatBase,Weekly,2026-04-23,Pattern Formed,666.35,652.05,2.19,-0.058,0.13,5,WATCH — mixed,60
+THERMAX,Thermax Limited,Industrials,Large,FlatBase,Daily,2026-04-23,Pattern Formed,4278.4,3790.0,12.89,-0.06,1.19,5,WATCH — mixed,40
+SONATSOFTW,Sonata Software Limited,Technology,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,241.63,238.63,1.26,-0.064,0.46,5,WATCH — mixed,15
+WAKEFIT,WAKEFIT INNOVATIONS LTD,Consumer Cyclical,Small,FlatBase,Weekly,2026-04-23,Pattern Formed,1488.4,1460.9,1.88,-0.066,0.42,5,WATCH — mixed,60
+TIPSMUSIC,Tips Music Limited,Communication Services,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,91.74,89.6,2.39,-0.067,0.55,5,WATCH — mixed,15
+DODLA,Dodla Dairy Limited,Consumer Defensive,Mid,FlatBase,Weekly,2026-04-23,Pattern Formed,457.7,457.7,-0.0,-0.069,0.69,5,WATCH — mixed,60
+SONATSOFTW,Sonata Software Limited,Technology,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,207.33,238.63,-13.12,-0.079,0.34,5,WATCH — mixed,60
+BSOFT,Birlasoft Limited,Technology,Mid,FlatBase,Weekly,2026-04-23,Pattern Formed,1192.2,1161.65,2.63,-0.082,0.45,5,WATCH — mixed,40
+GESHIP,The Great Eastern Shipping Company Limited,Industrials,Large,InverseHS,Daily,2026-04-23,Pattern Formed,1231.58,1420.4,-13.29,-0.087,0.29,5,WATCH — mixed,80
+CORALFINAC,Coral India Finance and Housing Limited,Real Estate,Micro,FlatBase,Weekly,2026-04-23,Pattern Formed,523.63,505.45,3.6,-0.09,0.45,5,WATCH — mixed,80
+PGEL,PG Electroplast Limited,Technology,Mid,FlatBase,Daily,2026-04-23,Pattern Formed,472.85,469.7,0.67,-0.097,0.53,5,WATCH — mixed,40
+BSOFT,Birlasoft Limited,Technology,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,1192.2,1161.65,2.63,-0.11,0.52,5,WATCH — mixed,15
+TATVA,Tatva Chintan Pharma Chem Limited,Basic Materials,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,583.45,563.25,3.59,-0.135,1.11,5,WATCH — mixed,15
+TBZ,Tribhovandas Bhimji Zaveri Limited,Consumer Cyclical,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,583.45,563.25,3.59,-0.135,1.11,5,WATCH — mixed,15
+TATAINVEST,Tata Investment Corporation Limited,Financial Services,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,7323.5,7062.0,3.7,-0.143,1.12,5,WATCH — mixed,20
+DPABHUSHAN,D. P. Abhushan Limited,Consumer Cyclical,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,16.73,16.1,3.91,-0.145,1.33,5,WATCH — mixed,15
+TEAMLEASE,TeamLease Services Limited,Industrials,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,2610.5,2523.4,3.45,-0.17,0.61,5,WATCH — mixed,20
+AVALON,Avalon Technologies Limited,Technology,Mid,BullFlag,Daily,2026-04-20,Pattern Formed,1055.85,1055.85,0.0,-0.205,0.97,5,WATCH — mixed,30
+THERMAX,Thermax Limited,Industrials,Large,BullFlag,Daily,2026-04-23,Pattern Formed,4210.6,3790.0,11.1,-0.211,1.5,5,WATCH — mixed,15
+WILLAMAGOR,Williamson Magor & Co. Limited,Financial Services,Micro,BullFlag,Weekly,2026-04-23,Pattern Formed,484.5,479.5,1.04,-0.227,4.14,5,WATCH — mixed,20
+ATALREAL,Atal Realtech Limited,Industrials,Micro,BullFlag,Weekly,2026-04-20,Pattern Formed,26.09,26.09,-0.0,-0.234,1.07,5,WATCH — mixed,40
+SURAJEST,SURAJ ESTATE DEVELOPERS L,Real Estate,Small,CupHandle,Daily,2026-04-23,Pattern Formed,474.15,425.5,11.43,0.695,0.3,4,WATCH — mixed,80
+AARTISURF,Aarti Surfactants Limited,Basic Materials,Micro,DoubleBottom,Daily,2026-04-20,Pattern Formed,97.26,88.5,9.9,0.498,0.9,4,WATCH — mixed,40
+AARVI,Aarvi Encon Limited,Industrials,Micro,DoubleBottom,Daily,2026-04-20,Pattern Formed,97.26,88.5,9.9,0.498,0.9,4,WATCH — mixed,40
+MANOMAY,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,555.65,543.0,2.33,0.455,0.57,4,WATCH — mixed,15
+MANOMAY,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,461.95,543.0,-14.93,0.444,0.33,4,WATCH — mixed,60
+UFBL,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,321.79,312.0,3.14,0.439,1.44,4,WATCH — mixed,15
+UCOBANK,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,321.79,312.0,3.14,0.439,1.44,4,WATCH — mixed,15
+TVSSRICHAK,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,321.79,312.0,3.14,0.439,1.44,4,WATCH — mixed,15
+UCAL,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,321.79,312.0,3.14,0.439,1.44,4,WATCH — mixed,15
+TVVISION,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,321.79,312.0,3.14,0.439,1.44,4,WATCH — mixed,15
+UEL,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,321.79,312.0,3.14,0.439,1.44,4,WATCH — mixed,15
+POLICYBZR,PB Fintech Limited,Financial Services,Large,DoubleBottom,Daily,2026-04-23,Pattern Formed,1115.15,914.05,22.0,0.384,0.36,4,WATCH — mixed,100
+SOMANYCERA,Somany Ceramics Limited,Industrials,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,90.12,71.67,25.74,0.35,0.5,4,WATCH — mixed,60
+SOLARINDS,Solar Industries India Limited,Basic Materials,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,90.12,71.67,25.74,0.35,0.5,4,WATCH — mixed,60
+SIKKO,Sikko Industries Limited,Basic Materials,Micro,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1098.5,853.75,28.67,0.331,0.45,4,WATCH — mixed,60
+SIKA,Sika Interplant Systems Limited,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1098.5,853.75,28.67,0.331,0.45,4,WATCH — mixed,60
+BIL,Bhartiya International Ltd.,Consumer Cyclical,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,338.96,338.96,0.0,0.303,0.64,4,WATCH — mixed,15
+SHANTIGOLD,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,2399.0,2166.3,10.74,0.303,2.87,4,WATCH — mixed,40
+SHRIRAMFIN,Shriram Finance Limited,Financial Services,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,5.69,5.69,-0.0,0.295,0.7,4,WATCH — mixed,15
+ASHIKA,Ashika Credit Capital Limited,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,309.85,315.67,-1.84,0.29,0.85,4,WATCH — mixed,60
+ASHOKLEY,Ashok Leyland Limited,,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,309.85,315.67,-1.84,0.29,0.85,4,WATCH — mixed,60
+ASHOKA,Ashoka Buildcon Limited,,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,309.85,315.67,-1.84,0.29,0.85,4,WATCH — mixed,60
+ASIANHOTNR,Asian Hotels (North) Limited,,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,309.85,315.67,-1.84,0.29,0.85,4,WATCH — mixed,60
+ASIANENE,Asian Energy Services Limited,,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,309.85,315.67,-1.84,0.29,0.85,4,WATCH — mixed,60
+ASHAPURMIN,Ashapura Minechem Limited,,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,309.85,315.67,-1.84,0.29,0.85,4,WATCH — mixed,60
+UFBL,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,222.02,312.0,-28.84,0.274,0.74,4,WATCH — mixed,100
+UCOBANK,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,222.02,312.0,-28.84,0.274,0.74,4,WATCH — mixed,100
+TVSSRICHAK,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,222.02,312.0,-28.84,0.274,0.74,4,WATCH — mixed,100
+UCAL,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,222.02,312.0,-28.84,0.274,0.74,4,WATCH — mixed,100
+TVVISION,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,222.02,312.0,-28.84,0.274,0.74,4,WATCH — mixed,100
+UEL,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,222.02,312.0,-28.84,0.274,0.74,4,WATCH — mixed,100
+AWFIS,AWFIS SPACE SOLUTIONS LTD,Industrials,Small,BullFlag,Daily,2026-04-23,Pattern Formed,362.36,348.82,3.88,0.273,0.88,4,WATCH — mixed,15
+SURYODAY,Suryoday Small Finance Bank Limited,Financial Services,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,212.62,207.7,2.37,0.271,0.77,4,WATCH — mixed,15
+SUYOG,Suyog Telematics Limited,Communication Services,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,212.62,207.7,2.37,0.271,0.77,4,WATCH — mixed,15
+SUVEN,Suven Life Sciences Limited,Healthcare,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,212.62,207.7,2.37,0.271,0.77,4,WATCH — mixed,15
+SUZLON,Suzlon Energy Limited,Industrials,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,212.62,207.7,2.37,0.271,0.77,4,WATCH — mixed,15
+SURYAROSNI,Surya Roshni Limited,Basic Materials,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,212.62,207.7,2.37,0.271,0.77,4,WATCH — mixed,15
+SURYALAXMI,Suryalakshmi Cotton Mills Limited,Consumer Cyclical,Micro,BullFlag,Weekly,2026-04-23,Pattern Formed,212.62,207.7,2.37,0.271,0.77,4,WATCH — mixed,15
+PROZONER,Prozone Realty Limited,Real Estate,Small,BullFlag,Daily,2026-04-23,Pattern Formed,64.65,62.75,3.03,0.265,0.21,4,WATCH — mixed,15
+PRIVISCL,Privi Speciality Chemicals Limited,Basic Materials,Mid,BullFlag,Daily,2026-04-23,Pattern Formed,64.65,62.75,3.03,0.265,0.21,4,WATCH — mixed,15
+PROSTARM,PROSTARM INFO SYSTEMS LTD,Industrials,Small,BullFlag,Daily,2026-04-23,Pattern Formed,64.65,62.75,3.03,0.265,0.21,4,WATCH — mixed,15
+PRSMJOHNSN,Prism Johnson Limited,Basic Materials,Mid,BullFlag,Daily,2026-04-23,Pattern Formed,64.65,62.75,3.03,0.265,0.21,4,WATCH — mixed,15
+RPSGVENT,RPSG Ventures Limited,,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,475.3,470.8,0.96,0.265,1.01,4,WATCH — mixed,15
+RPTECH,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,475.3,470.8,0.96,0.265,1.01,4,WATCH — mixed,15
+GPTINFRA,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,127.58,116.74,9.29,0.26,0.3,4,WATCH — mixed,60
+GPPL,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,127.58,116.74,9.29,0.26,0.3,4,WATCH — mixed,60
+SHRIRAMFIN,Shriram Finance Limited,Financial Services,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,6.9,5.69,21.27,0.259,0.35,4,WATCH — mixed,100
+DISAQ,DISA India Limited,,Unknown,DoubleBottom,Daily,2026-04-23,Pattern Formed,781.5,728.0,7.35,0.256,0.22,4,WATCH — mixed,60
+ELDEHSG,Eldeco Housing and Industries Limited,Real Estate,Small,DoubleBottom,Weekly,2026-04-20,Pattern Formed,977.45,855.0,14.32,0.25,0.29,4,WATCH — mixed,40
+NETWORK18,Network18 Media & Investments Limited,,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,3861.4,3882.6,-0.55,0.248,0.79,4,WATCH — mixed,60
+NETWEB,Netweb Technologies India Limited,,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,3861.4,3882.6,-0.55,0.248,0.79,4,WATCH — mixed,60
+BALAJEE,SHREE TIRUPATI BALAJEE L,Consumer Cyclical,Micro,DoubleBottom,Weekly,2026-04-23,Pattern Formed,175.52,185.5,-5.38,0.247,0.93,4,WATCH — mixed,40
+BALAJITELE,Balaji Telefilms Limited,Communication Services,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,175.52,185.5,-5.38,0.247,0.93,4,WATCH — mixed,40
+THAKDEV,Thakkers Developers Limited,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,3959.2,3790.0,4.46,0.245,1.19,4,WATCH — mixed,60
+THOMASCOOK,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,3959.2,3790.0,4.46,0.245,1.19,4,WATCH — mixed,60
+THANGAMAYL,Thangamayil Jewellery Limited,Consumer Cyclical,Mid,DoubleBottom,Daily,2026-04-23,Pattern Formed,3959.2,3790.0,4.46,0.245,1.19,4,WATCH — mixed,60
+BIRLACABLE,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,153.67,147.68,4.06,0.244,0.62,4,WATCH — mixed,15
+BIRLAMONEY,Aditya Birla Money Limited,,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,153.67,147.68,4.06,0.244,0.62,4,WATCH — mixed,15
+TEXMOPIPES,Texmo Pipes and Products Limited,Industrials,Micro,DoubleBottom,Weekly,2026-04-23,Pattern Formed,78.35,74.03,5.84,0.231,0.73,4,WATCH — mixed,60
+TGBHOTELS,TGB Banquets and Hotels Limited,Consumer Cyclical,Micro,DoubleBottom,Weekly,2026-04-23,Pattern Formed,78.35,74.03,5.84,0.231,0.73,4,WATCH — mixed,60
+TEMBO,Tembo Global Industries Limited,,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,78.35,74.03,5.84,0.231,0.73,4,WATCH — mixed,60
+SONAMLTD,Sonam Limited,Consumer Cyclical,Micro,DoubleBottom,Weekly,2026-04-23,Pattern Formed,221.54,238.63,-7.16,0.228,0.34,4,WATCH — mixed,60
+SOMATEX,Soma Textiles & Industries Limited,,Micro,DoubleBottom,Weekly,2026-04-23,Pattern Formed,221.54,238.63,-7.16,0.228,0.34,4,WATCH — mixed,60
+SEPC,SEPC Limited,Industrials,Small,DoubleBottom,Daily,2026-04-20,Pattern Formed,383.89,323.5,18.67,0.221,0.26,4,WATCH — mixed,40
+LLOYDSENGG,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,69.16,67.71,2.14,0.217,0.88,4,WATCH — mixed,15
+LINDEINDIA,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,69.16,67.71,2.14,0.217,0.88,4,WATCH — mixed,15
+LLOYDSENT,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,69.16,67.71,2.14,0.217,0.88,4,WATCH — mixed,15
+LINCOLN,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,69.16,67.71,2.14,0.217,0.88,4,WATCH — mixed,15
+THACKER,Thacker and Company Limited,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,4125.1,4046.8,1.93,0.21,0.55,4,WATCH — mixed,15
+THEJO,Thejo Engineering Limited,,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,4125.1,4046.8,1.93,0.21,0.55,4,WATCH — mixed,15
+KHANDSE,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,4154.7,4404.0,-5.66,0.209,0.52,4,WATCH — mixed,60
+ROLEXRINGS,Rolex Rings Limited,Industrials,Small,InverseHS,Daily,2026-04-23,Pattern Formed,383.35,347.35,10.36,0.207,0.26,4,WATCH — mixed,60
+GOCOLORS,Go Fashion (India) Limited,Consumer Cyclical,Small,DoubleBottom,Weekly,2026-04-20,Pattern Formed,108.35,96.78,11.95,0.206,0.66,4,WATCH — mixed,40
+GOCLCORP,GOCL Corporation Limited,Basic Materials,Small,DoubleBottom,Daily,2026-04-20,Pattern Formed,108.35,96.78,11.95,0.206,0.66,4,WATCH — mixed,40
+MACPOWER,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,1167.0,1145.0,1.92,0.206,0.28,4,WATCH — mixed,15
+SVLL,Shree Vasu Logistics Limited,,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,14.37,14.0,2.64,0.205,0.52,4,WATCH — mixed,60
+VINCOFE,Vintage Coffee and Beverages Limited,Consumer Defensive,Small,BullFlag,Daily,2026-04-23,Pattern Formed,1602.7,1564.3,2.45,0.205,0.39,4,WATCH — mixed,15
+BANSWRAS,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,313.46,308.0,1.77,0.204,0.28,4,WATCH — mixed,15
+BASF,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,313.46,308.0,1.77,0.204,0.28,4,WATCH — mixed,15
+SENCO,Senco Gold Limited,Consumer Cyclical,Mid,BullFlag,Daily,2026-04-20,Pattern Formed,1557.0,1557.0,0.0,0.204,0.56,4,WATCH — mixed,15
+SURYODAY,Suryoday Small Finance Bank Limited,Financial Services,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,171.85,207.7,-17.26,0.203,0.38,4,WATCH — mixed,120
+SUYOG,Suyog Telematics Limited,Communication Services,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,171.85,207.7,-17.26,0.203,0.38,4,WATCH — mixed,120
+SUVEN,Suven Life Sciences Limited,Healthcare,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,171.85,207.7,-17.26,0.203,0.38,4,WATCH — mixed,120
+SUZLON,Suzlon Energy Limited,Industrials,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,171.85,207.7,-17.26,0.203,0.38,4,WATCH — mixed,120
+SURYAROSNI,Surya Roshni Limited,Basic Materials,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,171.85,207.7,-17.26,0.203,0.38,4,WATCH — mixed,120
+SURYALAXMI,Suryalakshmi Cotton Mills Limited,Consumer Cyclical,Micro,InverseHS,Weekly,2026-04-23,Pattern Formed,171.85,207.7,-17.26,0.203,0.38,4,WATCH — mixed,120
+ELDEHSG,Eldeco Housing and Industries Limited,Real Estate,Small,FlatBase,Weekly,2026-04-20,Pattern Formed,953.8,855.0,11.56,0.199,0.29,4,WATCH — mixed,40
+SUDEEPPHRM,SUDEEP PHARMA LIMITED,Healthcare,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,10.9,8.97,21.52,0.199,0.41,4,WATCH — mixed,60
+ABB,ABB India Limited,,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,573.4,565.85,1.33,0.195,0.86,4,WATCH — mixed,15
+ABINFRA,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,573.4,565.85,1.33,0.195,0.86,4,WATCH — mixed,15
+ABLBL,ADITYA BIRLA LIFES BRAN L,,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,573.4,565.85,1.33,0.195,0.86,4,WATCH — mixed,15
+ABCOTS,A B COTSPIN INDIA LIMITED,,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,573.4,565.85,1.33,0.195,0.86,4,WATCH — mixed,15
+ABDL,ALLIED BLEND N DISTILS L,,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,573.4,565.85,1.33,0.195,0.86,4,WATCH — mixed,15
+INDIANCARD,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,982.17,973.55,0.89,0.195,0.72,4,WATCH — mixed,60
+INDIANHUME,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,982.17,973.55,0.89,0.195,0.72,4,WATCH — mixed,60
+INDIAGLYCO,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,982.17,973.55,0.89,0.195,0.72,4,WATCH — mixed,60
+GENUSPAPER,Genus Paper & Boards Limited,Basic Materials,Micro,BullFlag,Weekly,2026-04-23,Pattern Formed,28.78,27.72,3.82,0.192,1.42,4,WATCH — mixed,15
+BANDHANBNK,Bandhan Bank Limited,Financial Services,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,78.95,78.45,0.64,0.189,0.48,4,WATCH — mixed,60
+ARE&M,Amara Raja Energy & Mobility Limited,Industrials,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,260.89,258.22,1.03,0.188,0.22,4,WATCH — mixed,15
+FEDERALBNK,The Federal Bank Limited,Financial Services,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,250.87,250.7,0.07,0.188,0.12,4,WATCH — mixed,40
+MACPOWER,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1003.0,1145.0,-12.4,0.187,0.38,4,WATCH — mixed,60
+TATACOMM,Tata Communications Limited,Communication Services,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,8167.0,7062.0,15.65,0.184,1.03,4,WATCH — mixed,60
+ABB,ABB India Limited,,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,538.4,565.85,-4.85,0.183,0.42,4,WATCH — mixed,100
+ABINFRA,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,538.4,565.85,-4.85,0.183,0.42,4,WATCH — mixed,100
+ABLBL,ADITYA BIRLA LIFES BRAN L,,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,538.4,565.85,-4.85,0.183,0.42,4,WATCH — mixed,100
+ABCOTS,A B COTSPIN INDIA LIMITED,,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,538.4,565.85,-4.85,0.183,0.42,4,WATCH — mixed,100
+ABDL,ALLIED BLEND N DISTILS L,,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,538.4,565.85,-4.85,0.183,0.42,4,WATCH — mixed,100
+DEEPINDS,Deep Industries Limited,Energy,Small,DoubleBottom,Daily,2026-04-23,Pattern Formed,313.1,432.25,-27.57,0.181,0.8,4,WATCH — mixed,40
+IRISDOREME,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,36.68,36.57,0.3,0.181,0.82,4,WATCH — mixed,60
+SHRIRAMFIN,Shriram Finance Limited,Financial Services,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,4.74,5.69,-16.7,0.181,0.35,4,WATCH — mixed,60
+TIMKEN,Timken India Limited,Industrials,Large,DoubleBottom,Weekly,2026-04-20,Pattern Formed,528.1,466.3,13.25,0.18,1.27,4,WATCH — mixed,40
+AIAENG,AIA Engineering Limited,Industrials,Large,DoubleBottom,Weekly,2026-04-20,Pattern Formed,4089.7,4043.4,1.15,0.179,0.64,4,WATCH — mixed,40
+PRITIKAUTO,Pritika Auto Industries Limited,Industrials,Micro,DoubleBottom,Daily,2026-04-20,Pattern Formed,314.45,279.45,12.52,0.179,0.23,4,WATCH — mixed,40
+CINEVISTA,Cinevista Limited,,Micro,DoubleBottom,Weekly,2026-04-23,Pattern Formed,291.63,273.89,6.48,0.178,0.27,4,WATCH — mixed,60
+CIFL,Capital India Finance Limited,,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,291.63,273.89,6.48,0.178,0.27,4,WATCH — mixed,60
+CINELINE,Cineline India Limited,,Micro,DoubleBottom,Weekly,2026-04-23,Pattern Formed,291.63,273.89,6.48,0.178,0.27,4,WATCH — mixed,60
+CLSEL,Chaman Lal Setia Exports Ltd.,,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,291.63,273.89,6.48,0.178,0.27,4,WATCH — mixed,60
+CLEANMAX,CLEAN MAX ENVIRO EN SOL L,,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,291.63,273.89,6.48,0.178,0.27,4,WATCH — mixed,60
+CIPLA,Cipla Limited,,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,291.63,273.89,6.48,0.178,0.27,4,WATCH — mixed,60
+AEGISVOPAK,AEGIS VOPAK TERMINALS LTD,,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,92.33,88.5,4.33,0.175,0.46,4,WATCH — mixed,100
+AEQUS,AEQUS LIMITED,,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,92.33,88.5,4.33,0.175,0.46,4,WATCH — mixed,100
+AGARIND,Agarwal Industrial Corporation Limited,Basic Materials,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,92.33,88.5,4.33,0.175,0.46,4,WATCH — mixed,100
+SURANAT&P,Surana Telecom and Power Limited,Utilities,Micro,DoubleBottom,Weekly,2026-04-23,Pattern Formed,62.25,59.52,4.59,0.174,0.32,4,WATCH — mixed,60
+ADL,Archidply Decor Limited,Consumer Cyclical,Micro,InverseHS,Daily,2026-04-23,Pattern Formed,1045.85,1366.7,-23.48,0.171,1.03,4,WATCH — mixed,80
+SENCO,Senco Gold Limited,Consumer Cyclical,Mid,DoubleBottom,Daily,2026-04-20,Pattern Formed,988.1,1557.0,-36.54,0.17,0.47,4,WATCH — mixed,40
+MANOMAY,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,389.93,543.0,-28.19,0.169,0.33,4,WATCH — mixed,80
+IBULLSLTD,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,366.65,360.85,1.61,0.168,0.34,4,WATCH — mixed,60
+HPL,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,366.65,360.85,1.61,0.168,0.34,4,WATCH — mixed,60
+HTMEDIA,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,366.65,360.85,1.61,0.168,0.34,4,WATCH — mixed,60
+HSCL,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,366.65,360.85,1.61,0.168,0.34,4,WATCH — mixed,60
+HYBRIDFIN,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,366.65,360.85,1.61,0.168,0.34,4,WATCH — mixed,60
+HUHTAMAKI,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,366.65,360.85,1.61,0.168,0.34,4,WATCH — mixed,60
+ADOR,Ador Welding Limited,Industrials,Small,BullFlag,Daily,2026-04-23,Pattern Formed,1037.1,1037.1,0.0,0.167,0.3,4,WATCH — mixed,15
+ETERNAL,Eternal Limited,Consumer Cyclical,Large,DoubleBottom,Daily,2026-04-23,Pattern Formed,29.46,23.89,23.32,0.163,0.52,4,WATCH — mixed,100
+NGIL,Nakoda Group of Industries Limited,Consumer Defensive,Micro,DoubleBottom,Weekly,2026-04-20,Pattern Formed,17837.0,14960.0,19.23,0.16,0.5,4,WATCH — mixed,40
+ASTRAZEN,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1038.05,1142.0,-9.1,0.159,0.73,4,WATCH — mixed,60
+ECLERX,eClerx Services Limited,Technology,Mid,DoubleBottom,Daily,2026-04-23,Pattern Formed,159.98,211.0,-24.18,0.157,0.14,4,WATCH — mixed,40
+SHYAMCENT,Shyam Century Ferrous Limited,Basic Materials,Micro,BullFlag,Weekly,2026-04-23,Pattern Formed,3627.6,3586.3,1.15,0.155,0.7,4,WATCH — mixed,15
+SHRIRAMPPS,Shriram Properties Limited,Real Estate,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,3627.6,3586.3,1.15,0.155,0.7,4,WATCH — mixed,15
+SHYAMMETL,Shyam Metalics and Energy Limited,,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,3627.6,3586.3,1.15,0.155,0.7,4,WATCH — mixed,15
+SIEMENS,Siemens Limited,Industrials,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,3627.6,3586.3,1.15,0.155,0.7,4,WATCH — mixed,15
+SIGACHI,Sigachi Industries Limited,Healthcare,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,3627.6,3586.3,1.15,0.155,0.7,4,WATCH — mixed,15
+SHYAMTEL,Shyam Telecom Limited,Technology,Micro,BullFlag,Weekly,2026-04-23,Pattern Formed,3627.6,3586.3,1.15,0.155,0.7,4,WATCH — mixed,15
+SHRIPISTON,SPR Auto Technologies Limited,Consumer Cyclical,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,3627.6,3586.3,1.15,0.155,0.7,4,WATCH — mixed,15
+SBICARD,SBI Cards and Payment Services Limited,Financial Services,Large,DoubleBottom,Daily,2026-04-20,Pattern Formed,328.35,271.0,21.16,0.154,0.62,4,WATCH — mixed,40
+PRICOLLTD,Pricol Limited,,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,823.85,1002.85,-17.85,0.152,0.48,4,WATCH — mixed,60
+PREMIERENE,PREMIER ENERGIES LIMITED,,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,823.85,1002.85,-17.85,0.152,0.48,4,WATCH — mixed,60
+PREMCO,Premco Global Limited,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,823.85,1002.85,-17.85,0.152,0.48,4,WATCH — mixed,60
+VSSL,Vardhman Special Steels Limited,Basic Materials,Small,DoubleBottom,Daily,2026-04-23,Pattern Formed,1561.3,1443.8,8.14,0.151,0.58,4,WATCH — mixed,60
+AEGISVOPAK,AEGIS VOPAK TERMINALS LTD,,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,90.95,88.5,2.77,0.149,0.51,4,WATCH — mixed,15
+AEQUS,AEQUS LIMITED,,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,90.95,88.5,2.77,0.149,0.51,4,WATCH — mixed,15
+AGARIND,Agarwal Industrial Corporation Limited,Basic Materials,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,90.95,88.5,2.77,0.149,0.51,4,WATCH — mixed,15
+APEX,Apex Frozen Foods Limited,,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,260.75,291.93,-10.68,0.146,1.09,4,WATCH — mixed,60
+APCOTEXIND,Apcotex Industries Limited,,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,260.75,291.93,-10.68,0.146,1.09,4,WATCH — mixed,60
+APLAPOLLO,APL Apollo Tubes Limited,,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,260.75,291.93,-10.68,0.146,1.09,4,WATCH — mixed,60
+BRNL,Bharat Road Network Limited,,Micro,BullFlag,Weekly,2026-04-23,Pattern Formed,3515.8,3462.6,1.54,0.144,0.69,4,WATCH — mixed,15
+INDSWFTLAB,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,150.28,140.25,7.15,0.138,0.33,4,WATCH — mixed,40
+INNOVANA,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,150.28,140.25,7.15,0.138,0.33,4,WATCH — mixed,40
+INGERRAND,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,150.28,140.25,7.15,0.138,0.33,4,WATCH — mixed,40
+NAVKARURB,Navkar Urbanstructure Limited,Basic Materials,Micro,DoubleBottom,Weekly,2026-04-20,Pattern Formed,160.71,144.78,11.0,0.138,0.54,4,WATCH — mixed,40
+NAVNETEDUL,Navneet Education Limited,Communication Services,Small,DoubleBottom,Weekly,2026-04-20,Pattern Formed,160.71,144.78,11.0,0.138,0.54,4,WATCH — mixed,40
+BIRLACABLE,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,138.39,147.68,-6.29,0.137,0.47,4,WATCH — mixed,60
+BIRLAMONEY,Aditya Birla Money Limited,,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,138.39,147.68,-6.29,0.137,0.47,4,WATCH — mixed,60
+KIRLOSBROS,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,1362.1,1330.0,2.41,0.137,0.47,4,WATCH — mixed,15
+KIRLFER,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,1362.1,1330.0,2.41,0.137,0.47,4,WATCH — mixed,15
+TASTYBITE,Tasty Bite Eatables Limited,,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,731.4,714.75,2.33,0.136,0.16,4,WATCH — mixed,15
+TARC,TARC Limited,,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,731.4,714.75,2.33,0.136,0.16,4,WATCH — mixed,15
+LLOYDSENGG,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,63.02,67.71,-6.93,0.135,0.57,4,WATCH — mixed,60
+LINDEINDIA,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,63.02,67.71,-6.93,0.135,0.57,4,WATCH — mixed,60
+LLOYDSENT,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,63.02,67.71,-6.93,0.135,0.57,4,WATCH — mixed,60
+LINCOLN,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,63.02,67.71,-6.93,0.135,0.57,4,WATCH — mixed,60
+QUINT,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,320.2,319.0,0.38,0.134,0.36,4,WATCH — mixed,40
+RADIANTCMS,Radiant Cash Management Services Limited,,Micro,DoubleBottom,Weekly,2026-04-23,Pattern Formed,320.2,319.0,0.38,0.134,0.36,4,WATCH — mixed,40
+RADHIKAJWE,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,320.2,319.0,0.38,0.134,0.36,4,WATCH — mixed,40
+RAMCOCEM,The Ramco Cements Limited,Basic Materials,Large,InverseHS,Daily,2026-04-23,Pattern Formed,132.83,136.0,-2.33,0.133,0.62,4,WATCH — mixed,80
+OMNI,OMNITECH ENGINEERING LTD,Industrials,Small,BullFlag,Daily,2026-04-23,Pattern Formed,395.5,395.5,0.0,0.132,0.9,4,WATCH — mixed,20
+LUPIN,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1285.5,1691.8,-24.02,0.129,0.52,4,WATCH — mixed,60
+MAANALU,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1285.5,1691.8,-24.02,0.129,0.52,4,WATCH — mixed,60
+SBFC,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,98.52,96.04,2.58,0.129,0.15,4,WATCH — mixed,60
+RBLBANK,RBL Bank Limited,Financial Services,Mid,DoubleBottom,Daily,2026-04-23,Pattern Formed,433.0,463.3,-6.54,0.128,0.43,4,WATCH — mixed,40
+SCILAL,Shipping Corporation of India Land and Assets Limited,,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,131.91,149.37,-11.69,0.128,0.54,4,WATCH — mixed,40
+DEEPINDS,Deep Industries Limited,Energy,Small,BullFlag,Daily,2026-04-23,Pattern Formed,432.25,432.25,0.0,0.126,0.93,4,WATCH — mixed,15
+ECLERX,eClerx Services Limited,Technology,Mid,BullFlag,Daily,2026-04-23,Pattern Formed,213.04,211.0,0.97,0.125,0.66,4,WATCH — mixed,15
+GRSE,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,219.76,219.76,0.0,0.121,0.28,4,WATCH — mixed,15
+PFC,Power Finance Corporation Limited,Financial Services,Large,BullFlag,Weekly,2026-04-20,Pattern Formed,345.05,323.15,6.78,0.121,0.26,4,WATCH — mixed,15
+PFS,PTC India Financial Services Limited,Financial Services,Small,BullFlag,Weekly,2026-04-20,Pattern Formed,345.05,323.15,6.78,0.121,0.26,4,WATCH — mixed,15
+JSL,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,127.72,126.53,0.94,0.12,0.48,4,WATCH — mixed,60
+JSWINFRA,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,127.72,126.53,0.94,0.12,0.48,4,WATCH — mixed,60
+JTEKTINDIA,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,127.72,126.53,0.94,0.12,0.48,4,WATCH — mixed,60
+JSWENERGY,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,127.72,126.53,0.94,0.12,0.48,4,WATCH — mixed,60
+TATACONSUM,Tata Consumer Products Limited,Consumer Defensive,Large,InverseHS,Daily,2026-04-23,Pattern Formed,194.93,212.94,-8.46,0.119,0.69,4,WATCH — mixed,60
+VCL,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,725.34,737.25,-1.62,0.119,0.87,4,WATCH — mixed,60
+VARROC,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,725.34,737.25,-1.62,0.119,0.87,4,WATCH — mixed,60
+VARDHACRLC,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,725.34,737.25,-1.62,0.119,0.87,4,WATCH — mixed,60
+VASCONEQ,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,725.34,737.25,-1.62,0.119,0.87,4,WATCH — mixed,60
+DABUR,Dabur India Limited,Consumer Defensive,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,111.52,128.3,-13.08,0.118,0.2,4,WATCH — mixed,40
+CYIENTDLM,Cyient DLM Limited,Technology,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,111.52,128.3,-13.08,0.118,0.2,4,WATCH — mixed,40
+LUPIN,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,1691.8,1691.8,-0.0,0.117,0.58,4,WATCH — mixed,15
+MAANALU,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,1691.8,1691.8,-0.0,0.117,0.58,4,WATCH — mixed,15
+SURANAT&P,Surana Telecom and Power Limited,Utilities,Micro,InverseHS,Weekly,2026-04-23,Pattern Formed,55.55,59.52,-6.67,0.117,0.32,4,WATCH — mixed,60
+SUDEEPPHRM,SUDEEP PHARMA LIMITED,Healthcare,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,8.69,8.97,-3.12,0.116,0.41,4,WATCH — mixed,60
+IBULLSLTD,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,365.6,360.85,1.32,0.115,0.51,4,WATCH — mixed,15
+HPL,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,365.6,360.85,1.32,0.115,0.51,4,WATCH — mixed,15
+HTMEDIA,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,365.6,360.85,1.32,0.115,0.51,4,WATCH — mixed,15
+HSCL,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,365.6,360.85,1.32,0.115,0.51,4,WATCH — mixed,15
+HYBRIDFIN,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,365.6,360.85,1.32,0.115,0.51,4,WATCH — mixed,15
+HUHTAMAKI,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,365.6,360.85,1.32,0.115,0.51,4,WATCH — mixed,15
+NIVABUPA,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,388.1,416.85,-6.9,0.115,0.35,4,WATCH — mixed,60
+NKIND,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,388.1,416.85,-6.9,0.115,0.35,4,WATCH — mixed,60
+HARDWYN,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,990.6,1009.9,-1.91,0.113,0.33,4,WATCH — mixed,60
+INDBANK,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,1545.0,1545.0,0.0,0.113,1.02,4,WATCH — mixed,15
+KSHINTL,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,996.1,978.25,1.82,0.113,0.45,4,WATCH — mixed,15
+SMCGLOBAL,SMC Global Securities Limited,Financial Services,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,423.35,410.35,3.17,0.113,0.75,4,WATCH — mixed,15
+AGIIL,AGI Infra Limited,Real Estate,Small,DoubleBottom,Daily,2026-04-20,Pattern Formed,62.76,54.77,14.59,0.112,0.46,4,WATCH — mixed,40
+TFCILTD,Tourism Finance Corporation of India Limited,Financial Services,Small,FlatBase,Daily,2026-04-23,Pattern Formed,101.67,97.0,4.81,0.112,1.08,4,WATCH — mixed,40
+TERASOFT,Tera Software Limited,Technology,Micro,FlatBase,Daily,2026-04-23,Pattern Formed,101.67,97.0,4.81,0.112,1.08,4,WATCH — mixed,40
+SPMLINFRA,SPML Infra Limited,Industrials,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,115.28,101.0,14.14,0.111,0.53,4,WATCH — mixed,60
+STUDDS,STUDDS ACCESSORIES LTD,Consumer Cyclical,Small,FlatBase,Weekly,2026-04-20,Pattern Formed,2243.6,2242.8,0.04,0.109,0.55,4,WATCH — mixed,40
+BRNL,Bharat Road Network Limited,,Micro,DoubleBottom,Weekly,2026-04-23,Pattern Formed,2995.6,3462.6,-13.49,0.107,0.39,4,WATCH — mixed,40
+MONEYBOXX,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,594.9,600.15,-0.87,0.107,0.64,4,WATCH — mixed,60
+MOLDTECH,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,594.9,600.15,-0.87,0.107,0.64,4,WATCH — mixed,60
+MOL,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,594.9,600.15,-0.87,0.107,0.64,4,WATCH — mixed,60
+MOLDTKPAC,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,594.9,600.15,-0.87,0.107,0.64,4,WATCH — mixed,60
+MONARCH,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,594.9,600.15,-0.87,0.107,0.64,4,WATCH — mixed,60
+ESSARSHPNG,Essar Shipping Limited,,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,2717.8,2679.8,1.42,0.106,1.39,4,WATCH — mixed,100
+ESSENTIA,Integra Essentia Limited,,Micro,DoubleBottom,Weekly,2026-04-23,Pattern Formed,2717.8,2679.8,1.42,0.106,1.39,4,WATCH — mixed,100
+ESAFSFB,ESAF Small Finance Bank,,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,2717.8,2679.8,1.42,0.106,1.39,4,WATCH — mixed,100
+ESABINDIA,ESAB India Limited,,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,2717.8,2679.8,1.42,0.106,1.39,4,WATCH — mixed,100
+ESCORTS,Escorts Kubota Limited,,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,2717.8,2679.8,1.42,0.106,1.39,4,WATCH — mixed,100
+SONACOMS,Sona BLW Precision Forgings Limited,,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,545.35,573.5,-4.91,0.106,0.5,4,WATCH — mixed,60
+SONAL,Sonal Mercantile Limited,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,545.35,573.5,-4.91,0.106,0.5,4,WATCH — mixed,60
+SUNTECK,Sunteck Realty Limited,Real Estate,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,1.44,1.44,-0.0,0.106,0.37,4,WATCH — mixed,15
+EQUITASBNK,Equitas Small Finance Bank Limited,Financial Services,Mid,DoubleBottom,Daily,2026-04-23,Pattern Formed,265.42,241.01,10.13,0.105,0.47,4,WATCH — mixed,60
+RAMCOCEM,The Ramco Cements Limited,Basic Materials,Large,BullFlag,Daily,2026-04-23,Pattern Formed,141.23,136.0,3.85,0.105,1.16,4,WATCH — mixed,15
+ROLEXRINGS,Rolex Rings Limited,Industrials,Small,DoubleBottom,Daily,2026-04-23,Pattern Formed,396.8,347.35,14.24,0.105,0.26,4,WATCH — mixed,60
+VSTTILLERS,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,1266.65,1460.9,-13.3,0.105,0.42,4,WATCH — mixed,80
+WALCHANNAG,Walchandnagar Industries Limited,Industrials,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,1266.65,1460.9,-13.3,0.105,0.42,4,WATCH — mixed,80
+VSTIND,VST Industries Limited,,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,1266.65,1460.9,-13.3,0.105,0.42,4,WATCH — mixed,80
+VSTL,Vibhor Steel Tubes Limited,,Micro,InverseHS,Weekly,2026-04-23,Pattern Formed,1266.65,1460.9,-13.3,0.105,0.42,4,WATCH — mixed,80
+DHRUV,Dhruv Consultancy Services Limited,Industrials,Micro,BullFlag,Weekly,2026-04-23,Pattern Formed,27.55,26.71,3.14,0.104,0.25,4,WATCH — mixed,15
+PWL,Physicswallah Limited,Consumer Defensive,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,74.04,66.22,11.81,0.103,0.42,4,WATCH — mixed,60
+KIRLOSBROS,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1185.1,1330.0,-10.89,0.102,0.4,4,WATCH — mixed,60
+KIRLFER,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1185.1,1330.0,-10.89,0.102,0.4,4,WATCH — mixed,60
+MANBA,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,1342.75,1429.0,-6.04,0.1,0.68,4,WATCH — mixed,60
+MANORAMA,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,1342.75,1429.0,-6.04,0.1,0.68,4,WATCH — mixed,60
+MANINDS,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,1342.75,1429.0,-6.04,0.1,0.68,4,WATCH — mixed,60
+SURANASOL,Surana Solar Limited,Technology,Micro,InverseHS,Weekly,2026-04-23,Pattern Formed,32.39,37.69,-14.06,0.1,0.88,4,WATCH — mixed,80
+ADOR,Ador Welding Limited,Industrials,Small,DoubleBottom,Daily,2026-04-23,Pattern Formed,1115.4,1037.1,7.55,0.098,0.26,4,WATCH — mixed,60
+SVLL,Shree Vasu Logistics Limited,,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,14.0,14.0,0.0,0.096,0.62,4,WATCH — mixed,15
+GARUDA,GARUDA CONSTRUCT N ENG L,Industrials,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,637.7,639.0,-0.2,0.095,0.27,4,WATCH — mixed,60
+ANTELOPUS,ANTELOPUS SELAN ENRGY LTD,,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,704.1,742.45,-5.17,0.093,0.46,4,WATCH — mixed,60
+TATACOMM,Tata Communications Limited,Communication Services,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,8069.25,7062.0,14.26,0.093,1.03,4,WATCH — mixed,120
+SUDEEPPHRM,SUDEEP PHARMA LIMITED,Healthcare,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,9.23,8.97,2.9,0.092,0.39,4,WATCH — mixed,15
+TATACONSUM,Tata Consumer Products Limited,Consumer Defensive,Large,BullFlag,Daily,2026-04-23,Pattern Formed,215.95,212.94,1.41,0.092,1.86,4,WATCH — mixed,15
+GENUSPAPER,Genus Paper & Boards Limited,Basic Materials,Micro,InverseHS,Weekly,2026-04-23,Pattern Formed,25.35,27.72,-8.55,0.091,0.67,4,WATCH — mixed,80
+POLICYBZR,PB Fintech Limited,Financial Services,Large,DoubleBottom,Weekly,2026-04-20,Pattern Formed,2081.74,1488.8,39.83,0.091,0.28,4,WATCH — mixed,40
+RAILTEL,RailTel Corporation of India Limited,,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1221.0,1267.7,-3.68,0.091,0.22,4,WATCH — mixed,60
+SBFC,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,95.95,96.04,-0.09,0.091,0.15,4,WATCH — mixed,60
+BSHSL,Bombay Super Hybrid Seeds Limited,,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1001.8,1161.65,-13.76,0.09,0.45,4,WATCH — mixed,40
+BSL,BSL Limited,,Micro,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1001.8,1161.65,-13.76,0.09,0.45,4,WATCH — mixed,40
+BSE,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1001.8,1161.65,-13.76,0.09,0.45,4,WATCH — mixed,40
+BUILDPRO,Shankara Buildpro Limited,Consumer Cyclical,Small,DoubleBottom,Daily,2026-04-23,Pattern Formed,1001.8,1161.65,-13.76,0.09,0.45,4,WATCH — mixed,40
+MONEYBOXX,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,569.32,600.15,-5.14,0.09,0.64,4,WATCH — mixed,60
+MOLDTECH,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,569.32,600.15,-5.14,0.09,0.64,4,WATCH — mixed,60
+MOL,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,569.32,600.15,-5.14,0.09,0.64,4,WATCH — mixed,60
+MOLDTKPAC,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,569.32,600.15,-5.14,0.09,0.64,4,WATCH — mixed,60
+MONARCH,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,569.32,600.15,-5.14,0.09,0.64,4,WATCH — mixed,60
+SUMMITSEC,Summit Securities Limited,,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,261.53,287.66,-9.08,0.09,0.64,4,WATCH — mixed,80
+SUNDARMFIN,Sundaram Finance Limited,,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,261.53,287.66,-9.08,0.09,0.64,4,WATCH — mixed,80
+SUNCLAY,Sundaram-Clayton Limited,,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,261.53,287.66,-9.08,0.09,0.64,4,WATCH — mixed,80
+ASTRAZEN,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,1142.0,1142.0,0.0,0.087,0.59,4,WATCH — mixed,15
+SIKKO,Sikko Industries Limited,Basic Materials,Micro,InverseHS,Weekly,2026-04-23,Pattern Formed,815.48,853.75,-4.48,0.087,0.45,4,WATCH — mixed,60
+SIKA,Sika Interplant Systems Limited,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,815.48,853.75,-4.48,0.087,0.45,4,WATCH — mixed,60
+LLOYDSENGG,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,57.67,67.71,-14.83,0.086,0.57,4,WATCH — mixed,80
+LINDEINDIA,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,57.67,67.71,-14.83,0.086,0.57,4,WATCH — mixed,80
+LLOYDSENT,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,57.67,67.71,-14.83,0.086,0.57,4,WATCH — mixed,80
+LINCOLN,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,57.67,67.71,-14.83,0.086,0.57,4,WATCH — mixed,80
+SOMANYCERA,Somany Ceramics Limited,Industrials,Small,InverseHS,Daily,2026-04-23,Pattern Formed,65.21,65.57,-0.55,0.086,0.35,4,WATCH — mixed,60
+SOLARINDS,Solar Industries India Limited,Basic Materials,Large,InverseHS,Daily,2026-04-23,Pattern Formed,65.21,65.57,-0.55,0.086,0.35,4,WATCH — mixed,60
+CHOLAFIN,Cholamandalam Investment and Finance Company Limited,Financial Services,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1770.2,1546.2,14.49,0.085,0.71,4,WATCH — mixed,60
+GRSE,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,163.35,219.76,-25.67,0.085,0.94,4,WATCH — mixed,40
+VSTTILLERS,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1279.5,1460.9,-12.42,0.085,0.42,4,WATCH — mixed,40
+WALCHANNAG,Walchandnagar Industries Limited,Industrials,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1279.5,1460.9,-12.42,0.085,0.42,4,WATCH — mixed,40
+VSTIND,VST Industries Limited,,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1279.5,1460.9,-12.42,0.085,0.42,4,WATCH — mixed,40
+VSTL,Vibhor Steel Tubes Limited,,Micro,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1279.5,1460.9,-12.42,0.085,0.42,4,WATCH — mixed,40
+SUNPHARMA,Sun Pharmaceutical Industries Limited,Healthcare,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1825.9,1684.7,8.38,0.084,0.81,4,WATCH — mixed,60
+TECHNVISN,TechNVision Ventures Limited,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,269.4,256.0,5.23,0.084,0.15,4,WATCH — mixed,40
+VINDHYATEL,Vindhya Telelinks Limited,Industrials,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1022.2,1022.0,0.02,0.084,0.22,4,WATCH — mixed,60
+VINATIORGA,Vinati Organics Limited,Basic Materials,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1022.2,1022.0,0.02,0.084,0.22,4,WATCH — mixed,60
+VHL,Vardhman Holdings Limited,,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1022.2,1022.0,0.02,0.084,0.22,4,WATCH — mixed,60
+ADL,Archidply Decor Limited,Consumer Cyclical,Micro,BullFlag,Daily,2026-04-23,Pattern Formed,1368.1,1366.7,0.1,0.083,0.95,4,WATCH — mixed,15
+FSL,Firstsource Solutions Limited,Technology,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,5254.0,4716.1,11.41,0.083,0.5,4,WATCH — mixed,40
+TIIL,Technocraft Industries (India) Limited,,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,456.75,466.3,-2.05,0.083,0.43,4,WATCH — mixed,40
+RPSGVENT,RPSG Ventures Limited,,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,369.05,470.8,-21.61,0.082,0.53,4,WATCH — mixed,40
+RPTECH,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,369.05,470.8,-21.61,0.082,0.53,4,WATCH — mixed,40
+TECHNVISN,TechNVision Ventures Limited,,Unknown,FlatBase,Weekly,2026-04-23,Pattern Formed,296.2,256.0,15.7,0.081,0.15,4,WATCH — mixed,120
+VINDHYATEL,Vindhya Telelinks Limited,Industrials,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,1040.8,1022.0,1.84,0.081,0.18,4,WATCH — mixed,15
+VINATIORGA,Vinati Organics Limited,Basic Materials,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,1040.8,1022.0,1.84,0.081,0.18,4,WATCH — mixed,15
+VHL,Vardhman Holdings Limited,,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,1040.8,1022.0,1.84,0.081,0.18,4,WATCH — mixed,15
+SUMMITSEC,Summit Securities Limited,,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,258.19,287.66,-10.24,0.08,0.64,4,WATCH — mixed,60
+SUMMITSEC,Summit Securities Limited,,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,297.31,287.66,3.35,0.08,0.34,4,WATCH — mixed,15
+SUNDARMFIN,Sundaram Finance Limited,,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,258.19,287.66,-10.24,0.08,0.64,4,WATCH — mixed,60
+SUNDARMFIN,Sundaram Finance Limited,,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,297.31,287.66,3.35,0.08,0.34,4,WATCH — mixed,15
+SUNCLAY,Sundaram-Clayton Limited,,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,258.19,287.66,-10.24,0.08,0.64,4,WATCH — mixed,60
+SUNCLAY,Sundaram-Clayton Limited,,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,297.31,287.66,3.35,0.08,0.34,4,WATCH — mixed,15
+BHARATFORG,Bharat Forge Limited,,Large,FlatBase,Weekly,2026-04-23,Pattern Formed,1923.9,1871.6,2.79,0.079,0.8,4,WATCH — mixed,60
+BHAGYANGR,Bhagyanagar India Limited,,Small,FlatBase,Weekly,2026-04-23,Pattern Formed,1923.9,1871.6,2.79,0.079,0.8,4,WATCH — mixed,60
+BHARATRAS,Bharat Rasayan Limited,Basic Materials,Small,FlatBase,Weekly,2026-04-23,Pattern Formed,1923.9,1871.6,2.79,0.079,0.8,4,WATCH — mixed,60
+PANACEABIO,Panacea Biotec Limited,,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,116.15,136.5,-14.91,0.079,1.03,4,WATCH — mixed,40
+PARAGMILK,Parag Milk Foods Limited,Consumer Defensive,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,116.15,136.5,-14.91,0.079,1.03,4,WATCH — mixed,40
+PARACABLES,Paramount Communications Limited,Technology,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,116.15,136.5,-14.91,0.079,1.03,4,WATCH — mixed,40
+SHANTIGOLD,,,Unknown,FlatBase,Weekly,2026-04-23,Pattern Formed,2267.4,2166.3,4.67,0.079,2.87,4,WATCH — mixed,40
+INDSWFTLAB,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,146.41,140.25,4.39,0.078,0.33,4,WATCH — mixed,60
+INNOVANA,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,146.41,140.25,4.39,0.078,0.33,4,WATCH — mixed,60
+INGERRAND,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,146.41,140.25,4.39,0.078,0.33,4,WATCH — mixed,60
+RBLBANK,RBL Bank Limited,Financial Services,Mid,DoubleBottom,Weekly,2026-04-20,Pattern Formed,67.77,63.64,6.49,0.078,0.23,4,WATCH — mixed,40
+DHRUV,Dhruv Consultancy Services Limited,Industrials,Micro,DoubleBottom,Weekly,2026-04-23,Pattern Formed,26.61,26.71,-0.37,0.077,0.23,4,WATCH — mixed,100
+PIIND,PI Industries Limited,,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,4846.3,4806.4,0.83,0.077,0.73,4,WATCH — mixed,40
+PIONEEREMB,Pioneer Embroideries Limited,,Micro,DoubleBottom,Weekly,2026-04-23,Pattern Formed,4846.3,4806.4,0.83,0.077,0.73,4,WATCH — mixed,40
+PITTIENG,Pitti Engineering Limited,Industrials,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,4846.3,4806.4,0.83,0.077,0.73,4,WATCH — mixed,40
+PPAP,PPAP Automotive Limited,,Micro,InverseHS,Weekly,2026-04-23,Pattern Formed,19641.5,31435.0,-37.52,0.077,1.02,4,WATCH — mixed,120
+POWERINDIA,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,19641.5,31435.0,-37.52,0.077,1.02,4,WATCH — mixed,120
+VSSL,Vardhman Special Steels Limited,Basic Materials,Small,BullFlag,Daily,2026-04-23,Pattern Formed,1481.6,1443.8,2.62,0.077,0.73,4,WATCH — mixed,15
+BIL,Bhartiya International Ltd.,Consumer Cyclical,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,267.85,338.96,-20.98,0.076,0.64,4,WATCH — mixed,40
+NIVABUPA,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,418.4,416.85,0.37,0.075,0.46,4,WATCH — mixed,15
+NKIND,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,418.4,416.85,0.37,0.075,0.46,4,WATCH — mixed,15
+POLICYBZR,PB Fintech Limited,Financial Services,Large,InverseHS,Daily,2026-04-23,Pattern Formed,912.95,914.05,-0.12,0.075,0.36,4,WATCH — mixed,60
+SPMLINFRA,SPML Infra Limited,Industrials,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,100.2,101.0,-0.79,0.075,0.53,4,WATCH — mixed,60
+SUNTECK,Sunteck Realty Limited,Real Estate,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1.94,1.44,34.72,0.075,0.3,4,WATCH — mixed,150
+TIMEX,Timex Group India Limited,Consumer Cyclical,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,420.35,395.15,6.38,0.075,0.29,4,WATCH — mixed,60
+AWFIS,AWFIS SPACE SOLUTIONS LTD,Industrials,Small,DoubleBottom,Daily,2026-04-23,Pattern Formed,523.25,348.82,50.01,0.073,0.31,4,WATCH — mixed,100
+BIL,Bhartiya International Ltd.,Consumer Cyclical,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,288.12,338.96,-15.0,0.073,0.64,4,WATCH — mixed,120
+DEVIT,Dev Information Technology Limited,Technology,Micro,InverseHS,Weekly,2026-04-23,Pattern Formed,249.93,269.1,-7.12,0.071,0.48,4,WATCH — mixed,80
+DEVYANI,Devyani International Limited,Consumer Cyclical,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,249.93,269.1,-7.12,0.071,0.48,4,WATCH — mixed,80
+DHARMAJ,Dharmaj Crop Guard Limited,Basic Materials,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,249.93,269.1,-7.12,0.071,0.48,4,WATCH — mixed,80
+DGCONTENT,Digicontent Limited,Communication Services,Micro,InverseHS,Weekly,2026-04-23,Pattern Formed,249.93,269.1,-7.12,0.071,0.48,4,WATCH — mixed,80
+DHANUKA,Dhanuka Agritech Limited,Basic Materials,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,249.93,269.1,-7.12,0.071,0.48,4,WATCH — mixed,80
+DENTA,DENTA WATER N INFRA SOL L,Industrials,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,249.93,269.1,-7.12,0.071,0.48,4,WATCH — mixed,80
+BHARATFORG,Bharat Forge Limited,,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1804.4,1871.6,-3.59,0.068,0.8,4,WATCH — mixed,40
+BHAGYANGR,Bhagyanagar India Limited,,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1804.4,1871.6,-3.59,0.068,0.8,4,WATCH — mixed,40
+BHARATRAS,Bharat Rasayan Limited,Basic Materials,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1804.4,1871.6,-3.59,0.068,0.8,4,WATCH — mixed,40
+SURANASOL,Surana Solar Limited,Technology,Micro,DoubleBottom,Weekly,2026-04-23,Pattern Formed,32.05,37.69,-14.96,0.068,0.88,4,WATCH — mixed,60
+ADL,Archidply Decor Limited,Consumer Cyclical,Micro,DoubleBottom,Daily,2026-04-23,Pattern Formed,1036.7,1366.7,-24.15,0.067,1.03,4,WATCH — mixed,40
+INDBANK,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1263.1,1545.0,-18.25,0.067,0.86,4,WATCH — mixed,40
+LUMAXIND,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,945.15,1747.05,-45.9,0.067,0.98,4,WATCH — mixed,40
+SOLEX,SOLEX ENERGY LIMITED,Technology,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,462.75,462.75,0.0,0.067,0.6,4,WATCH — mixed,15
+COALINDIA,Coal India Limited,,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,1438.25,1595.4,-9.85,0.066,0.76,4,WATCH — mixed,60
+SMCGLOBAL,SMC Global Securities Limited,Financial Services,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,354.3,410.35,-13.66,0.066,0.61,4,WATCH — mixed,40
+GENUSPAPER,Genus Paper & Boards Limited,Basic Materials,Micro,DoubleBottom,Daily,2026-04-23,Pattern Formed,358.15,344.7,3.9,0.065,1.88,4,WATCH — mixed,40
+NETWORK18,Network18 Media & Investments Limited,,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,4019.6,3882.6,3.53,0.065,0.4,4,WATCH — mixed,15
+NETWEB,Netweb Technologies India Limited,,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,4019.6,3882.6,3.53,0.065,0.4,4,WATCH — mixed,15
+OMAXAUTO,Omax Autos Limited,Consumer Cyclical,Micro,DoubleBottom,Daily,2026-04-20,Pattern Formed,426.82,474.7,-10.09,0.065,0.66,4,WATCH — mixed,40
+SKFINDIA,SKF India Limited,Industrials,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1875.4,1726.7,8.61,0.065,0.29,4,WATCH — mixed,100
+SUNPHARMA,Sun Pharmaceutical Industries Limited,Healthcare,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,1778.4,1684.7,5.56,0.065,0.81,4,WATCH — mixed,120
+ASTRAZEN,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,1065.75,1142.0,-6.68,0.064,0.73,4,WATCH — mixed,60
+DEEPINDS,Deep Industries Limited,Energy,Small,InverseHS,Daily,2026-04-23,Pattern Formed,220.23,432.25,-49.05,0.064,0.8,4,WATCH — mixed,80
+SKFINDIA,SKF India Limited,Industrials,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,1751.1,1726.7,1.41,0.064,0.69,4,WATCH — mixed,15
+TECHNOE,Techno Electric & Engineering Company Limited,Industrials,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1803.8,1711.5,5.39,0.064,0.15,4,WATCH — mixed,40
+VIKRAN,VIKRAN ENGINEERING LTD,Industrials,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,215.03,227.48,-5.47,0.064,0.9,4,WATCH — mixed,120
+VIKRAN,VIKRAN ENGINEERING LTD,Industrials,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,195.04,227.48,-14.26,0.064,0.9,4,WATCH — mixed,40
+VIDHIING,Vidhi Specialty Food Ingredients Limited,Basic Materials,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,215.03,227.48,-5.47,0.064,0.9,4,WATCH — mixed,120
+VIDHIING,Vidhi Specialty Food Ingredients Limited,Basic Materials,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,195.04,227.48,-14.26,0.064,0.9,4,WATCH — mixed,40
+VIMTALABS,Vimta Labs Limited,Healthcare,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,215.03,227.48,-5.47,0.064,0.9,4,WATCH — mixed,120
+VIMTALABS,Vimta Labs Limited,Healthcare,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,195.04,227.48,-14.26,0.064,0.9,4,WATCH — mixed,40
+ORIENTCER,Orient Ceratech Limited,Basic Materials,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,38.65,42.81,-9.72,0.063,0.21,4,WATCH — mixed,40
+ORIENTCEM,Orient Cement Limited,Basic Materials,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,38.65,42.81,-9.72,0.063,0.21,4,WATCH — mixed,40
+SOLEX,SOLEX ENERGY LIMITED,Technology,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,388.4,462.75,-16.07,0.062,0.6,4,WATCH — mixed,40
+SOMANYCERA,Somany Ceramics Limited,Industrials,Small,FlatBase,Daily,2026-04-23,Pattern Formed,67.2,65.57,2.49,0.061,0.35,4,WATCH — mixed,120
+SOLARINDS,Solar Industries India Limited,Basic Materials,Large,FlatBase,Daily,2026-04-23,Pattern Formed,67.2,65.57,2.49,0.061,0.35,4,WATCH — mixed,120
+STARTECK,Starteck Finance Limited,Financial Services,Micro,DoubleBottom,Daily,2026-04-23,Pattern Formed,480.6,517.0,-7.04,0.061,0.49,4,WATCH — mixed,60
+STCINDIA,The State Trading Corporation of India Limited,Industrials,Small,DoubleBottom,Daily,2026-04-23,Pattern Formed,480.6,517.0,-7.04,0.061,0.49,4,WATCH — mixed,60
+CINEVISTA,Cinevista Limited,,Micro,BullFlag,Weekly,2026-04-23,Pattern Formed,278.09,273.89,1.53,0.06,0.88,4,WATCH — mixed,15
+CIFL,Capital India Finance Limited,,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,278.09,273.89,1.53,0.06,0.88,4,WATCH — mixed,15
+CINELINE,Cineline India Limited,,Micro,BullFlag,Weekly,2026-04-23,Pattern Formed,278.09,273.89,1.53,0.06,0.88,4,WATCH — mixed,15
+CLSEL,Chaman Lal Setia Exports Ltd.,,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,278.09,273.89,1.53,0.06,0.88,4,WATCH — mixed,15
+CLEANMAX,CLEAN MAX ENVIRO EN SOL L,,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,278.09,273.89,1.53,0.06,0.88,4,WATCH — mixed,15
+CIPLA,Cipla Limited,,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,278.09,273.89,1.53,0.06,0.88,4,WATCH — mixed,15
+KPIL,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,1266.0,1264.1,0.15,0.06,0.43,4,WATCH — mixed,15
+QUINT,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,304.9,319.0,-4.42,0.06,0.36,4,WATCH — mixed,60
+RADIANTCMS,Radiant Cash Management Services Limited,,Micro,InverseHS,Weekly,2026-04-23,Pattern Formed,304.9,319.0,-4.42,0.06,0.36,4,WATCH — mixed,60
+RADHIKAJWE,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,304.9,319.0,-4.42,0.06,0.36,4,WATCH — mixed,60
+COALINDIA,Coal India Limited,,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,1595.4,1595.4,-0.0,0.059,1.06,4,WATCH — mixed,15
+ZENTEC,Zen Technologies Limited,Industrials,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,222.34,221.0,0.61,0.059,0.61,4,WATCH — mixed,15
+ZENSARTECH,Zensar Technologies Limited,Technology,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,222.34,221.0,0.61,0.059,0.61,4,WATCH — mixed,15
+KPIL,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,1128.55,1264.1,-10.72,0.058,0.3,4,WATCH — mixed,60
+PPAP,PPAP Automotive Limited,,Micro,DoubleBottom,Weekly,2026-04-23,Pattern Formed,25670.0,31435.0,-18.34,0.058,1.02,4,WATCH — mixed,40
+POWERINDIA,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,25670.0,31435.0,-18.34,0.058,1.02,4,WATCH — mixed,40
+BANSWRAS,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,260.05,308.0,-15.57,0.056,0.16,4,WATCH — mixed,40
+BASF,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,260.05,308.0,-15.57,0.056,0.16,4,WATCH — mixed,40
+CONCOR,Container Corporation of India Limited,,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1650.5,1652.7,-0.13,0.056,1.13,4,WATCH — mixed,40
+CORONA,CORONA REMEDIES LIMITED,Healthcare,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1650.5,1652.7,-0.13,0.056,1.13,4,WATCH — mixed,40
+CORALFINAC,Coral India Finance and Housing Limited,Real Estate,Micro,DoubleBottom,Daily,2026-04-23,Pattern Formed,1650.5,1652.7,-0.13,0.056,1.13,4,WATCH — mixed,40
+PWL,Physicswallah Limited,Consumer Defensive,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,67.48,66.22,1.9,0.056,0.71,4,WATCH — mixed,15
+RAMCOCEM,The Ramco Cements Limited,Basic Materials,Large,DoubleBottom,Daily,2026-04-23,Pattern Formed,119.67,136.0,-12.01,0.056,0.62,4,WATCH — mixed,40
+CINEVISTA,Cinevista Limited,,Micro,InverseHS,Weekly,2026-04-23,Pattern Formed,275.21,273.89,0.48,0.054,0.27,4,WATCH — mixed,80
+CIFL,Capital India Finance Limited,,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,275.21,273.89,0.48,0.054,0.27,4,WATCH — mixed,80
+CINELINE,Cineline India Limited,,Micro,InverseHS,Weekly,2026-04-23,Pattern Formed,275.21,273.89,0.48,0.054,0.27,4,WATCH — mixed,80
+CLSEL,Chaman Lal Setia Exports Ltd.,,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,275.21,273.89,0.48,0.054,0.27,4,WATCH — mixed,80
+CLEANMAX,CLEAN MAX ENVIRO EN SOL L,,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,275.21,273.89,0.48,0.054,0.27,4,WATCH — mixed,80
+CIPLA,Cipla Limited,,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,275.21,273.89,0.48,0.054,0.27,4,WATCH — mixed,80
+COHANCE,COHANCE LIFESCIENCES LTD,Healthcare,Mid,DoubleBottom,Weekly,2026-04-20,Pattern Formed,468.15,450.3,3.96,0.054,0.59,4,WATCH — mixed,40
+JAYBARMARU,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,340.77,407.7,-16.42,0.054,0.95,4,WATCH — mixed,80
+JAYKAY,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,340.77,407.7,-16.42,0.054,0.95,4,WATCH — mixed,80
+JAYSREETEA,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,340.77,407.7,-16.42,0.054,0.95,4,WATCH — mixed,80
+JAYAGROGN,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,340.77,407.7,-16.42,0.054,0.95,4,WATCH — mixed,80
+PROZONER,Prozone Realty Limited,Real Estate,Small,DoubleBottom,Daily,2026-04-23,Pattern Formed,46.24,62.75,-26.31,0.054,0.32,4,WATCH — mixed,40
+PRIVISCL,Privi Speciality Chemicals Limited,Basic Materials,Mid,DoubleBottom,Daily,2026-04-23,Pattern Formed,46.24,62.75,-26.31,0.054,0.32,4,WATCH — mixed,40
+PROSTARM,PROSTARM INFO SYSTEMS LTD,Industrials,Small,DoubleBottom,Daily,2026-04-23,Pattern Formed,46.24,62.75,-26.31,0.054,0.32,4,WATCH — mixed,40
+PRSMJOHNSN,Prism Johnson Limited,Basic Materials,Mid,DoubleBottom,Daily,2026-04-23,Pattern Formed,46.24,62.75,-26.31,0.054,0.32,4,WATCH — mixed,40
+TATASTEEL,Tata Steel Limited,,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1176.4,1318.1,-10.75,0.054,0.44,4,WATCH — mixed,40
+TATATECH,Tata Technologies Limited,Technology,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1176.4,1318.1,-10.75,0.054,0.44,4,WATCH — mixed,40
+TCIEXP,TCI Express Limited,Industrials,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1176.4,1318.1,-10.75,0.054,0.44,4,WATCH — mixed,40
+TCI,Transport Corporation of India Limited,Industrials,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1176.4,1318.1,-10.75,0.054,0.44,4,WATCH — mixed,40
+TATAPOWER,Tata Power Company Limited,,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1176.4,1318.1,-10.75,0.054,0.44,4,WATCH — mixed,40
+VSTTILLERS,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,1488.4,1460.9,1.88,0.054,0.28,4,WATCH — mixed,15
+WALCHANNAG,Walchandnagar Industries Limited,Industrials,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,1488.4,1460.9,1.88,0.054,0.28,4,WATCH — mixed,15
+VSTIND,VST Industries Limited,,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,1488.4,1460.9,1.88,0.054,0.28,4,WATCH — mixed,15
+VSTL,Vibhor Steel Tubes Limited,,Micro,BullFlag,Weekly,2026-04-23,Pattern Formed,1488.4,1460.9,1.88,0.054,0.28,4,WATCH — mixed,15
+SBFC,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,98.67,96.04,2.74,0.053,0.33,4,WATCH — mixed,15
+SURYODAY,Suryoday Small Finance Bank Limited,Financial Services,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,144.43,207.7,-30.46,0.053,0.38,4,WATCH — mixed,40
+SUYOG,Suyog Telematics Limited,Communication Services,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,144.43,207.7,-30.46,0.053,0.38,4,WATCH — mixed,40
+SUVEN,Suven Life Sciences Limited,Healthcare,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,144.43,207.7,-30.46,0.053,0.38,4,WATCH — mixed,40
+SUZLON,Suzlon Energy Limited,Industrials,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,144.43,207.7,-30.46,0.053,0.38,4,WATCH — mixed,40
+SURYAROSNI,Surya Roshni Limited,Basic Materials,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,144.43,207.7,-30.46,0.053,0.38,4,WATCH — mixed,40
+SURYALAXMI,Suryalakshmi Cotton Mills Limited,Consumer Cyclical,Micro,DoubleBottom,Weekly,2026-04-23,Pattern Formed,144.43,207.7,-30.46,0.053,0.38,4,WATCH — mixed,40
+EMUDHRA,eMudhra Limited,Technology,Small,FlatBase,Daily,2026-04-23,Pattern Formed,1672.1,1597.6,4.66,0.051,0.3,4,WATCH — mixed,40
+NORTHARC,Northern Arc Capital Limited,Financial Services,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,3.85,3.77,2.12,0.051,0.25,4,WATCH — mixed,15
+AIAENG,AIA Engineering Limited,Industrials,Large,FlatBase,Weekly,2026-04-20,Pattern Formed,4089.7,4043.4,1.15,0.05,0.64,4,WATCH — mixed,40
+GENUSPAPER,Genus Paper & Boards Limited,Basic Materials,Micro,FlatBase,Daily,2026-04-23,Pattern Formed,358.15,344.7,3.9,0.05,1.88,4,WATCH — mixed,40
+ZENTEC,Zen Technologies Limited,Industrials,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,193.2,221.0,-12.58,0.05,1.12,4,WATCH — mixed,40
+ZENSARTECH,Zensar Technologies Limited,Technology,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,193.2,221.0,-12.58,0.05,1.12,4,WATCH — mixed,40
+DEVIT,Dev Information Technology Limited,Technology,Micro,DoubleBottom,Weekly,2026-04-23,Pattern Formed,249.19,269.1,-7.4,0.049,0.48,4,WATCH — mixed,40
+DEVIT,Dev Information Technology Limited,Technology,Micro,BullFlag,Weekly,2026-04-23,Pattern Formed,270.37,269.1,0.47,0.049,0.9,4,WATCH — mixed,15
+DEVYANI,Devyani International Limited,Consumer Cyclical,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,249.19,269.1,-7.4,0.049,0.48,4,WATCH — mixed,40
+DEVYANI,Devyani International Limited,Consumer Cyclical,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,270.37,269.1,0.47,0.049,0.9,4,WATCH — mixed,15
+DHARMAJ,Dharmaj Crop Guard Limited,Basic Materials,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,249.19,269.1,-7.4,0.049,0.48,4,WATCH — mixed,40
+DHARMAJ,Dharmaj Crop Guard Limited,Basic Materials,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,270.37,269.1,0.47,0.049,0.9,4,WATCH — mixed,15
+DGCONTENT,Digicontent Limited,Communication Services,Micro,DoubleBottom,Weekly,2026-04-23,Pattern Formed,249.19,269.1,-7.4,0.049,0.48,4,WATCH — mixed,40
+DGCONTENT,Digicontent Limited,Communication Services,Micro,BullFlag,Weekly,2026-04-23,Pattern Formed,270.37,269.1,0.47,0.049,0.9,4,WATCH — mixed,15
+DHANUKA,Dhanuka Agritech Limited,Basic Materials,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,249.19,269.1,-7.4,0.049,0.48,4,WATCH — mixed,40
+DHANUKA,Dhanuka Agritech Limited,Basic Materials,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,270.37,269.1,0.47,0.049,0.9,4,WATCH — mixed,15
+DENTA,DENTA WATER N INFRA SOL L,Industrials,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,249.19,269.1,-7.4,0.049,0.48,4,WATCH — mixed,40
+DENTA,DENTA WATER N INFRA SOL L,Industrials,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,270.37,269.1,0.47,0.049,0.9,4,WATCH — mixed,15
+FEDERALBNK,The Federal Bank Limited,Financial Services,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,253.08,250.7,0.95,0.049,0.51,4,WATCH — mixed,15
+PIONRINV,Pioneer Investcorp Limited,,Unknown,DoubleBottom,Daily,2026-04-23,Pattern Formed,1854.1,1841.3,0.7,0.049,0.55,4,WATCH — mixed,40
+SURAJEST,SURAJ ESTATE DEVELOPERS L,Real Estate,Small,DoubleBottom,Daily,2026-04-23,Pattern Formed,436.65,425.5,2.62,0.049,0.3,4,WATCH — mixed,40
+TATACONSUM,Tata Consumer Products Limited,Consumer Defensive,Large,DoubleBottom,Daily,2026-04-23,Pattern Formed,201.32,212.94,-5.46,0.049,0.69,4,WATCH — mixed,40
+ABB,ABB India Limited,,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,452.82,565.85,-19.98,0.048,0.42,4,WATCH — mixed,60
+ABINFRA,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,452.82,565.85,-19.98,0.048,0.42,4,WATCH — mixed,60
+ABLBL,ADITYA BIRLA LIFES BRAN L,,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,452.82,565.85,-19.98,0.048,0.42,4,WATCH — mixed,60
+ABCOTS,A B COTSPIN INDIA LIMITED,,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,452.82,565.85,-19.98,0.048,0.42,4,WATCH — mixed,60
+ABDL,ALLIED BLEND N DISTILS L,,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,452.82,565.85,-19.98,0.048,0.42,4,WATCH — mixed,60
+ANTELOPUS,ANTELOPUS SELAN ENRGY LTD,,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,724.25,742.45,-2.45,0.048,0.46,4,WATCH — mixed,60
+JAYBARMARU,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,407.7,407.7,-0.0,0.048,0.66,4,WATCH — mixed,15
+JAYKAY,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,407.7,407.7,-0.0,0.048,0.66,4,WATCH — mixed,15
+JAYSREETEA,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,407.7,407.7,-0.0,0.048,0.66,4,WATCH — mixed,15
+JAYAGROGN,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,407.7,407.7,-0.0,0.048,0.66,4,WATCH — mixed,15
+JSL,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,126.6,126.53,0.06,0.048,0.48,4,WATCH — mixed,60
+JSWINFRA,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,126.6,126.53,0.06,0.048,0.48,4,WATCH — mixed,60
+JTEKTINDIA,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,126.6,126.53,0.06,0.048,0.48,4,WATCH — mixed,60
+JSWENERGY,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,126.6,126.53,0.06,0.048,0.48,4,WATCH — mixed,60
+SIGMAADV,Sigma Advanced Systems Limited,,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,74.51,77.71,-4.12,0.048,0.86,4,WATCH — mixed,40
+GARUDA,GARUDA CONSTRUCT N ENG L,Industrials,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,757.7,639.0,18.58,0.047,0.27,4,WATCH — mixed,60
+SHYAMCENT,Shyam Century Ferrous Limited,Basic Materials,Micro,DoubleBottom,Weekly,2026-04-23,Pattern Formed,3125.0,3586.3,-12.86,0.047,0.54,4,WATCH — mixed,40
+SHRIRAMPPS,Shriram Properties Limited,Real Estate,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,3125.0,3586.3,-12.86,0.047,0.54,4,WATCH — mixed,40
+SHYAMMETL,Shyam Metalics and Energy Limited,,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,3125.0,3586.3,-12.86,0.047,0.54,4,WATCH — mixed,40
+SIEMENS,Siemens Limited,Industrials,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,3125.0,3586.3,-12.86,0.047,0.54,4,WATCH — mixed,40
+SIGACHI,Sigachi Industries Limited,Healthcare,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,3125.0,3586.3,-12.86,0.047,0.54,4,WATCH — mixed,40
+SHYAMTEL,Shyam Telecom Limited,Technology,Micro,DoubleBottom,Weekly,2026-04-23,Pattern Formed,3125.0,3586.3,-12.86,0.047,0.54,4,WATCH — mixed,40
+SHRIPISTON,SPR Auto Technologies Limited,Consumer Cyclical,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,3125.0,3586.3,-12.86,0.047,0.54,4,WATCH — mixed,40
+SOMANYCERA,Somany Ceramics Limited,Industrials,Small,DoubleBottom,Daily,2026-04-23,Pattern Formed,67.2,65.57,2.49,0.047,0.35,4,WATCH — mixed,40
+SOLARINDS,Solar Industries India Limited,Basic Materials,Large,DoubleBottom,Daily,2026-04-23,Pattern Formed,67.2,65.57,2.49,0.047,0.35,4,WATCH — mixed,40
+TECHNOE,Techno Electric & Engineering Company Limited,Industrials,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,1765.35,1711.5,3.15,0.047,0.15,4,WATCH — mixed,60
+ASHIKA,Ashika Credit Capital Limited,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,296.8,315.67,-5.98,0.046,0.85,4,WATCH — mixed,60
+ASHOKLEY,Ashok Leyland Limited,,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,296.8,315.67,-5.98,0.046,0.85,4,WATCH — mixed,60
+ASHOKA,Ashoka Buildcon Limited,,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,296.8,315.67,-5.98,0.046,0.85,4,WATCH — mixed,60
+ASIANHOTNR,Asian Hotels (North) Limited,,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,296.8,315.67,-5.98,0.046,0.85,4,WATCH — mixed,60
+ASIANENE,Asian Energy Services Limited,,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,296.8,315.67,-5.98,0.046,0.85,4,WATCH — mixed,60
+ASHAPURMIN,Ashapura Minechem Limited,,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,296.8,315.67,-5.98,0.046,0.85,4,WATCH — mixed,60
+TATVA,Tatva Chintan Pharma Chem Limited,Basic Materials,Small,DoubleBottom,Daily,2026-04-23,Pattern Formed,402.4,428.8,-6.16,0.046,0.69,4,WATCH — mixed,40
+TBZ,Tribhovandas Bhimji Zaveri Limited,Consumer Cyclical,Small,DoubleBottom,Daily,2026-04-23,Pattern Formed,402.4,428.8,-6.16,0.046,0.69,4,WATCH — mixed,40
+CHOLAFIN,Cholamandalam Investment and Finance Company Limited,Financial Services,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,1667.85,1546.2,7.87,0.045,0.71,4,WATCH — mixed,60
+ETERNAL,Eternal Limited,Consumer Cyclical,Large,InverseHS,Daily,2026-04-23,Pattern Formed,26.65,23.89,11.55,0.045,0.52,4,WATCH — mixed,60
+TFCILTD,Tourism Finance Corporation of India Limited,Financial Services,Small,DoubleBottom,Daily,2026-04-23,Pattern Formed,98.78,97.0,1.84,0.045,1.08,4,WATCH — mixed,60
+TERASOFT,Tera Software Limited,Technology,Micro,DoubleBottom,Daily,2026-04-23,Pattern Formed,98.78,97.0,1.84,0.045,1.08,4,WATCH — mixed,60
+BALAJEE,SHREE TIRUPATI BALAJEE L,Consumer Cyclical,Micro,InverseHS,Weekly,2026-04-23,Pattern Formed,174.19,185.5,-6.1,0.044,0.93,4,WATCH — mixed,180
+BALAJITELE,Balaji Telefilms Limited,Communication Services,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,174.19,185.5,-6.1,0.044,0.93,4,WATCH — mixed,180
+BHARATFORG,Bharat Forge Limited,,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,1903.2,1871.6,1.69,0.044,1.07,4,WATCH — mixed,15
+BHAGYANGR,Bhagyanagar India Limited,,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,1903.2,1871.6,1.69,0.044,1.07,4,WATCH — mixed,15
+BHARATRAS,Bharat Rasayan Limited,Basic Materials,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,1903.2,1871.6,1.69,0.044,1.07,4,WATCH — mixed,15
+POLICYBZR,PB Fintech Limited,Financial Services,Large,FlatBase,Daily,2026-04-23,Pattern Formed,933.65,914.05,2.14,0.044,0.36,4,WATCH — mixed,40
+THACKER,Thacker and Company Limited,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,3279.2,4046.8,-18.97,0.044,0.45,4,WATCH — mixed,40
+THEJO,Thejo Engineering Limited,,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,3279.2,4046.8,-18.97,0.044,0.45,4,WATCH — mixed,40
+ETERNAL,Eternal Limited,Consumer Cyclical,Large,BullFlag,Daily,2026-04-23,Pattern Formed,24.03,23.89,0.59,0.042,0.6,4,WATCH — mixed,20
+RBLBANK,RBL Bank Limited,Financial Services,Mid,InverseHS,Daily,2026-04-23,Pattern Formed,518.23,463.3,11.86,0.042,0.43,4,WATCH — mixed,180
+SHYAMCENT,Shyam Century Ferrous Limited,Basic Materials,Micro,InverseHS,Weekly,2026-04-23,Pattern Formed,3154.3,3586.3,-12.05,0.042,0.54,4,WATCH — mixed,60
+SHRIRAMPPS,Shriram Properties Limited,Real Estate,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,3154.3,3586.3,-12.05,0.042,0.54,4,WATCH — mixed,60
+SHYAMMETL,Shyam Metalics and Energy Limited,,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,3154.3,3586.3,-12.05,0.042,0.54,4,WATCH — mixed,60
+SIEMENS,Siemens Limited,Industrials,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,3154.3,3586.3,-12.05,0.042,0.54,4,WATCH — mixed,60
+SIGACHI,Sigachi Industries Limited,Healthcare,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,3154.3,3586.3,-12.05,0.042,0.54,4,WATCH — mixed,60
+SHYAMTEL,Shyam Telecom Limited,Technology,Micro,InverseHS,Weekly,2026-04-23,Pattern Formed,3154.3,3586.3,-12.05,0.042,0.54,4,WATCH — mixed,60
+SHRIPISTON,SPR Auto Technologies Limited,Consumer Cyclical,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,3154.3,3586.3,-12.05,0.042,0.54,4,WATCH — mixed,60
+FEDFINA,Fedbank Financial Services Limited,Financial Services,Mid,BullFlag,Daily,2026-04-23,Pattern Formed,2275.2,2249.5,1.14,0.041,0.45,4,WATCH — mixed,15
+GPTINFRA,,,Unknown,FlatBase,Weekly,2026-04-23,Pattern Formed,119.98,116.74,2.78,0.041,0.3,4,WATCH — mixed,60
+GPPL,,,Unknown,FlatBase,Weekly,2026-04-23,Pattern Formed,119.98,116.74,2.78,0.041,0.3,4,WATCH — mixed,60
+SOMANYCERA,Somany Ceramics Limited,Industrials,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,72.84,71.67,1.63,0.041,0.47,4,WATCH — mixed,15
+SOLARINDS,Solar Industries India Limited,Basic Materials,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,72.84,71.67,1.63,0.041,0.47,4,WATCH — mixed,15
+GRSE,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,171.51,219.76,-21.96,0.039,0.94,4,WATCH — mixed,60
+STUDDS,STUDDS ACCESSORIES LTD,Consumer Cyclical,Small,BullFlag,Weekly,2026-04-20,Pattern Formed,2243.6,2242.8,0.04,0.039,0.54,4,WATCH — mixed,30
+EQUITASBNK,Equitas Small Finance Bank Limited,Financial Services,Mid,InverseHS,Daily,2026-04-23,Pattern Formed,261.62,241.01,8.55,0.038,0.47,4,WATCH — mixed,80
+SUMICHEM,Sumitomo Chemical India Limited,Basic Materials,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,639.62,691.0,-7.44,0.038,0.68,4,WATCH — mixed,60
+CONCOR,Container Corporation of India Limited,,Large,FlatBase,Weekly,2026-04-23,Pattern Formed,1698.3,1652.7,2.76,0.035,1.13,4,WATCH — mixed,60
+CORONA,CORONA REMEDIES LIMITED,Healthcare,Unknown,FlatBase,Weekly,2026-04-23,Pattern Formed,1698.3,1652.7,2.76,0.035,1.13,4,WATCH — mixed,60
+CORALFINAC,Coral India Finance and Housing Limited,Real Estate,Micro,FlatBase,Daily,2026-04-23,Pattern Formed,1698.3,1652.7,2.76,0.035,1.13,4,WATCH — mixed,60
+MALUPAPER,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,664.6,657.2,1.13,0.035,1.63,4,WATCH — mixed,15
+MAHSEAMLES,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,664.6,657.2,1.13,0.035,1.63,4,WATCH — mixed,15
+NORTHARC,Northern Arc Capital Limited,Financial Services,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,3.87,3.77,2.65,0.035,0.23,4,WATCH — mixed,40
+TASTYBITE,Tasty Bite Eatables Limited,,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,665.55,714.75,-6.88,0.035,0.31,4,WATCH — mixed,60
+TARC,TARC Limited,,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,665.55,714.75,-6.88,0.035,0.31,4,WATCH — mixed,60
+WAAREEENER,WAAREE ENERGIES LIMITED,Technology,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,166.69,144.27,15.54,0.035,0.39,4,WATCH — mixed,40
+INDBANK,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,1249.95,1545.0,-19.1,0.034,0.86,4,WATCH — mixed,80
+MANBA,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1375.9,1429.0,-3.72,0.034,0.68,4,WATCH — mixed,40
+MANORAMA,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1375.9,1429.0,-3.72,0.034,0.68,4,WATCH — mixed,40
+MANINDS,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1375.9,1429.0,-3.72,0.034,0.68,4,WATCH — mixed,40
+RBLBANK,RBL Bank Limited,Financial Services,Mid,BullFlag,Daily,2026-04-23,Pattern Formed,472.2,463.3,1.92,0.034,0.88,4,WATCH — mixed,15
+SONACOMS,Sona BLW Precision Forgings Limited,,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,588.45,573.5,2.61,0.034,0.85,4,WATCH — mixed,15
+SONAL,Sonal Mercantile Limited,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,588.45,573.5,2.61,0.034,0.85,4,WATCH — mixed,15
+ARE&M,Amara Raja Energy & Mobility Limited,Industrials,Mid,DoubleBottom,Weekly,2026-04-23,Pattern Formed,293.3,258.22,13.59,0.033,0.23,4,WATCH — mixed,100
+KHANDSE,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,3896.2,4404.0,-11.53,0.033,0.52,4,WATCH — mixed,80
+MANBA,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,1455.5,1429.0,1.85,0.033,0.71,4,WATCH — mixed,15
+MANORAMA,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,1455.5,1429.0,1.85,0.033,0.71,4,WATCH — mixed,15
+MANINDS,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,1455.5,1429.0,1.85,0.033,0.71,4,WATCH — mixed,15
+NORTHARC,Northern Arc Capital Limited,Financial Services,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,3.68,3.77,-2.39,0.033,0.23,4,WATCH — mixed,60
+SYNCOMF,Syncom Formulations (India) Limited,Healthcare,Small,DoubleBottom,Weekly,2026-04-23,Pattern Formed,298.75,295.3,1.17,0.033,0.64,4,WATCH — mixed,40
+UFBL,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,241.63,312.0,-22.55,0.032,0.74,4,WATCH — mixed,80
+UCOBANK,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,241.63,312.0,-22.55,0.032,0.74,4,WATCH — mixed,80
+TVSSRICHAK,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,241.63,312.0,-22.55,0.032,0.74,4,WATCH — mixed,80
+UCAL,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,241.63,312.0,-22.55,0.032,0.74,4,WATCH — mixed,80
+TVVISION,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,241.63,312.0,-22.55,0.032,0.74,4,WATCH — mixed,80
+UEL,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,241.63,312.0,-22.55,0.032,0.74,4,WATCH — mixed,80
+EMUDHRA,eMudhra Limited,Technology,Small,DoubleBottom,Daily,2026-04-23,Pattern Formed,1652.7,1597.6,3.45,0.031,0.3,4,WATCH — mixed,40
+TIIL,Technocraft Industries (India) Limited,,Mid,FlatBase,Weekly,2026-04-23,Pattern Formed,476.55,466.3,2.2,0.031,0.43,4,WATCH — mixed,60
+INDSWFTLAB,,,Unknown,FlatBase,Weekly,2026-04-23,Pattern Formed,150.28,140.25,7.15,0.03,0.33,4,WATCH — mixed,40
+INNOVANA,,,Unknown,FlatBase,Weekly,2026-04-23,Pattern Formed,150.28,140.25,7.15,0.03,0.33,4,WATCH — mixed,40
+INGERRAND,,,Unknown,FlatBase,Weekly,2026-04-23,Pattern Formed,150.28,140.25,7.15,0.03,0.33,4,WATCH — mixed,40
+SMCGLOBAL,SMC Global Securities Limited,Financial Services,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,336.45,410.35,-18.01,0.03,0.61,4,WATCH — mixed,120
+TATVA,Tatva Chintan Pharma Chem Limited,Basic Materials,Small,BullFlag,Daily,2026-04-23,Pattern Formed,436.05,428.8,1.69,0.03,0.9,4,WATCH — mixed,15
+TBZ,Tribhovandas Bhimji Zaveri Limited,Consumer Cyclical,Small,BullFlag,Daily,2026-04-23,Pattern Formed,436.05,428.8,1.69,0.03,0.9,4,WATCH — mixed,15
+TEXMOPIPES,Texmo Pipes and Products Limited,Industrials,Micro,FlatBase,Weekly,2026-04-23,Pattern Formed,78.35,74.03,5.84,0.029,0.73,4,WATCH — mixed,60
+TGBHOTELS,TGB Banquets and Hotels Limited,Consumer Cyclical,Micro,FlatBase,Weekly,2026-04-23,Pattern Formed,78.35,74.03,5.84,0.029,0.73,4,WATCH — mixed,60
+TEMBO,Tembo Global Industries Limited,,Small,FlatBase,Weekly,2026-04-23,Pattern Formed,78.35,74.03,5.84,0.029,0.73,4,WATCH — mixed,60
+IRISDOREME,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,31.14,36.57,-14.85,0.028,0.82,4,WATCH — mixed,60
+SUMICHEM,Sumitomo Chemical India Limited,Basic Materials,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,627.35,691.0,-9.21,0.028,0.68,4,WATCH — mixed,40
+TEXMOPIPES,Texmo Pipes and Products Limited,Industrials,Micro,BullFlag,Weekly,2026-04-23,Pattern Formed,75.43,74.03,1.89,0.028,0.72,4,WATCH — mixed,15
+TGBHOTELS,TGB Banquets and Hotels Limited,Consumer Cyclical,Micro,BullFlag,Weekly,2026-04-23,Pattern Formed,75.43,74.03,1.89,0.028,0.72,4,WATCH — mixed,15
+TEMBO,Tembo Global Industries Limited,,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,75.43,74.03,1.89,0.028,0.72,4,WATCH — mixed,15
+TFCILTD,Tourism Finance Corporation of India Limited,Financial Services,Small,InverseHS,Daily,2026-04-23,Pattern Formed,100.22,97.0,3.32,0.027,1.08,4,WATCH — mixed,180
+TERASOFT,Tera Software Limited,Technology,Micro,InverseHS,Daily,2026-04-23,Pattern Formed,100.22,97.0,3.32,0.027,1.08,4,WATCH — mixed,180
+PWL,Physicswallah Limited,Consumer Defensive,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,63.61,66.22,-3.94,0.026,0.42,4,WATCH — mixed,60
+RAILTEL,RailTel Corporation of India Limited,,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,1189.55,1267.7,-6.16,0.025,0.22,4,WATCH — mixed,60
+SELMC,SEL Manufacturing Company Limited,Consumer Cyclical,Micro,DoubleBottom,Weekly,2026-04-23,Pattern Formed,303.55,323.5,-6.17,0.024,0.11,4,WATCH — mixed,40
+BRNL,Bharat Road Network Limited,,Micro,InverseHS,Weekly,2026-04-23,Pattern Formed,2830.75,3462.6,-18.25,0.023,0.39,4,WATCH — mixed,60
+SIGMAADV,Sigma Advanced Systems Limited,,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,74.43,77.71,-4.22,0.022,0.86,4,WATCH — mixed,60
+SPMLINFRA,SPML Infra Limited,Industrials,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,101.17,101.0,0.17,0.022,0.97,4,WATCH — mixed,15
+SUNPHARMA,Sun Pharmaceutical Industries Limited,Healthcare,Large,FlatBase,Weekly,2026-04-23,Pattern Formed,1825.9,1684.7,8.38,0.022,0.81,4,WATCH — mixed,60
+BANDHANBNK,Bandhan Bank Limited,Financial Services,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,72.81,78.45,-7.19,0.021,0.48,4,WATCH — mixed,60
+VSSL,Vardhman Special Steels Limited,Basic Materials,Small,FlatBase,Daily,2026-04-23,Pattern Formed,1499.1,1443.8,3.83,0.021,0.58,4,WATCH — mixed,60
+AEGISVOPAK,AEGIS VOPAK TERMINALS LTD,,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,84.13,88.5,-4.94,0.02,0.46,4,WATCH — mixed,80
+AEQUS,AEQUS LIMITED,,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,84.13,88.5,-4.94,0.02,0.46,4,WATCH — mixed,80
+AGARIND,Agarwal Industrial Corporation Limited,Basic Materials,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,84.13,88.5,-4.94,0.02,0.46,4,WATCH — mixed,80
+ORIENTELEC,Orient Electric Limited,Consumer Cyclical,Small,DoubleBottom,Weekly,2026-04-20,Pattern Formed,55.31,65.31,-15.31,0.02,0.45,4,WATCH — mixed,40
+ORIENTCER,Orient Ceratech Limited,Basic Materials,Small,DoubleBottom,Daily,2026-04-20,Pattern Formed,55.31,65.31,-15.31,0.02,0.45,4,WATCH — mixed,40
+ORIENTCEM,Orient Cement Limited,Basic Materials,Small,DoubleBottom,Daily,2026-04-20,Pattern Formed,55.31,65.31,-15.31,0.02,0.45,4,WATCH — mixed,40
+TATASTEEL,Tata Steel Limited,,Large,AscTriangle,Weekly,2026-04-23,Pattern Formed,1176.4,1318.1,-10.75,0.02,0.44,4,WATCH — mixed,30
+TATATECH,Tata Technologies Limited,Technology,Large,AscTriangle,Weekly,2026-04-23,Pattern Formed,1176.4,1318.1,-10.75,0.02,0.44,4,WATCH — mixed,30
+TCIEXP,TCI Express Limited,Industrials,Small,AscTriangle,Weekly,2026-04-23,Pattern Formed,1176.4,1318.1,-10.75,0.02,0.44,4,WATCH — mixed,30
+TCI,Transport Corporation of India Limited,Industrials,Mid,AscTriangle,Weekly,2026-04-23,Pattern Formed,1176.4,1318.1,-10.75,0.02,0.44,4,WATCH — mixed,30
+TATAPOWER,Tata Power Company Limited,,Large,AscTriangle,Weekly,2026-04-23,Pattern Formed,1176.4,1318.1,-10.75,0.02,0.44,4,WATCH — mixed,30
+GENUSPAPER,Genus Paper & Boards Limited,Basic Materials,Micro,InverseHS,Daily,2026-04-23,Pattern Formed,364.05,344.7,5.61,0.019,1.88,4,WATCH — mixed,60
+NIVABUPA,,,Unknown,FlatBase,Weekly,2026-04-23,Pattern Formed,421.45,416.85,1.1,0.019,0.35,4,WATCH — mixed,60
+NKIND,,,Unknown,FlatBase,Weekly,2026-04-23,Pattern Formed,421.45,416.85,1.1,0.019,0.35,4,WATCH — mixed,60
+ORIENTELEC,Orient Electric Limited,Consumer Cyclical,Small,FlatBase,Weekly,2026-04-20,Pattern Formed,68.03,65.31,4.16,0.019,0.45,4,WATCH — mixed,40
+ORIENTCER,Orient Ceratech Limited,Basic Materials,Small,FlatBase,Daily,2026-04-20,Pattern Formed,68.03,65.31,4.16,0.019,0.45,4,WATCH — mixed,40
+ORIENTCEM,Orient Cement Limited,Basic Materials,Small,FlatBase,Daily,2026-04-20,Pattern Formed,68.03,65.31,4.16,0.019,0.45,4,WATCH — mixed,40
+PROZONER,Prozone Realty Limited,Real Estate,Small,InverseHS,Daily,2026-04-23,Pattern Formed,57.12,62.75,-8.97,0.019,0.32,4,WATCH — mixed,180
+PRIVISCL,Privi Speciality Chemicals Limited,Basic Materials,Mid,InverseHS,Daily,2026-04-23,Pattern Formed,57.12,62.75,-8.97,0.019,0.32,4,WATCH — mixed,180
+PROSTARM,PROSTARM INFO SYSTEMS LTD,Industrials,Small,InverseHS,Daily,2026-04-23,Pattern Formed,57.12,62.75,-8.97,0.019,0.32,4,WATCH — mixed,180
+PRSMJOHNSN,Prism Johnson Limited,Basic Materials,Mid,InverseHS,Daily,2026-04-23,Pattern Formed,57.12,62.75,-8.97,0.019,0.32,4,WATCH — mixed,180
+ROLEXRINGS,Rolex Rings Limited,Industrials,Small,BullFlag,Daily,2026-04-23,Pattern Formed,362.1,347.35,4.25,0.019,0.43,4,WATCH — mixed,15
+SVLL,Shree Vasu Logistics Limited,,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,13.14,14.0,-6.14,0.019,0.52,4,WATCH — mixed,60
+HARDWYN,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,943.12,1009.9,-6.61,0.018,0.33,4,WATCH — mixed,80
+STARTECK,Starteck Finance Limited,Financial Services,Micro,InverseHS,Daily,2026-04-23,Pattern Formed,467.45,517.0,-9.58,0.018,0.49,4,WATCH — mixed,80
+STCINDIA,The State Trading Corporation of India Limited,Industrials,Small,InverseHS,Daily,2026-04-23,Pattern Formed,467.45,517.0,-9.58,0.018,0.49,4,WATCH — mixed,80
+VSSL,Vardhman Special Steels Limited,Basic Materials,Small,InverseHS,Daily,2026-04-23,Pattern Formed,1440.25,1443.8,-0.25,0.018,0.58,4,WATCH — mixed,120
+FEDERALBNK,The Federal Bank Limited,Financial Services,Large,FlatBase,Weekly,2026-04-23,Pattern Formed,253.19,250.7,0.99,0.017,0.12,4,WATCH — mixed,40
+TATASTEEL,Tata Steel Limited,,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,1321.4,1318.1,0.25,0.017,0.47,4,WATCH — mixed,15
+TATATECH,Tata Technologies Limited,Technology,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,1321.4,1318.1,0.25,0.017,0.47,4,WATCH — mixed,15
+TCIEXP,TCI Express Limited,Industrials,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,1321.4,1318.1,0.25,0.017,0.47,4,WATCH — mixed,15
+TCI,Transport Corporation of India Limited,Industrials,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,1321.4,1318.1,0.25,0.017,0.47,4,WATCH — mixed,15
+TATAPOWER,Tata Power Company Limited,,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,1321.4,1318.1,0.25,0.017,0.47,4,WATCH — mixed,15
+FEDFINA,Fedbank Financial Services Limited,Financial Services,Mid,DoubleBottom,Daily,2026-04-23,Pattern Formed,2139.9,2249.5,-4.87,0.016,0.34,4,WATCH — mixed,40
+KPIL,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1147.1,1264.1,-9.26,0.016,0.3,4,WATCH — mixed,40
+SCILAL,Shipping Corporation of India Land and Assets Limited,,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,154.99,149.37,3.76,0.016,0.53,4,WATCH — mixed,15
+ANTELOPUS,ANTELOPUS SELAN ENRGY LTD,,Small,FlatBase,Weekly,2026-04-23,Pattern Formed,759.25,742.45,2.26,0.015,0.46,4,WATCH — mixed,60
+COALINDIA,Coal India Limited,,Large,DoubleBottom,Weekly,2026-04-23,Pattern Formed,1529.1,1595.4,-4.16,0.015,0.76,4,WATCH — mixed,60
+PIONRINV,Pioneer Investcorp Limited,,Unknown,FlatBase,Daily,2026-04-23,Pattern Formed,1901.0,1841.3,3.24,0.015,0.55,4,WATCH — mixed,80
+QUINT,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,324.1,319.0,1.6,0.015,0.39,4,WATCH — mixed,15
+RADIANTCMS,Radiant Cash Management Services Limited,,Micro,BullFlag,Weekly,2026-04-23,Pattern Formed,324.1,319.0,1.6,0.015,0.39,4,WATCH — mixed,15
+RADHIKAJWE,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,324.1,319.0,1.6,0.015,0.39,4,WATCH — mixed,15
+CRIZAC,CRIZAC LIMITED,Consumer Defensive,Small,FlatBase,Weekly,2026-04-23,Pattern Formed,272.66,254.02,7.34,0.014,1.35,4,WATCH — mixed,60
+INDIANCARD,,,Unknown,FlatBase,Weekly,2026-04-23,Pattern Formed,977.05,973.55,0.36,0.014,0.72,4,WATCH — mixed,60
+INDIANHUME,,,Unknown,FlatBase,Weekly,2026-04-23,Pattern Formed,977.05,973.55,0.36,0.014,0.72,4,WATCH — mixed,60
+INDIAGLYCO,,,Unknown,FlatBase,Weekly,2026-04-23,Pattern Formed,977.05,973.55,0.36,0.014,0.72,4,WATCH — mixed,60
+KSHINTL,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,729.12,978.25,-25.47,0.014,0.37,4,WATCH — mixed,80
+ORIENTCER,Orient Ceratech Limited,Basic Materials,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,42.81,42.81,-0.0,0.014,0.7,4,WATCH — mixed,15
+ORIENTCEM,Orient Cement Limited,Basic Materials,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,42.81,42.81,-0.0,0.014,0.7,4,WATCH — mixed,15
+JAYBARMARU,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,343.45,407.7,-15.76,0.012,0.95,4,WATCH — mixed,40
+JAYKAY,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,343.45,407.7,-15.76,0.012,0.95,4,WATCH — mixed,40
+JAYSREETEA,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,343.45,407.7,-15.76,0.012,0.95,4,WATCH — mixed,40
+JAYAGROGN,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,343.45,407.7,-15.76,0.012,0.95,4,WATCH — mixed,40
+VINCOFE,Vintage Coffee and Beverages Limited,Consumer Defensive,Small,DoubleBottom,Daily,2026-04-23,Pattern Formed,1320.9,1564.3,-15.56,0.012,0.25,4,WATCH — mixed,40
+NETWORK18,Network18 Media & Investments Limited,,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,3312.9,3882.6,-14.67,0.011,0.79,4,WATCH — mixed,80
+NETWEB,Netweb Technologies India Limited,,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,3312.9,3882.6,-14.67,0.011,0.79,4,WATCH — mixed,80
+TRENT,Trent Limited,Consumer Cyclical,Large,BullFlag,Daily,2026-04-23,Pattern Formed,4434.5,4260.3,4.09,0.011,1.64,4,WATCH — mixed,15
+PPAP,PPAP Automotive Limited,,Micro,AscTriangle,Weekly,2026-04-23,Pattern Formed,25325.0,31435.0,-19.44,0.01,1.02,4,WATCH — mixed,30
+POWERINDIA,,,Unknown,AscTriangle,Weekly,2026-04-23,Pattern Formed,25325.0,31435.0,-19.44,0.01,1.02,4,WATCH — mixed,30
+KSHINTL,,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,811.3,978.25,-17.07,0.008,0.37,4,WATCH — mixed,40
+FSL,Firstsource Solutions Limited,Technology,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,5120.2,4716.1,8.57,0.007,0.5,4,WATCH — mixed,120
+GARUDA,GARUDA CONSTRUCT N ENG L,Industrials,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,651.25,639.0,1.92,0.004,0.46,4,WATCH — mixed,15
+COHANCE,COHANCE LIFESCIENCES LTD,Healthcare,Mid,FlatBase,Weekly,2026-04-20,Pattern Formed,468.15,450.3,3.96,0.003,0.59,4,WATCH — mixed,40
+SOLEX,SOLEX ENERGY LIMITED,Technology,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,399.27,462.75,-13.72,0.002,0.6,4,WATCH — mixed,60
+TIIL,Technocraft Industries (India) Limited,,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,476.55,466.3,2.2,0.002,0.5,4,WATCH — mixed,15
+STARTECK,Starteck Finance Limited,Financial Services,Micro,BullFlag,Daily,2026-04-23,Pattern Formed,517.0,517.0,0.0,0.001,0.37,4,WATCH — mixed,15
+STCINDIA,The State Trading Corporation of India Limited,Industrials,Small,BullFlag,Daily,2026-04-23,Pattern Formed,517.0,517.0,0.0,0.001,0.37,4,WATCH — mixed,15
+TATASTEEL,Tata Steel Limited,,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,1189.35,1318.1,-9.77,0.001,0.44,4,WATCH — mixed,60
+TATATECH,Tata Technologies Limited,Technology,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,1189.35,1318.1,-9.77,0.001,0.44,4,WATCH — mixed,60
+TCIEXP,TCI Express Limited,Industrials,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,1189.35,1318.1,-9.77,0.001,0.44,4,WATCH — mixed,60
+TCI,Transport Corporation of India Limited,Industrials,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,1189.35,1318.1,-9.77,0.001,0.44,4,WATCH — mixed,60
+TATAPOWER,Tata Power Company Limited,,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,1189.35,1318.1,-9.77,0.001,0.44,4,WATCH — mixed,60
+TATACOMM,Tata Communications Limited,Communication Services,Large,FlatBase,Weekly,2026-04-23,Pattern Formed,7323.5,7062.0,3.7,-0.001,1.03,4,WATCH — mixed,40
+MACPOWER,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,966.85,1145.0,-15.56,-0.002,0.38,4,WATCH — mixed,80
+KIRLOSBROS,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,1073.66,1330.0,-19.27,-0.003,0.4,4,WATCH — mixed,120
+KIRLFER,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,1073.66,1330.0,-19.27,-0.003,0.4,4,WATCH — mixed,120
+TASTYBITE,Tasty Bite Eatables Limited,,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,684.65,714.75,-4.21,-0.003,0.31,4,WATCH — mixed,80
+TARC,TARC Limited,,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,684.65,714.75,-4.21,-0.003,0.31,4,WATCH — mixed,80
+GENUSPAPER,Genus Paper & Boards Limited,Basic Materials,Micro,DoubleBottom,Weekly,2026-04-23,Pattern Formed,28.8,27.72,3.9,-0.005,0.67,4,WATCH — mixed,60
+KHANDSE,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,4458.9,4404.0,1.25,-0.007,0.57,4,WATCH — mixed,15
+NIVABUPA,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,329.88,416.85,-20.86,-0.009,0.35,4,WATCH — mixed,80
+NKIND,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,329.88,416.85,-20.86,-0.009,0.35,4,WATCH — mixed,80
+SUNTECK,Sunteck Realty Limited,Real Estate,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,1.71,1.44,18.75,-0.009,0.3,4,WATCH — mixed,180
+TIIL,Technocraft Industries (India) Limited,,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,442.68,466.3,-5.07,-0.009,0.43,4,WATCH — mixed,60
+BANSWRAS,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,292.95,308.0,-4.89,-0.01,0.16,4,WATCH — mixed,180
+BASF,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,292.95,308.0,-4.89,-0.01,0.16,4,WATCH — mixed,180
+SONAMLTD,Sonam Limited,Consumer Cyclical,Micro,FlatBase,Weekly,2026-04-23,Pattern Formed,256.24,238.63,7.38,-0.01,0.34,4,WATCH — mixed,40
+SOMATEX,Soma Textiles & Industries Limited,,Micro,FlatBase,Weekly,2026-04-23,Pattern Formed,256.24,238.63,7.38,-0.01,0.34,4,WATCH — mixed,40
+FEDFINA,Fedbank Financial Services Limited,Financial Services,Mid,FlatBase,Daily,2026-04-23,Pattern Formed,2298.8,2249.5,2.19,-0.011,0.34,4,WATCH — mixed,60
+STARTECK,Starteck Finance Limited,Financial Services,Micro,FlatBase,Daily,2026-04-23,Pattern Formed,517.0,517.0,0.0,-0.011,0.49,4,WATCH — mixed,60
+STCINDIA,The State Trading Corporation of India Limited,Industrials,Small,FlatBase,Daily,2026-04-23,Pattern Formed,517.0,517.0,0.0,-0.011,0.49,4,WATCH — mixed,60
+BIRLACABLE,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,136.31,147.68,-7.7,-0.012,0.47,4,WATCH — mixed,180
+BIRLAMONEY,Aditya Birla Money Limited,,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,136.31,147.68,-7.7,-0.012,0.47,4,WATCH — mixed,180
+JSL,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,128.02,126.53,1.18,-0.012,0.18,4,WATCH — mixed,15
+JSWINFRA,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,128.02,126.53,1.18,-0.012,0.18,4,WATCH — mixed,15
+JTEKTINDIA,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,128.02,126.53,1.18,-0.012,0.18,4,WATCH — mixed,15
+JSWENERGY,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,128.02,126.53,1.18,-0.012,0.18,4,WATCH — mixed,15
+SBICARD,SBI Cards and Payment Services Limited,Financial Services,Large,FlatBase,Daily,2026-04-20,Pattern Formed,328.35,271.0,21.16,-0.012,0.62,4,WATCH — mixed,40
+DISAQ,DISA India Limited,,Unknown,BullFlag,Daily,2026-04-23,Pattern Formed,748.1,728.0,2.76,-0.014,0.6,4,WATCH — mixed,15
+IRISDOREME,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,36.57,36.57,0.0,-0.014,0.96,4,WATCH — mixed,15
+PANACEABIO,Panacea Biotec Limited,,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,118.83,136.5,-12.95,-0.014,1.03,4,WATCH — mixed,60
+PARAGMILK,Parag Milk Foods Limited,Consumer Defensive,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,118.83,136.5,-12.95,-0.014,1.03,4,WATCH — mixed,60
+PARACABLES,Paramount Communications Limited,Technology,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,118.83,136.5,-12.95,-0.014,1.03,4,WATCH — mixed,60
+SELMC,SEL Manufacturing Company Limited,Consumer Cyclical,Micro,InverseHS,Weekly,2026-04-23,Pattern Formed,318.77,323.5,-1.46,-0.015,0.11,4,WATCH — mixed,60
+SHANTIGOLD,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,2194.6,2166.3,1.31,-0.015,2.87,4,WATCH — mixed,60
+SOMANYCERA,Somany Ceramics Limited,Industrials,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,80.53,71.67,12.36,-0.015,0.5,4,WATCH — mixed,180
+SOLARINDS,Solar Industries India Limited,Basic Materials,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,80.53,71.67,12.36,-0.015,0.5,4,WATCH — mixed,180
+SYNCOMF,Syncom Formulations (India) Limited,Healthcare,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,288.2,295.3,-2.4,-0.015,0.64,4,WATCH — mixed,60
+PRICOLLTD,Pricol Limited,,Mid,FlatBase,Weekly,2026-04-23,Pattern Formed,1034.6,1002.85,3.17,-0.016,0.48,4,WATCH — mixed,40
+PREMIERENE,PREMIER ENERGIES LIMITED,,Large,FlatBase,Weekly,2026-04-23,Pattern Formed,1034.6,1002.85,3.17,-0.016,0.48,4,WATCH — mixed,40
+PREMCO,Premco Global Limited,,Unknown,FlatBase,Weekly,2026-04-23,Pattern Formed,1034.6,1002.85,3.17,-0.016,0.48,4,WATCH — mixed,40
+PRICOLLTD,Pricol Limited,,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,1002.85,1002.85,0.0,-0.017,1.09,4,WATCH — mixed,15
+PREMIERENE,PREMIER ENERGIES LIMITED,,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,1002.85,1002.85,0.0,-0.017,1.09,4,WATCH — mixed,15
+PREMCO,Premco Global Limited,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,1002.85,1002.85,0.0,-0.017,1.09,4,WATCH — mixed,15
+SONACOMS,Sona BLW Precision Forgings Limited,,Large,FlatBase,Weekly,2026-04-23,Pattern Formed,593.85,573.5,3.55,-0.017,0.5,4,WATCH — mixed,60
+SONAL,Sonal Mercantile Limited,,Unknown,FlatBase,Weekly,2026-04-23,Pattern Formed,593.85,573.5,3.55,-0.017,0.5,4,WATCH — mixed,60
+SIGMAADV,Sigma Advanced Systems Limited,,Small,FlatBase,Weekly,2026-04-23,Pattern Formed,79.79,77.71,2.68,-0.018,0.86,4,WATCH — mixed,60
+SURAJEST,SURAJ ESTATE DEVELOPERS L,Real Estate,Small,InverseHS,Daily,2026-04-23,Pattern Formed,472.95,425.5,11.15,-0.019,0.3,4,WATCH — mixed,120
+TATVA,Tatva Chintan Pharma Chem Limited,Basic Materials,Small,InverseHS,Daily,2026-04-23,Pattern Formed,391.7,428.8,-8.65,-0.019,0.69,4,WATCH — mixed,60
+TCC,TCC Concept Limited,,Unknown,DoubleBottom,Weekly,2026-04-23,Pattern Formed,630.7,563.25,11.98,-0.019,0.67,4,WATCH — mixed,60
+TBZ,Tribhovandas Bhimji Zaveri Limited,Consumer Cyclical,Small,InverseHS,Daily,2026-04-23,Pattern Formed,391.7,428.8,-8.65,-0.019,0.69,4,WATCH — mixed,60
+HARDWYN,,,Unknown,FlatBase,Weekly,2026-04-23,Pattern Formed,1013.7,1009.9,0.38,-0.022,0.33,4,WATCH — mixed,40
+SURAJEST,SURAJ ESTATE DEVELOPERS L,Real Estate,Small,FlatBase,Daily,2026-04-23,Pattern Formed,471.86,425.5,10.9,-0.022,0.3,4,WATCH — mixed,80
+SKFINDIA,SKF India Limited,Industrials,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,1828.9,1726.7,5.92,-0.023,0.29,4,WATCH — mixed,120
+GPTINFRA,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,109.93,116.74,-5.83,-0.025,0.3,4,WATCH — mixed,60
+GPPL,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,109.93,116.74,-5.83,-0.025,0.3,4,WATCH — mixed,60
+PIIND,PI Industries Limited,,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,4871.4,4806.4,1.35,-0.025,0.93,4,WATCH — mixed,15
+PIONEEREMB,Pioneer Embroideries Limited,,Micro,BullFlag,Weekly,2026-04-23,Pattern Formed,4871.4,4806.4,1.35,-0.025,0.93,4,WATCH — mixed,15
+PITTIENG,Pitti Engineering Limited,Industrials,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,4871.4,4806.4,1.35,-0.025,0.93,4,WATCH — mixed,15
+PIIND,PI Industries Limited,,Large,FlatBase,Weekly,2026-04-23,Pattern Formed,4928.4,4806.4,2.54,-0.027,0.73,4,WATCH — mixed,40
+PIONEEREMB,Pioneer Embroideries Limited,,Micro,FlatBase,Weekly,2026-04-23,Pattern Formed,4928.4,4806.4,2.54,-0.027,0.73,4,WATCH — mixed,40
+PITTIENG,Pitti Engineering Limited,Industrials,Small,FlatBase,Weekly,2026-04-23,Pattern Formed,4928.4,4806.4,2.54,-0.027,0.73,4,WATCH — mixed,40
+SUMICHEM,Sumitomo Chemical India Limited,Basic Materials,Large,FlatBase,Weekly,2026-04-23,Pattern Formed,691.0,691.0,0.0,-0.027,0.68,4,WATCH — mixed,40
+TECHNOE,Techno Electric & Engineering Company Limited,Industrials,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,1724.5,1711.5,0.76,-0.027,0.58,4,WATCH — mixed,20
+CHOLAFIN,Cholamandalam Investment and Finance Company Limited,Financial Services,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,1589.2,1546.2,2.78,-0.028,1.57,4,WATCH — mixed,15
+PRICOLLTD,Pricol Limited,,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,846.98,1002.85,-15.54,-0.028,0.48,4,WATCH — mixed,60
+PREMIERENE,PREMIER ENERGIES LIMITED,,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,846.98,1002.85,-15.54,-0.028,0.48,4,WATCH — mixed,60
+PREMCO,Premco Global Limited,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,846.98,1002.85,-15.54,-0.028,0.48,4,WATCH — mixed,60
+SONACOMS,Sona BLW Precision Forgings Limited,,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,522.75,573.5,-8.85,-0.028,0.5,4,WATCH — mixed,60
+SONAL,Sonal Mercantile Limited,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,522.75,573.5,-8.85,-0.028,0.5,4,WATCH — mixed,60
+APEX,Apex Frozen Foods Limited,,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,221.93,291.93,-23.98,-0.029,1.09,4,WATCH — mixed,60
+APCOTEXIND,Apcotex Industries Limited,,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,221.93,291.93,-23.98,-0.029,1.09,4,WATCH — mixed,60
+APLAPOLLO,APL Apollo Tubes Limited,,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,221.93,291.93,-23.98,-0.029,1.09,4,WATCH — mixed,60
+TIMEX,Timex Group India Limited,Consumer Cyclical,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,386.15,395.15,-2.28,-0.029,0.29,4,WATCH — mixed,60
+SBFC,,,Unknown,FlatBase,Weekly,2026-04-23,Pattern Formed,98.67,96.04,2.74,-0.031,0.15,4,WATCH — mixed,60
+EMUDHRA,eMudhra Limited,Technology,Small,InverseHS,Daily,2026-04-23,Pattern Formed,1484.3,1597.6,-7.09,-0.032,0.3,4,WATCH — mixed,120
+PPAP,PPAP Automotive Limited,,Micro,BullFlag,Weekly,2026-04-23,Pattern Formed,31435.0,31435.0,0.0,-0.033,1.14,4,WATCH — mixed,15
+POWERINDIA,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,31435.0,31435.0,0.0,-0.033,1.14,4,WATCH — mixed,15
+CONCOR,Container Corporation of India Limited,,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,1570.85,1652.7,-4.95,-0.034,1.13,4,WATCH — mixed,80
+CORONA,CORONA REMEDIES LIMITED,Healthcare,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,1570.85,1652.7,-4.95,-0.034,1.13,4,WATCH — mixed,80
+CORALFINAC,Coral India Finance and Housing Limited,Real Estate,Micro,InverseHS,Daily,2026-04-23,Pattern Formed,1570.85,1652.7,-4.95,-0.034,1.13,4,WATCH — mixed,80
+SELMC,SEL Manufacturing Company Limited,Consumer Cyclical,Micro,FlatBase,Weekly,2026-04-23,Pattern Formed,345.97,323.5,6.95,-0.038,0.11,4,WATCH — mixed,60
+CONCOR,Container Corporation of India Limited,,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,1652.7,1652.7,0.0,-0.04,0.68,4,WATCH — mixed,15
+CORONA,CORONA REMEDIES LIMITED,Healthcare,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,1652.7,1652.7,0.0,-0.04,0.68,4,WATCH — mixed,15
+CORALFINAC,Coral India Finance and Housing Limited,Real Estate,Micro,BullFlag,Daily,2026-04-23,Pattern Formed,1652.7,1652.7,0.0,-0.04,0.68,4,WATCH — mixed,15
+TECHNOE,Techno Electric & Engineering Company Limited,Industrials,Mid,FlatBase,Weekly,2026-04-23,Pattern Formed,1846.7,1711.5,7.9,-0.04,0.15,4,WATCH — mixed,60
+FSL,Firstsource Solutions Limited,Technology,Mid,FlatBase,Weekly,2026-04-23,Pattern Formed,5254.0,4716.1,11.41,-0.041,0.5,4,WATCH — mixed,40
+JSL,,,Unknown,FlatBase,Weekly,2026-04-23,Pattern Formed,129.45,126.53,2.31,-0.041,0.48,4,WATCH — mixed,60
+JSWINFRA,,,Unknown,FlatBase,Weekly,2026-04-23,Pattern Formed,129.45,126.53,2.31,-0.041,0.48,4,WATCH — mixed,60
+JTEKTINDIA,,,Unknown,FlatBase,Weekly,2026-04-23,Pattern Formed,129.45,126.53,2.31,-0.041,0.48,4,WATCH — mixed,60
+JSWENERGY,,,Unknown,FlatBase,Weekly,2026-04-23,Pattern Formed,129.45,126.53,2.31,-0.041,0.48,4,WATCH — mixed,60
+SEPC,SEPC Limited,Industrials,Small,FlatBase,Daily,2026-04-20,Pattern Formed,351.36,323.5,8.61,-0.041,0.26,4,WATCH — mixed,40
+COHANCE,COHANCE LIFESCIENCES LTD,Healthcare,Mid,BullFlag,Weekly,2026-04-20,Pattern Formed,450.3,450.3,0.0,-0.043,0.48,4,WATCH — mixed,15
+INDIANCARD,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,923.41,973.55,-5.15,-0.044,0.72,4,WATCH — mixed,60
+INDIANHUME,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,923.41,973.55,-5.15,-0.044,0.72,4,WATCH — mixed,60
+INDIAGLYCO,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,923.41,973.55,-5.15,-0.044,0.72,4,WATCH — mixed,60
+PRITIKAUTO,Pritika Auto Industries Limited,Industrials,Micro,FlatBase,Daily,2026-04-20,Pattern Formed,314.45,279.45,12.52,-0.044,0.23,4,WATCH — mixed,40
+LUPIN,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,1318.95,1691.8,-22.04,-0.045,0.52,4,WATCH — mixed,80
+MAANALU,,,Unknown,InverseHS,Weekly,2026-04-23,Pattern Formed,1318.95,1691.8,-22.04,-0.045,0.52,4,WATCH — mixed,80
+SELMC,SEL Manufacturing Company Limited,Consumer Cyclical,Micro,BullFlag,Weekly,2026-04-23,Pattern Formed,332.85,323.5,2.89,-0.045,0.42,4,WATCH — mixed,15
+KSHINTL,,,Unknown,FlatBase,Weekly,2026-04-23,Pattern Formed,996.1,978.25,1.82,-0.047,0.37,4,WATCH — mixed,40
+INDIANCARD,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,977.05,973.55,0.36,-0.049,1.11,4,WATCH — mixed,15
+INDIANHUME,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,977.05,973.55,0.36,-0.049,1.11,4,WATCH — mixed,15
+INDIAGLYCO,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,977.05,973.55,0.36,-0.049,1.11,4,WATCH — mixed,15
+DABUR,Dabur India Limited,Consumer Defensive,Large,InverseHS,Weekly,2026-04-23,Pattern Formed,118.96,128.3,-7.28,-0.051,0.2,4,WATCH — mixed,80
+CYIENTDLM,Cyient DLM Limited,Technology,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,118.96,128.3,-7.28,-0.051,0.2,4,WATCH — mixed,80
+ORIENTCER,Orient Ceratech Limited,Basic Materials,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,40.58,42.81,-5.21,-0.052,0.21,4,WATCH — mixed,80
+ORIENTCEM,Orient Cement Limited,Basic Materials,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,40.58,42.81,-5.21,-0.052,0.21,4,WATCH — mixed,80
+DEVIT,Dev Information Technology Limited,Technology,Micro,FlatBase,Weekly,2026-04-23,Pattern Formed,276.31,269.1,2.68,-0.055,0.48,4,WATCH — mixed,60
+DEVYANI,Devyani International Limited,Consumer Cyclical,Mid,FlatBase,Weekly,2026-04-23,Pattern Formed,276.31,269.1,2.68,-0.055,0.48,4,WATCH — mixed,60
+DHARMAJ,Dharmaj Crop Guard Limited,Basic Materials,Small,FlatBase,Weekly,2026-04-23,Pattern Formed,276.31,269.1,2.68,-0.055,0.48,4,WATCH — mixed,60
+DGCONTENT,Digicontent Limited,Communication Services,Micro,FlatBase,Weekly,2026-04-23,Pattern Formed,276.31,269.1,2.68,-0.055,0.48,4,WATCH — mixed,60
+DHANUKA,Dhanuka Agritech Limited,Basic Materials,Small,FlatBase,Weekly,2026-04-23,Pattern Formed,276.31,269.1,2.68,-0.055,0.48,4,WATCH — mixed,60
+DENTA,DENTA WATER N INFRA SOL L,Industrials,Small,FlatBase,Weekly,2026-04-23,Pattern Formed,276.31,269.1,2.68,-0.055,0.48,4,WATCH — mixed,60
+EQUITASBNK,Equitas Small Finance Bank Limited,Financial Services,Mid,BullFlag,Daily,2026-04-23,Pattern Formed,248.64,241.01,3.17,-0.055,0.62,4,WATCH — mixed,15
+VCL,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,771.0,737.25,4.58,-0.055,0.79,4,WATCH — mixed,15
+VARROC,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,771.0,737.25,4.58,-0.055,0.79,4,WATCH — mixed,15
+VARDHACRLC,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,771.0,737.25,4.58,-0.055,0.79,4,WATCH — mixed,15
+VASCONEQ,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,771.0,737.25,4.58,-0.055,0.79,4,WATCH — mixed,15
+TEXMOPIPES,Texmo Pipes and Products Limited,Industrials,Micro,InverseHS,Weekly,2026-04-23,Pattern Formed,72.35,74.03,-2.27,-0.056,0.73,4,WATCH — mixed,60
+TGBHOTELS,TGB Banquets and Hotels Limited,Consumer Cyclical,Micro,InverseHS,Weekly,2026-04-23,Pattern Formed,72.35,74.03,-2.27,-0.056,0.73,4,WATCH — mixed,60
+TEMBO,Tembo Global Industries Limited,,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,72.35,74.03,-2.27,-0.056,0.73,4,WATCH — mixed,60
+TIMEX,Timex Group India Limited,Consumer Cyclical,Unknown,FlatBase,Weekly,2026-04-23,Pattern Formed,424.55,395.15,7.44,-0.058,0.29,4,WATCH — mixed,120
+TATVA,Tatva Chintan Pharma Chem Limited,Basic Materials,Small,FlatBase,Daily,2026-04-23,Pattern Formed,436.05,428.8,1.69,-0.059,0.69,4,WATCH — mixed,60
+TBZ,Tribhovandas Bhimji Zaveri Limited,Consumer Cyclical,Small,FlatBase,Daily,2026-04-23,Pattern Formed,436.05,428.8,1.69,-0.059,0.69,4,WATCH — mixed,60
+THAKDEV,Thakkers Developers Limited,,Unknown,FlatBase,Weekly,2026-04-23,Pattern Formed,4278.4,3790.0,12.89,-0.06,1.19,4,WATCH — mixed,40
+THOMASCOOK,,,Unknown,FlatBase,Weekly,2026-04-23,Pattern Formed,4278.4,3790.0,12.89,-0.06,1.19,4,WATCH — mixed,40
+THANGAMAYL,Thangamayil Jewellery Limited,Consumer Cyclical,Mid,FlatBase,Daily,2026-04-23,Pattern Formed,4278.4,3790.0,12.89,-0.06,1.19,4,WATCH — mixed,40
+SCILAL,Shipping Corporation of India Land and Assets Limited,,Small,InverseHS,Weekly,2026-04-23,Pattern Formed,135.9,149.37,-9.02,-0.062,0.54,4,WATCH — mixed,60
+SONAMLTD,Sonam Limited,Consumer Cyclical,Micro,BullFlag,Weekly,2026-04-23,Pattern Formed,241.63,238.63,1.26,-0.064,0.46,4,WATCH — mixed,15
+SOMATEX,Soma Textiles & Industries Limited,,Micro,BullFlag,Weekly,2026-04-23,Pattern Formed,241.63,238.63,1.26,-0.064,0.46,4,WATCH — mixed,15
+TFCILTD,Tourism Finance Corporation of India Limited,Financial Services,Small,BullFlag,Daily,2026-04-23,Pattern Formed,98.97,97.0,2.03,-0.064,4.35,4,WATCH — mixed,20
+TERASOFT,Tera Software Limited,Technology,Micro,BullFlag,Daily,2026-04-23,Pattern Formed,98.97,97.0,2.03,-0.064,4.35,4,WATCH — mixed,20
+VSTTILLERS,,,Unknown,FlatBase,Weekly,2026-04-23,Pattern Formed,1488.4,1460.9,1.88,-0.066,0.42,4,WATCH — mixed,60
+WALCHANNAG,Walchandnagar Industries Limited,Industrials,Small,FlatBase,Weekly,2026-04-23,Pattern Formed,1488.4,1460.9,1.88,-0.066,0.42,4,WATCH — mixed,60
+VSTIND,VST Industries Limited,,Small,FlatBase,Weekly,2026-04-23,Pattern Formed,1488.4,1460.9,1.88,-0.066,0.42,4,WATCH — mixed,60
+VSTL,Vibhor Steel Tubes Limited,,Micro,FlatBase,Weekly,2026-04-23,Pattern Formed,1488.4,1460.9,1.88,-0.066,0.42,4,WATCH — mixed,60
+ESSARSHPNG,Essar Shipping Limited,,Small,FlatBase,Weekly,2026-04-23,Pattern Formed,2717.9,2679.8,1.42,-0.067,1.39,4,WATCH — mixed,40
+ESSENTIA,Integra Essentia Limited,,Micro,FlatBase,Weekly,2026-04-23,Pattern Formed,2717.9,2679.8,1.42,-0.067,1.39,4,WATCH — mixed,40
+ESAFSFB,ESAF Small Finance Bank,,Small,FlatBase,Weekly,2026-04-23,Pattern Formed,2717.9,2679.8,1.42,-0.067,1.39,4,WATCH — mixed,40
+ESABINDIA,ESAB India Limited,,Mid,FlatBase,Weekly,2026-04-23,Pattern Formed,2717.9,2679.8,1.42,-0.067,1.39,4,WATCH — mixed,40
+ESCORTS,Escorts Kubota Limited,,Large,FlatBase,Weekly,2026-04-23,Pattern Formed,2717.9,2679.8,1.42,-0.067,1.39,4,WATCH — mixed,40
+GOCOLORS,Go Fashion (India) Limited,Consumer Cyclical,Small,FlatBase,Weekly,2026-04-20,Pattern Formed,108.35,96.78,11.95,-0.067,0.66,4,WATCH — mixed,40
+GOCLCORP,GOCL Corporation Limited,Basic Materials,Small,FlatBase,Daily,2026-04-20,Pattern Formed,108.35,96.78,11.95,-0.067,0.66,4,WATCH — mixed,40
+MALUPAPER,,,Unknown,FlatBase,Weekly,2026-04-23,Pattern Formed,664.6,657.2,1.13,-0.068,1.29,4,WATCH — mixed,60
+MAHSEAMLES,,,Unknown,FlatBase,Weekly,2026-04-23,Pattern Formed,664.6,657.2,1.13,-0.068,1.29,4,WATCH — mixed,60
+ZENTEC,Zen Technologies Limited,Industrials,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,216.17,221.0,-2.19,-0.069,1.12,4,WATCH — mixed,60
+ZENSARTECH,Zensar Technologies Limited,Technology,Mid,InverseHS,Weekly,2026-04-23,Pattern Formed,216.17,221.0,-2.19,-0.069,1.12,4,WATCH — mixed,60
+ADOR,Ador Welding Limited,Industrials,Small,InverseHS,Daily,2026-04-23,Pattern Formed,1112.33,1037.1,7.25,-0.07,0.26,4,WATCH — mixed,180
+ECLERX,eClerx Services Limited,Technology,Mid,InverseHS,Daily,2026-04-23,Pattern Formed,162.77,211.0,-22.86,-0.07,0.14,4,WATCH — mixed,60
+TIMEX,Timex Group India Limited,Consumer Cyclical,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,395.6,395.15,0.11,-0.07,0.4,4,WATCH — mixed,15
+QUINT,,,Unknown,FlatBase,Weekly,2026-04-23,Pattern Formed,327.1,319.0,2.54,-0.077,0.36,4,WATCH — mixed,40
+RADIANTCMS,Radiant Cash Management Services Limited,,Micro,FlatBase,Weekly,2026-04-23,Pattern Formed,327.1,319.0,2.54,-0.077,0.36,4,WATCH — mixed,40
+RADHIKAJWE,,,Unknown,FlatBase,Weekly,2026-04-23,Pattern Formed,327.1,319.0,2.54,-0.077,0.36,4,WATCH — mixed,40
+POLICYBZR,PB Fintech Limited,Financial Services,Large,BullFlag,Daily,2026-04-23,Pattern Formed,933.65,914.05,2.14,-0.079,0.17,4,WATCH — mixed,20
+SONAMLTD,Sonam Limited,Consumer Cyclical,Micro,InverseHS,Weekly,2026-04-23,Pattern Formed,207.33,238.63,-13.12,-0.079,0.34,4,WATCH — mixed,60
+SOMATEX,Soma Textiles & Industries Limited,,Micro,InverseHS,Weekly,2026-04-23,Pattern Formed,207.33,238.63,-13.12,-0.079,0.34,4,WATCH — mixed,60
+BSHSL,Bombay Super Hybrid Seeds Limited,,Small,FlatBase,Weekly,2026-04-23,Pattern Formed,1192.2,1161.65,2.63,-0.082,0.45,4,WATCH — mixed,40
+BSL,BSL Limited,,Micro,FlatBase,Weekly,2026-04-23,Pattern Formed,1192.2,1161.65,2.63,-0.082,0.45,4,WATCH — mixed,40
+BSE,,,Unknown,FlatBase,Weekly,2026-04-23,Pattern Formed,1192.2,1161.65,2.63,-0.082,0.45,4,WATCH — mixed,40
+BUILDPRO,Shankara Buildpro Limited,Consumer Cyclical,Small,FlatBase,Daily,2026-04-23,Pattern Formed,1192.2,1161.65,2.63,-0.082,0.45,4,WATCH — mixed,40
+OMAXAUTO,Omax Autos Limited,Consumer Cyclical,Micro,FlatBase,Daily,2026-04-20,Pattern Formed,494.24,474.7,4.12,-0.083,0.66,4,WATCH — mixed,40
+VCL,,,Unknown,FlatBase,Weekly,2026-04-23,Pattern Formed,787.5,737.25,6.82,-0.083,0.87,4,WATCH — mixed,60
+VARROC,,,Unknown,FlatBase,Weekly,2026-04-23,Pattern Formed,787.5,737.25,6.82,-0.083,0.87,4,WATCH — mixed,60
+VARDHACRLC,,,Unknown,FlatBase,Weekly,2026-04-23,Pattern Formed,787.5,737.25,6.82,-0.083,0.87,4,WATCH — mixed,60
+VASCONEQ,,,Unknown,FlatBase,Weekly,2026-04-23,Pattern Formed,787.5,737.25,6.82,-0.083,0.87,4,WATCH — mixed,60
+CRIZAC,CRIZAC LIMITED,Consumer Defensive,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,261.37,254.02,2.89,-0.091,1.33,4,WATCH — mixed,15
+KPIL,,,Unknown,FlatBase,Weekly,2026-04-23,Pattern Formed,1266.0,1264.1,0.15,-0.091,0.3,4,WATCH — mixed,60
+TIMKEN,Timken India Limited,Industrials,Large,FlatBase,Weekly,2026-04-20,Pattern Formed,485.8,466.3,4.18,-0.095,1.27,4,WATCH — mixed,40
+SOMANYCERA,Somany Ceramics Limited,Industrials,Small,BullFlag,Daily,2026-04-23,Pattern Formed,65.57,65.57,0.0,-0.096,0.97,4,WATCH — mixed,15
+SOLARINDS,Solar Industries India Limited,Basic Materials,Large,BullFlag,Daily,2026-04-23,Pattern Formed,65.57,65.57,0.0,-0.096,0.97,4,WATCH — mixed,15
+OMAXAUTO,Omax Autos Limited,Consumer Cyclical,Micro,BullFlag,Daily,2026-04-20,Pattern Formed,480.15,474.7,1.15,-0.098,0.63,4,WATCH — mixed,15
+PANACEABIO,Panacea Biotec Limited,,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,136.5,136.5,0.0,-0.098,0.63,4,WATCH — mixed,15
+PARAGMILK,Parag Milk Foods Limited,Consumer Defensive,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,136.5,136.5,0.0,-0.098,0.63,4,WATCH — mixed,15
+PARACABLES,Paramount Communications Limited,Technology,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,136.5,136.5,0.0,-0.098,0.63,4,WATCH — mixed,15
+DABUR,Dabur India Limited,Consumer Defensive,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,130.83,128.3,1.97,-0.108,0.37,4,WATCH — mixed,15
+CYIENTDLM,Cyient DLM Limited,Technology,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,130.83,128.3,1.97,-0.108,0.37,4,WATCH — mixed,15
+BSHSL,Bombay Super Hybrid Seeds Limited,,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,1192.2,1161.65,2.63,-0.11,0.52,4,WATCH — mixed,15
+BSL,BSL Limited,,Micro,BullFlag,Weekly,2026-04-23,Pattern Formed,1192.2,1161.65,2.63,-0.11,0.52,4,WATCH — mixed,15
+BSE,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,1192.2,1161.65,2.63,-0.11,0.52,4,WATCH — mixed,15
+BUILDPRO,Shankara Buildpro Limited,Consumer Cyclical,Small,BullFlag,Daily,2026-04-23,Pattern Formed,1192.2,1161.65,2.63,-0.11,0.52,4,WATCH — mixed,15
+GPTINFRA,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,119.63,116.74,2.48,-0.113,0.3,4,WATCH — mixed,15
+GPPL,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,119.63,116.74,2.48,-0.113,0.3,4,WATCH — mixed,15
+RAILTEL,RailTel Corporation of India Limited,,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,1293.8,1267.7,2.06,-0.113,0.45,4,WATCH — mixed,15
+ANTELOPUS,ANTELOPUS SELAN ENRGY LTD,,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,759.25,742.45,2.26,-0.114,0.29,4,WATCH — mixed,15
+TCC,TCC Concept Limited,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,583.45,563.25,3.59,-0.135,1.11,4,WATCH — mixed,15
+TATACOMM,Tata Communications Limited,Communication Services,Large,BullFlag,Weekly,2026-04-23,Pattern Formed,7323.5,7062.0,3.7,-0.143,1.12,4,WATCH — mixed,20
+HAPPYFORGE,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,1355.0,1355.0,0.0,-0.146,0.96,4,WATCH — mixed,15
+HATSUN,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,1355.0,1355.0,0.0,-0.146,0.96,4,WATCH — mixed,15
+EMUDHRA,eMudhra Limited,Technology,Small,BullFlag,Daily,2026-04-23,Pattern Formed,1632.6,1597.6,2.19,-0.148,0.41,4,WATCH — mixed,15
+IPCALAB,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,140.45,137.5,2.15,-0.175,0.62,4,WATCH — mixed,15
+HARDWYN,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,1013.7,1009.9,0.38,-0.193,0.42,4,WATCH — mixed,15
+GENUSPAPER,Genus Paper & Boards Limited,Basic Materials,Micro,BullFlag,Daily,2026-04-23,Pattern Formed,352.65,344.7,2.31,-0.208,2.32,4,WATCH — mixed,30
+THAKDEV,Thakkers Developers Limited,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,4210.6,3790.0,11.1,-0.211,1.5,4,WATCH — mixed,15
+THOMASCOOK,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,4210.6,3790.0,11.1,-0.211,1.5,4,WATCH — mixed,15
+THANGAMAYL,Thangamayil Jewellery Limited,Consumer Cyclical,Mid,BullFlag,Daily,2026-04-23,Pattern Formed,4210.6,3790.0,11.1,-0.211,1.5,4,WATCH — mixed,15
+SIKKO,Sikko Industries Limited,Basic Materials,Micro,BullFlag,Weekly,2026-04-23,Pattern Formed,860.85,853.75,0.83,-0.229,0.56,4,WATCH — mixed,15
+SIKA,Sika Interplant Systems Limited,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,860.85,853.75,0.83,-0.229,0.56,4,WATCH — mixed,15
+BI,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,691.25,691.25,0.0,-0.231,0.53,4,WATCH — mixed,30
+BIGBLOC,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,691.25,691.25,0.0,-0.231,0.53,4,WATCH — mixed,30
+BIKAJI,Bikaji Foods International Limited,Consumer Defensive,Mid,BullFlag,Daily,2026-04-23,Pattern Formed,691.25,691.25,0.0,-0.231,0.53,4,WATCH — mixed,30
+SIGMAADV,Sigma Advanced Systems Limited,,Small,BullFlag,Weekly,2026-04-23,Pattern Formed,79.79,77.71,2.68,-0.24,0.72,4,WATCH — mixed,20
+SURAJEST,SURAJ ESTATE DEVELOPERS L,Real Estate,Small,BullFlag,Daily,2026-04-23,Pattern Formed,428.7,425.5,0.75,-0.241,0.17,4,WATCH — mixed,20
+MONEYBOXX,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,601.7,600.15,0.26,-0.242,0.57,4,WATCH — mixed,20
+MOLDTECH,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,601.7,600.15,0.26,-0.242,0.57,4,WATCH — mixed,20
+MOL,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,601.7,600.15,0.26,-0.242,0.57,4,WATCH — mixed,20
+MOLDTKPAC,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,601.7,600.15,0.26,-0.242,0.57,4,WATCH — mixed,20
+MONARCH,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,601.7,600.15,0.26,-0.242,0.57,4,WATCH — mixed,20
+AIAENG,AIA Engineering Limited,Industrials,Large,BullFlag,Weekly,2026-04-20,Pattern Formed,4043.4,4043.4,0.0,-0.246,0.64,4,WATCH — mixed,40
+ORIENTELEC,Orient Electric Limited,Consumer Cyclical,Small,BullFlag,Weekly,2026-04-20,Pattern Formed,67.81,65.31,3.83,-0.289,0.34,4,WATCH — mixed,15
+ORIENTCER,Orient Ceratech Limited,Basic Materials,Small,BullFlag,Daily,2026-04-20,Pattern Formed,67.81,65.31,3.83,-0.289,0.34,4,WATCH — mixed,15
+ORIENTCEM,Orient Cement Limited,Basic Materials,Small,BullFlag,Daily,2026-04-20,Pattern Formed,67.81,65.31,3.83,-0.289,0.34,4,WATCH — mixed,15
+AARTIIND,Aarti Industries Limited,Basic Materials,Mid,BullFlag,Weekly,2026-04-23,Pattern Formed,24.76,23.95,3.38,-0.299,0.09,4,WATCH — mixed,20
+JAGRAN,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,202.72,202.72,-0.0,-0.302,0.88,4,WATCH — mixed,30
+IXIGO,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,202.72,202.72,-0.0,-0.302,0.88,4,WATCH — mixed,30
+JAMNAAUTO,,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,202.72,202.72,-0.0,-0.302,0.88,4,WATCH — mixed,30
+GOCOLORS,Go Fashion (India) Limited,Consumer Cyclical,Small,BullFlag,Weekly,2026-04-20,Pattern Formed,100.63,96.78,3.98,-0.311,0.71,4,WATCH — mixed,40
+GOCLCORP,GOCL Corporation Limited,Basic Materials,Small,BullFlag,Daily,2026-04-20,Pattern Formed,100.63,96.78,3.98,-0.311,0.71,4,WATCH — mixed,40
+TIMKEN,Timken India Limited,Industrials,Large,BullFlag,Weekly,2026-04-20,Pattern Formed,470.0,466.3,0.79,-0.313,1.18,4,WATCH — mixed,15
+TECHNVISN,TechNVision Ventures Limited,,Unknown,BullFlag,Weekly,2026-04-23,Pattern Formed,269.96,256.0,5.45,-0.342,0.19,4,WATCH — mixed,15
+ELDEHSG,Eldeco Housing and Industries Limited,Real Estate,Small,BullFlag,Weekly,2026-04-20,Pattern Formed,943.25,855.0,10.32,-0.349,0.37,4,WATCH — mixed,40
